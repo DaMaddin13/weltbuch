@@ -53,7 +53,7 @@ export function ChapterView({
                 <div className="thread" key={t.id}>
                   <span>{t.since}</span>
                   <b>{t.title}</b>
-                  {t.summary}
+                  <div className="summary">{t.summary}</div>
                   <div className="pill">{t.status}</div>
                 </div>
               ))}

@@ -48,7 +48,7 @@ a { color: inherit; }
 
 .hero {
   position: relative;
-  min-height: 78vh;
+  min-height: calc(100svh - 72px);
   display: grid;
   place-items: end center;
   overflow: hidden;
@@ -182,18 +182,24 @@ a { color: inherit; }
   margin-bottom: 12px;
 }
 .thread {
-  padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 12px 0;
   border-top: 1px solid rgba(176,138,62,0.18);
   font-size: 14px; line-height: 1.4;
 }
 .thread:first-of-type { border-top: 0; padding-top: 0; }
 .thread b { display: block; color: #fff; font-weight: 600; margin-bottom: 3px; }
 .thread span { opacity: 0.75; font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; }
+.thread .summary { margin: 0 0 8px; }
 .pill {
-  display: inline-block; margin-top: 6px;
+  display: block;
+  width: fit-content;
+  margin-top: 0;
   font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase;
   color: var(--gold-lite); border: 1px solid rgba(176,138,62,0.4);
-  padding: 2px 7px;
+  padding: 3px 8px;
 }
 
 .section-title {
@@ -305,21 +311,26 @@ footer {
   .topbar {
     flex-direction: column;
     align-items: stretch;
-    padding: 10px 16px 8px;
+    padding: 8px 16px 6px;
     gap: 0;
   }
-  .brand { justify-content: center; padding: 4px 0 8px; }
+  .brand { justify-content: center; padding: 2px 0 6px; }
   .brand .name { font-size: 20px; }
   .topbar nav {
     justify-content: center;
     width: 100%;
     gap: 4px;
     border-top: 1px solid rgba(176,138,62,0.22);
-    padding: 8px 0 4px;
+    padding: 6px 0 2px;
   }
   .topbar nav a { padding: 8px 12px; font-size: 11px; }
-  .hero { min-height: 70vh; }
-  .hero-copy { padding: 0 18px 36px; }
-  .hero h1 { font-size: clamp(30px, 9vw, 46px); }
+  .hero {
+    min-height: calc(100svh - 108px);
+    place-items: center;
+  }
+  .hero-copy { padding: 28px 18px 32px; }
+  .hero h1 { font-size: clamp(28px, 8.4vw, 42px); }
+  .hero p.lede { font-size: 18px; margin-bottom: 16px; }
   .kicker { font-size: 11px; letter-spacing: 0.14em; max-width: 92%; }
+  .cta { margin-top: 18px; }
 }

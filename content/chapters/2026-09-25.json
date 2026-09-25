@@ -83,75 +83,93 @@
     },
     {
       "id": "q2",
-      "text": "New York Times, Gästeliste des Staatsdiners (Bezos, Musk, Huang, Altman, Cook)."
+      "text": "New York Times, Gästeliste des Staatsdiners (Bezos, Musk, Huang, Altman, Cook).",
+      "url": "https://www.nytimes.com/2026/09/24/us/politics/full-guest-list-trump-state-dinner-xi.html"
     },
     {
       "id": "q3",
-      "text": "Nhan Dan / Xinhua, 25. Sept. 2026: Xi fordert Umsetzung strategischer Stabilität."
+      "text": "Nhan Dan / Xinhua, 25. Sept. 2026: Xi fordert Umsetzung strategischer Stabilität.",
+      "url": "https://en.nhandan.vn/world-news-in-brief-september-25-post167014.html"
     },
     {
       "id": "q4",
-      "text": "The Vindicator, 25. Sept. 2026: Thukydides-Falle, Taiwan, KI; Zeremonie statt Substanz."
+      "text": "The Vindicator, 25. Sept. 2026: Thukydides-Falle, Taiwan, KI; Zeremonie statt Substanz.",
+      "url": "https://www.vindy.com/news/national-news/2026/09/nation-and-world-at-a-glance-for-september-25/"
     },
     {
       "id": "q5",
-      "text": "WORLD Radio / Vindicator: Richter stellt Zugang für zuvor ausgesperrte Medien wieder her."
+      "text": "WORLD Radio / Vindicator: Richter stellt Zugang für zuvor ausgesperrte Medien wieder her.",
+      "url": "https://wng.org/podcasts/friday-morning-news-september-25-2026-1790279932"
     },
     {
       "id": "q6",
-      "text": "Business Standard, 25. Sept. 2026: Netanyahu vor der UN, Walkouts, Verteidigung des Gaza-Kriegs."
+      "text": "Business Standard, 25. Sept. 2026: Netanyahu vor der UN, Walkouts, Verteidigung des Gaza-Kriegs.",
+      "url": "https://www.business-standard.com/world-news"
     },
     {
       "id": "q7",
-      "text": "Euronews-Bulletin, 25. Sept. 2026: Delegationen verlassen den Saal."
+      "text": "Euronews-Bulletin, 25. Sept. 2026: Delegationen verlassen den Saal.",
+      "url": "https://www.youtube.com/watch?v=QrsVevHZPAk"
     },
     {
       "id": "q8",
-      "text": "SCMP / Dawn: Proteste in New York, Festnahmen, Rede gegen Kritiker."
+      "text": "SCMP / Dawn: Proteste in New York, Festnahmen, Rede gegen Kritiker.",
+      "url": "https://www.dawn.com/newspaper/back-page/2026-09-25"
     },
     {
       "id": "q9",
-      "text": "WORLD Radio: Pezeshkian, keine Nuklearwaffe laut Khamenei."
+      "text": "WORLD Radio: Pezeshkian, keine Nuklearwaffe laut Khamenei.",
+      "url": "https://wng.org/podcasts/friday-morning-news-september-25-2026-1790279932"
     },
     {
       "id": "q10",
-      "text": "NYT / Le Monde: Sieben-Tage-Plan, Hormuz; EU-Dieselrekorde."
+      "text": "NYT / Le Monde: Sieben-Tage-Plan, Hormuz; EU-Dieselrekorde.",
+      "url": "https://www.nytimes.com/section/world/middleeast"
     },
     {
       "id": "q11",
-      "text": "Dawn, 25. Sept. 2026: Saudi-Abwehr fängt sechs Huthi-Raketen ab."
+      "text": "Dawn, 25. Sept. 2026: Saudi-Abwehr fängt sechs Huthi-Raketen ab.",
+      "url": "https://www.dawn.com/newspaper/back-page/2026-09-25"
     },
     {
       "id": "q12",
-      "text": "SCMP / NYT: Frankreich schützt Energieanlagen in Yanbu."
+      "text": "SCMP / NYT: Frankreich schützt Energieanlagen in Yanbu.",
+      "url": "https://www.scmp.com/news/world/middle-east"
     },
     {
       "id": "q13",
-      "text": "Euronews / Wikipedia Current Events: russische Angriffe, Tote in der Ukraine."
+      "text": "Euronews / Wikipedia Current Events: russische Angriffe, Tote in der Ukraine.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_25"
     },
     {
       "id": "q14",
-      "text": "New York Times, 25. Sept. 2026: Zerstörung ukrainischer Buchbestände."
+      "text": "New York Times, 25. Sept. 2026: Zerstörung ukrainischer Buchbestände.",
+      "url": "https://www.nytimes.com/section/world"
     },
     {
       "id": "q15",
-      "text": "Euronews: dänischer Geheimdienst, G20-Einladung an Putin, Zelenskyj zu Patriot-Lizenz."
+      "text": "Euronews: dänischer Geheimdienst, G20-Einladung an Putin, Zelenskyj zu Patriot-Lizenz.",
+      "url": "https://www.youtube.com/watch?v=Wmn2MJMUjBs"
     },
     {
       "id": "q16",
-      "text": "Le Monde / France24: Beginn der Frankreich-Reise Leos XIV."
+      "text": "Le Monde / France24: Beginn der Frankreich-Reise Leos XIV.",
+      "url": "https://www.lemonde.fr/en/archives-du-monde/25-09-2026/"
     },
     {
       "id": "q17",
-      "text": "Liveblogs: Macron empfängt den Papst am Élysée."
+      "text": "Liveblogs: Macron empfängt den Papst am Élysée.",
+      "url": "https://www.france24.com"
     },
     {
       "id": "q18",
-      "text": "Wikipedia Current Events, 25. Sept. 2026: Lucca, Pakistan/Afghanistan, Veloso-Begnadigung."
+      "text": "Wikipedia Current Events, 25. Sept. 2026: Lucca, Pakistan/Afghanistan, Veloso-Begnadigung.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_25"
     },
     {
       "id": "q19",
-      "text": "Business Standard: US-Anleiherenditen, 30-Jahr auf höchstem Stand seit 2004."
+      "text": "Business Standard: US-Anleiherenditen, 30-Jahr auf höchstem Stand seit 2004.",
+      "url": "https://www.business-standard.com/world-news"
     }
   ],
   "yesterday": {
