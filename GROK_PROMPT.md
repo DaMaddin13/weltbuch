@@ -18,12 +18,12 @@ Du schreibst das nächste Kapitel für WELTBUCH, eine literarische Tageschronik 
 - Deutsche Literatursprache. Kein Agenturdeutsch als Leitstil.
 - Schauplätze weiterverwenden, wenn sie leben: Zwei Throne, lichtender Saal, brennendes Wasser, östliches Feld, weißer Gast.
 - Ende: „Beschluss des Chronisten“ mit offenen Fäden, keine Predigt.
-- `number` = Tag des Jahres.
+- `number` = fortlaufende Kapitelnummer. Der 25. September 2026 ist Kapitel 1.
 - `body` ist HTML mit `<p>`, `<h3>`, `<blockquote>`.
 - Schema identisch zu `content/chapters/2026-09-25.json`.
 
 ## Gestern
-Kapitel 268, 25. September 2026: „Die zwei Throne, der leere Saal und das brennende Wasser.“
+Kapitel 1, 25. September 2026: „Die zwei Throne, der leere Saal und das brennende Wasser.“
 Offen: Trump–Xi (2 Monate Handelsfrieden), UN-Walkout Netanyahu, Iran/Hormuz/Sieben-Tage-Plan, Huthi und französischer Schutz für Yanbu, Ukraine (Bücher, G20/Putin), Leo XIV. in Frankreich.
 
 ## Auftrag

@@ -37,10 +37,6 @@ export default function MethodePage() {
         <h2 className="section-title">Was das sein will — und was nicht</h2>
         <div className="manifest">
           <p>
-            <b style={{ color: "var(--gold-lite)" }}>Nicht</b> eine Lizenz der <i>Unendlichen Geschichte</i>.
-            Die Verbeugung gilt der Idee: dass eine Geschichte weitergeschrieben werden kann.
-          </p>
-          <p>
             <b style={{ color: "var(--gold-lite)" }}>Nicht</b> ein Ersatz für Journalismus.
             Wer nach dem Kapitel die Quellen öffnet, hat den eigentlichen Dienst verstanden.
           </p>

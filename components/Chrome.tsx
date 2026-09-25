@@ -28,8 +28,6 @@ export function Footer() {
   return (
     <footer>
       WELTBUCH · Die fortlaufende Geschichte unserer Zeit
-      <br />
-      Inspiriert von der Form der unendlichen Erzählung, nicht von deren Figuren.
     </footer>
   );
 }
