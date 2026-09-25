@@ -1,6 +1,10 @@
 import Link from "next/link";
 
-export function Chrome({ active }: { active?: "heute" | "archiv" | "methode" }) {
+export function Chrome({
+  active
+}: {
+  active?: "heute" | "archiv" | "methode" | "impressum" | "datenschutz";
+}) {
   return (
     <header className="topbar">
       <Link className="brand" href="/">
@@ -27,7 +31,12 @@ export function Chrome({ active }: { active?: "heute" | "archiv" | "methode" }) 
 export function Footer() {
   return (
     <footer>
-      WELTBUCH · Die fortlaufende Geschichte unserer Zeit
+      <div className="footer-mark">WELTBUCH · Die fortlaufende Geschichte unserer Zeit</div>
+      <nav className="footer-links">
+        <Link href="/impressum">Impressum</Link>
+        <span aria-hidden="true">·</span>
+        <Link href="/datenschutz">Datenschutz</Link>
+      </nav>
     </footer>
   );
 }
