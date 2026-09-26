@@ -1,0 +1,18 @@
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  margin-left: 6px;
+  border: 1px solid rgba(212, 181, 106, 0.35);
+}
+.lang-switch button {
+  background: transparent;
+  color: #ead9a8;
+  border: 0;
+  padding: 5px 8px;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  cursor: pointer;
+}
+.lang-switch button.on {
+  color: #f4d98a;
+}
