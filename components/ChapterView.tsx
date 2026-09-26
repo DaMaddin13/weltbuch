@@ -32,8 +32,8 @@ export function ChapterView({
 
       <div className="wrap">
         <div className="layout">
-          <main className="page" id="kapitel">
-            <div className="chapter-head">
+          <main className="page">
+            <div className="chapter-head" id="kapitel">
               <div className="orn">✦ &nbsp; {chapter.date.split("-").reverse().join(".")} &nbsp; ✦</div>
               <h2>{chapter.title}</h2>
               {chapter.subtitle ? <div className="sub">{chapter.subtitle}</div> : null}
