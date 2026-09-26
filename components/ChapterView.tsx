@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import type { Chapter } from "@/lib/types";
 import { formatDate } from "@/lib/chapters";
 import { ShareChapter } from "@/components/ShareChapter";
@@ -26,7 +27,14 @@ export function ChapterView({
   return (
     <>
       <section className="hero">
-        <img className="cover" src="/assets/cover.jpg" alt="" />
+        <Image
+          className="cover"
+          src="/assets/cover.jpg"
+          alt=""
+          fill
+          priority
+          sizes="100vw"
+        />
         <div className="hero-copy">
           <div className="kicker">Die fortlaufende Geschichte unserer Zeit</div>
           <h1>{chapter.title}</h1>
