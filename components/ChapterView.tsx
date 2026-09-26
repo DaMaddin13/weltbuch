@@ -1,6 +1,16 @@
 import Link from "next/link";
 import type { Chapter } from "@/lib/types";
 import { formatDate } from "@/lib/chapters";
+import { ShareChapter } from "@/components/ShareChapter";
+
+function openLine(chapter: Chapter) {
+  if (chapter.openTomorrow) return chapter.openTomorrow;
+  const marked = chapter.threads.filter((t) =>
+    /offen|frist|unterwegs|andauernd/i.test(t.status)
+  );
+  const pick = (marked.length ? marked : chapter.threads).slice(0, 3);
+  return pick.map((t) => t.title).join(" · ");
+}
 
 export function ChapterView({
   chapter,
@@ -11,6 +21,8 @@ export function ChapterView({
   prevSlug?: string;
   nextSlug?: string;
 }) {
+  const today = formatDate(chapter.date, chapter.weekday);
+
   return (
     <>
       <section className="hero">
@@ -20,26 +32,49 @@ export function ChapterView({
           <h1>{chapter.title}</h1>
           <p className="lede">{chapter.lede || chapter.subtitle}</p>
           <div className="meta">
-            <span>{formatDate(chapter.date, chapter.weekday)}</span>
+            <span>{today}</span>
             <span>Kapitel {chapter.number}</span>
             <span>Lesezeit {chapter.readMinutes} Minuten</span>
           </div>
-          <a className="cta" href="#kapitel">
-            Kapitel lesen
-          </a>
+          <div className="hero-actions">
+            <a className="cta" href="#kapitel">
+              Kapitel lesen
+            </a>
+            <ShareChapter title={chapter.title} date={today} className="cta cta-quiet" />
+          </div>
         </div>
       </section>
 
       <div className="wrap">
         <div className="layout">
           <main className="page">
-            <div className="chapter-head" id="kapitel">
+            <ol className="ribbon" id="kapitel">
+              {chapter.yesterday ? (
+                <li>
+                  <span>Gestern</span>
+                  <b>{chapter.yesterday.teaser || chapter.yesterday.title}</b>
+                </li>
+              ) : null}
+              <li>
+                <span>Heute</span>
+                <b>{chapter.lede || chapter.subtitle}</b>
+              </li>
+              <li>
+                <span>Offen für morgen</span>
+                <b>{openLine(chapter)}</b>
+              </li>
+            </ol>
+            <div className="chapter-head">
               <div className="orn">✦ &nbsp; {chapter.date.split("-").reverse().join(".")} &nbsp; ✦</div>
               <h2>{chapter.title}</h2>
               {chapter.subtitle ? <div className="sub">{chapter.subtitle}</div> : null}
             </div>
             <article className="prose" dangerouslySetInnerHTML={{ __html: chapter.body }} />
             <p className="chapter-end">ENDE DES HEUTIGEN KAPITELS</p>
+            <div className="afterword">
+              <p>Die Fäden bleiben gelegt: {openLine(chapter)}.</p>
+              <ShareChapter title={chapter.title} date={today} />
+            </div>
             <div className="day-nav">
               {prevSlug ? <Link href={`/kapitel/${prevSlug}`}>← Voriger Tag</Link> : <span />}
               {nextSlug ? <Link href={`/kapitel/${nextSlug}`}>Nächster Tag →</Link> : <span />}
