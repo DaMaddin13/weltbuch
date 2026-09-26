@@ -1,20 +1,23 @@
 import Link from "next/link";
 import { Chrome, Footer } from "@/components/Chrome";
+import { getLang } from "@/lib/locale";
+import { t } from "@/lib/i18n";
 
-export default function NotFound() {
+export default async function NotFound() {
+  const lang = await getLang();
   return (
     <>
-      <Chrome />
+      <Chrome lang={lang} />
       <div className="page-hero">
-        <h1>Dieses Kapitel gibt es nicht.</h1>
-        <p>Zurück zum jüngsten Tag.</p>
+        <h1>{t(lang, "notFoundTitle")}</h1>
+        <p>{t(lang, "notFoundLead")}</p>
         <p style={{ marginTop: 24 }}>
           <Link className="cta" href="/">
-            Nach heute
+            {t(lang, "backToday")}
           </Link>
         </p>
       </div>
-      <Footer />
+      <Footer lang={lang} />
     </>
   );
 }
