@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-26",
+  "number": 2,
+  "weekday": "Samstag",
+  "title": "Tee unter Glas, sieben Tage und ein halb leerer Saal",
+  "subtitle": "In dem die Throne den Besuch beschließen, Hormus eine Frist bekommt und Notre-Dame den ersten Papst nach dem Brand empfängt.",
+  "lede": "Die Zeremonie ist vorbei. Die Fristen bleiben.",
+  "readMinutes": 9,
+  "threads": [
+    {"id": "A", "since": "Strang A · seit Feb. 2026", "title": "Der Iran-Krieg und das Nadelöhr", "summary": "Sieben-Tage-Plan für Hormus; Houthis gegen Yanbu; Frankreich schickt Abwehr.", "status": "offen · Frist gelegt"},
+    {"id": "B", "since": "Strang B · Staatsbesuch", "title": "Die zwei Throne", "summary": "Besuch beendet: Tee, Archiv, zwei Monate Handelsfrieden.", "status": "Pomp > Vertrag"},
+    {"id": "C", "since": "Strang C · seit 2022", "title": "Das östliche Feld", "summary": "Sieben Tote in Kiew; Patriot-Lizenzen angekündigt; Bitte um Peking.", "status": "andauernd"},
+    {"id": "D", "since": "Strang D · UN-Woche", "title": "Der sich lichtende Saal", "summary": "Walkout bei Netanyahu; Papst warnt vor multilateraler Farce.", "status": "symbolisch"},
+    {"id": "E", "since": "Strang E · neu", "title": "Der weiße Gast", "summary": "Leo XIV. in Paris: Élysée, UNESCO, Notre-Dame.", "status": "unterwegs"}
+  ],
+  "figures": [
+    {"role": "Der Hausherr", "name": "Donald Trump", "text": "Beschließt den Besuch mit Tee und Archiv. Verlängert den Handelsfrieden um zwei Monate."},
+    {"role": "Der Gast mit den roten Linien", "name": "Xi Jinping", "text": "Spricht von konstruktiver Stabilität. Taiwan und KI bleiben ungelöst."},
+    {"role": "Der Feilschende", "name": "Abbas Araghchi", "text": "Legt über Katar sieben Tage auf den Tisch."},
+    {"role": "Der Schützer der Pipeline", "name": "Emmanuel Macron", "text": "Schickt Soldaten und Radar nach Yanbu."},
+    {"role": "Der Bittsteller mit den Lizenzen", "name": "Wolodymyr Selenskyj", "text": "Zählt Tote in Kiew und bittet um Pekings Einfluss auf Moskau."},
+    {"role": "Der weiße Gast", "name": "Leo XIV.", "text": "Warnt vor der Farce der Dialoge und betritt Notre-Dame nach dem Brand."}
+  ],
+  "sources": [
+    {"id": "q1", "text": "Reuters, 25. Sept. 2026: Trump-Xi-Gipfel, Tee, Archiv, Handelsfrieden plus zwei Monate.", "url": "https://www.reuters.com/world/china/trump-wrap-up-xi-summit-with-tour-us-archives-2026-09-25/"},
+    {"id": "q2", "text": "Al Jazeera, 25. Sept. 2026: Sieben-Tage-Plan für Hormus.", "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war"},
+    {"id": "q3", "text": "Al Jazeera, 25. Sept. 2026: Frankreich schützt Yanbu; Houthi-Angriffe.", "url": "https://www.aljazeera.com/news/2026/9/25/saudi-arabia-allies-line-up-support-as-houthi-attacks-mount"},
+    {"id": "q4", "text": "Ukrinform / AFP, 25. Sept. 2026: Sieben Tote in Kiew.", "url": "https://www.ukrinform.net/rubric-ato/4168137-injury-toll-after-russian-attacks-on-kyiv-rises-to-57-seven-killed.html"},
+    {"id": "q5", "text": "Euronews, 25. Sept. 2026: Patriot-Lizenzen; Bitte um China.", "url": "https://www.euronews.com/2026/09/25/trump-makes-final-decision-to-grant-ukraine-patriot-license-zelenskyy-says"},
+    {"id": "q6", "text": "Al Jazeera, 25. Sept. 2026: Walkout bei Netanyahu.", "url": "https://www.aljazeera.com/news-analysis/2026/9/25/netanyahus-un-belligerence-wins-cheers-at-home-as-world-walks-out"},
+    {"id": "q7", "text": "Reuters / Vatican News, 25. Sept. 2026: Leo XIV. in Paris und Notre-Dame.", "url": "https://www.reuters.com/world/pope-leo-heads-france-with-ai-apologies-clergy-abuse-agenda-2026-09-25/"},
+    {"id": "q8", "text": "Wikipedia Current events, 25. Sept. 2026.", "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_25"}
+  ],
+  "yesterday": {"slug": "2026-09-25", "title": "Die zwei Throne, der leere Saal und das brennende Wasser", "teaser": "Geschenke unter den Großen, umgekippte Stühle, Schiffe, die den Atem anhalten."},
+  "body": "<p>Der Chronist öffnet das Buch am zweiten Tag. Die Bühnen klingen nach, die Brände nicht.</p><h3>I. Die Throne nach dem Tanz</h3><p>Trump und Xi beendeten den Staatsbesuch mit Tee und Nationalarchiv. <a class=\"src\" href=\"#q1\">1</a> Der Handelsfrieden gilt zwei Monate länger. Taiwan, KI und der Iran-Krieg bleiben ungelöst.</p><h3>II. Sieben Tage auf dem Wasser</h3><p>Araghchi legt über Katar einen Sieben-Tage-Plan für Hormus vor. <a class=\"src\" href=\"#q2\">2</a> Macron schickt Soldaten und Radar nach Yanbu. <a class=\"src\" href=\"#q3\">3</a></p><h3>III. Das östliche Feld bei Tage</h3><p>Sieben Tote in Kiew, darunter ein vierzehnjähriger Junge. <a class=\"src\" href=\"#q4\">4</a> Selenskyj: Patriot-Lizenzen zugesagt; Bitte um Pekings Einfluss. <a class=\"src\" href=\"#q5\">5</a></p><h3>IV. Der lichtende Saal und der weiße Gast</h3><p>Walkout bei Netanyahu. <a class=\"src\" href=\"#q6\">6</a> Leo XIV. in Paris, UNESCO, Vesper in Notre-Dame. <a class=\"src\" href=\"#q7\">7</a></p><h3>V. Beschluss des Chronisten</h3><p>Offene Fäden: Sieben-Tage-Plan, Patriot-Lizenzen, APEC und G20, Lourdes und Metz. <a class=\"src\" href=\"#q8\">8</a></p><p>Morgen wird er weiterlesen.</p>"
+}
