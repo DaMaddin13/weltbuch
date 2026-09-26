@@ -18,6 +18,23 @@ export type Source = {
   url?: string;
 };
 
+export type ChapterCopy = {
+  weekday?: string;
+  title?: string;
+  subtitle?: string;
+  lede?: string;
+  body?: string;
+  threads?: Thread[];
+  figures?: Figure[];
+  sources?: Source[];
+  yesterday?: {
+    slug: string;
+    title: string;
+    teaser: string;
+  };
+  openTomorrow?: string;
+};
+
 export type ChapterMeta = {
   date: string;
   slug: string;
@@ -36,6 +53,7 @@ export type ChapterMeta = {
     teaser: string;
   };
   openTomorrow?: string;
+  en?: ChapterCopy;
 };
 
 export type Chapter = ChapterMeta & {
