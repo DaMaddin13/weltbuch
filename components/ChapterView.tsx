@@ -3,26 +3,29 @@ import Image from "next/image";
 import type { Chapter } from "@/lib/types";
 import { formatDate } from "@/lib/chapters";
 import { ShareChapter } from "@/components/ShareChapter";
+import { t, type Lang } from "@/lib/i18n";
 
 function openLine(chapter: Chapter) {
   if (chapter.openTomorrow) return chapter.openTomorrow;
-  const marked = chapter.threads.filter((t) =>
-    /offen|frist|unterwegs|andauernd/i.test(t.status)
+  const marked = chapter.threads.filter((thread) =>
+    /offen|open|frist|deadline|unterwegs|en route|andauernd|ongoing/i.test(thread.status)
   );
   const pick = (marked.length ? marked : chapter.threads).slice(0, 3);
-  return pick.map((t) => t.title).join(" · ");
+  return pick.map((thread) => thread.title).join(" · ");
 }
 
 export function ChapterView({
   chapter,
   prevSlug,
-  nextSlug
+  nextSlug,
+  lang = "de"
 }: {
   chapter: Chapter;
   prevSlug?: string;
   nextSlug?: string;
+  lang?: Lang;
 }) {
-  const today = formatDate(chapter.date, chapter.weekday);
+  const today = formatDate(chapter.date, chapter.weekday, lang);
 
   return (
     <>
@@ -36,19 +39,23 @@ export function ChapterView({
           sizes="100vw"
         />
         <div className="hero-copy">
-          <div className="kicker">Die fortlaufende Geschichte unserer Zeit</div>
+          <div className="kicker">{t(lang, "kicker")}</div>
           <h1>{chapter.title}</h1>
           <p className="lede">{chapter.lede || chapter.subtitle}</p>
           <div className="meta">
             <span>{today}</span>
-            <span>Kapitel {chapter.number}</span>
-            <span>Lesezeit {chapter.readMinutes} Minuten</span>
+            <span>
+              {t(lang, "chapter")} {chapter.number}
+            </span>
+            <span>
+              {t(lang, "readTime")} {chapter.readMinutes} {t(lang, "minutes")}
+            </span>
           </div>
           <div className="hero-actions">
             <a className="cta" href="#kapitel">
-              Kapitel lesen
+              {t(lang, "readChapter")}
             </a>
-            <ShareChapter title={chapter.title} date={today} className="cta cta-quiet" />
+            <ShareChapter title={chapter.title} date={today} lang={lang} className="cta cta-quiet" />
           </div>
         </div>
       </section>
@@ -59,16 +66,16 @@ export function ChapterView({
             <ol className="ribbon" id="kapitel">
               {chapter.yesterday ? (
                 <li>
-                  <span>Gestern</span>
+                  <span>{t(lang, "yesterday")}</span>
                   <b>{chapter.yesterday.teaser || chapter.yesterday.title}</b>
                 </li>
               ) : null}
               <li>
-                <span>Heute</span>
+                <span>{t(lang, "todayRibbon")}</span>
                 <b>{chapter.lede || chapter.subtitle}</b>
               </li>
               <li>
-                <span>Offen für morgen</span>
+                <span>{t(lang, "openTomorrow")}</span>
                 <b>{openLine(chapter)}</b>
               </li>
             </ol>
@@ -78,40 +85,38 @@ export function ChapterView({
               {chapter.subtitle ? <div className="sub">{chapter.subtitle}</div> : null}
             </div>
             <article className="prose" dangerouslySetInnerHTML={{ __html: chapter.body }} />
-            <p className="chapter-end">ENDE DES HEUTIGEN KAPITELS</p>
+            <p className="chapter-end">{t(lang, "chapterEnd")}</p>
             <div className="afterword">
-              <p>Die Fäden bleiben gelegt: {openLine(chapter)}.</p>
-              <ShareChapter title={chapter.title} date={today} />
+              <p>
+                {t(lang, "threadsRemain")}: {openLine(chapter)}.
+              </p>
+              <ShareChapter title={chapter.title} date={today} lang={lang} />
             </div>
             <div className="day-nav">
-              {prevSlug ? <Link href={`/kapitel/${prevSlug}`}>← Voriger Tag</Link> : <span />}
-              {nextSlug ? <Link href={`/kapitel/${nextSlug}`}>Nächster Tag →</Link> : <span />}
+              {prevSlug ? <Link href={`/kapitel/${prevSlug}`}>{t(lang, "prevDay")}</Link> : <span />}
+              {nextSlug ? <Link href={`/kapitel/${nextSlug}`}>{t(lang, "nextDay")}</Link> : <span />}
             </div>
           </main>
 
           <aside className="side">
             <div className="card">
-              <h4>Laufende Stränge</h4>
-              {chapter.threads.map((t) => (
-                <div className="thread" key={t.id}>
-                  <span>{t.since}</span>
-                  <b>{t.title}</b>
-                  <div className="summary">{t.summary}</div>
-                  <div className="pill">{t.status}</div>
+              <h4>{t(lang, "runningThreads")}</h4>
+              {chapter.threads.map((thread) => (
+                <div className="thread" key={thread.id}>
+                  <span>{thread.since}</span>
+                  <b>{thread.title}</b>
+                  <div className="summary">{thread.summary}</div>
+                  <div className="pill">{thread.status}</div>
                 </div>
               ))}
             </div>
             <div className="card">
-              <h4>Lesehinweis</h4>
-              <p style={{ fontSize: 14, lineHeight: 1.5, opacity: 0.85 }}>
-                Die erzählerische Form verdichtet. Sie erfindet keine Ereignisse.
-                Jede nummerierte Marke führt zu einer veröffentlichten Quelle.
-                Humor trifft Macht, nicht Opfer.
-              </p>
+              <h4>{t(lang, "readingNote")}</h4>
+              <p style={{ fontSize: 14, lineHeight: 1.5, opacity: 0.85 }}>{t(lang, "readingNoteText")}</p>
             </div>
             {chapter.yesterday ? (
               <div className="card">
-                <h4>Gestern</h4>
+                <h4>{t(lang, "yesterday")}</h4>
                 <p style={{ fontSize: 14, lineHeight: 1.5, opacity: 0.85 }}>
                   <i>{chapter.yesterday.title}</i>
                   <br />
@@ -124,13 +129,13 @@ export function ChapterView({
 
         {chapter.figures.length > 0 ? (
           <>
-            <h2 className="section-title">Figuren dieser Tage</h2>
+            <h2 className="section-title">{t(lang, "figures")}</h2>
             <div className="grid-3">
-              {chapter.figures.map((f) => (
-                <div className="fig" key={f.name}>
-                  <div className="role">{f.role}</div>
-                  <h5>{f.name}</h5>
-                  <p>{f.text}</p>
+              {chapter.figures.map((figure) => (
+                <div className="fig" key={figure.name}>
+                  <div className="role">{figure.role}</div>
+                  <h5>{figure.name}</h5>
+                  <p>{figure.text}</p>
                 </div>
               ))}
             </div>
@@ -140,20 +145,18 @@ export function ChapterView({
         {chapter.sources.length > 0 ? (
           <>
             <h2 className="section-title" id="quellen">
-              Quellenanhang
+              {t(lang, "sources")}
             </h2>
             <div className="sources">
-              <h3>Woraus dieses Kapitel gezogen wurde</h3>
-              <p className="intro">
-                Keine Szene ohne Beleg. Die literarische Stimme ordnet, sie ersetzt die Reporter nicht.
-              </p>
+              <h3>{t(lang, "sourcesLead")}</h3>
+              <p className="intro">{t(lang, "sourcesIntro")}</p>
               <ol>
-                {chapter.sources.map((s) => (
-                  <li id={s.id} key={s.id}>
-                    {s.text}{" "}
-                    {s.url ? (
-                      <a href={s.url} target="_blank" rel="noopener noreferrer">
-                        Quelle
+                {chapter.sources.map((source) => (
+                  <li id={source.id} key={source.id}>
+                    {source.text}{" "}
+                    {source.url ? (
+                      <a href={source.url} target="_blank" rel="noopener noreferrer">
+                        {t(lang, "sourceLink")}
                       </a>
                     ) : null}
                   </li>
