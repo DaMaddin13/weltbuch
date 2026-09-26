@@ -35,6 +35,7 @@ export type ChapterMeta = {
     title: string;
     teaser: string;
   };
+  openTomorrow?: string;
 };
 
 export type Chapter = ChapterMeta & {
