@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 
 export function Chrome({
   active
@@ -8,7 +9,13 @@ export function Chrome({
   return (
     <header className="topbar">
       <Link className="brand" href="/">
-        <img src="/assets/emblem.jpg" alt="Weltbuch-Siegel" />
+        <Image
+          src="/assets/emblem.jpg"
+          alt="Weltbuch-Siegel"
+          width={36}
+          height={36}
+          sizes="36px"
+        />
         <div className="name">
           WELT<span>BUCH</span>
         </div>
