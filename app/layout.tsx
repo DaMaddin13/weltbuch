@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import "./lang.css";
 import { getLang } from "@/lib/locale";
 
 export const metadata: Metadata = {
