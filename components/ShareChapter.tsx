@@ -1,14 +1,17 @@
 "use client";
 
 import { useState } from "react";
+import { t, type Lang } from "@/lib/i18n";
 
 export function ShareChapter({
   title,
   date,
+  lang = "de",
   className = "share-btn"
 }: {
   title: string;
   date: string;
+  lang?: Lang;
   className?: string;
 }) {
   const [note, setNote] = useState("");
@@ -22,7 +25,7 @@ export function ShareChapter({
         return;
       }
       await navigator.clipboard.writeText(`${text}\n${url}`);
-      setNote("Link kopiert");
+      setNote(t(lang, "copied"));
     } catch {
       setNote("");
     }
@@ -31,7 +34,7 @@ export function ShareChapter({
 
   return (
     <button type="button" className={className} onClick={share}>
-      {note || "Kapitel teilen"}
+      {note || t(lang, "share")}
     </button>
   );
 }
