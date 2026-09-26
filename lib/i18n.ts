@@ -1,0 +1,90 @@
+export type Lang = "de" | "en";
+
+export const ui = {
+  de: {
+    today: "Heute",
+    archive: "Archiv",
+    method: "Methode",
+    imprint: "Impressum",
+    privacy: "Datenschutz",
+    kicker: "Die fortlaufende Geschichte unserer Zeit",
+    readChapter: "Kapitel lesen",
+    share: "Kapitel teilen",
+    copied: "Link kopiert",
+    chapter: "Kapitel",
+    readTime: "Lesezeit",
+    minutes: "Minuten",
+    minShort: "Min",
+    yesterday: "Gestern",
+    todayRibbon: "Heute",
+    openTomorrow: "Offen für morgen",
+    chapterEnd: "ENDE DES HEUTIGEN KAPITELS",
+    threadsRemain: "Die Fäden bleiben gelegt",
+    prevDay: "← Voriger Tag",
+    nextDay: "Nächster Tag →",
+    runningThreads: "Laufende Stränge",
+    readingNote: "Lesehinweis",
+    readingNoteText:
+      "Die erzählerische Form verdichtet. Sie erfindet keine Ereignisse. Jede nummerierte Marke führt zu einer veröffentlichten Quelle. Humor trifft Macht, nicht Opfer.",
+    figures: "Figuren dieser Tage",
+    sources: "Quellenanhang",
+    sourcesLead: "Woraus dieses Kapitel gezogen wurde",
+    sourcesIntro:
+      "Keine Szene ohne Beleg. Die literarische Stimme ordnet, sie ersetzt die Reporter nicht.",
+    sourceLink: "Quelle",
+    noChapter: "Noch kein Kapitel.",
+    archiveTitle: "Archiv der Tage",
+    archiveLead: "Jedes Datum ein Kapitel. Das Neueste steht oben.",
+    methodTitle: "Wie das Weltbuch entsteht",
+    methodLead: "Ein Kapitel am Tag. Fünf bis fünfzehn Minuten. Quellen darunter.",
+    notFoundTitle: "Dieses Kapitel gibt es nicht.",
+    notFoundLead: "Zurück zum jüngsten Tag.",
+    backToday: "Nach heute",
+    footerMark: "WELTBUCH · Die fortlaufende Geschichte unserer Zeit"
+  },
+  en: {
+    today: "Today",
+    archive: "Archive",
+    method: "Method",
+    imprint: "Imprint",
+    privacy: "Privacy",
+    kicker: "The continuing story of our time",
+    readChapter: "Read chapter",
+    share: "Share chapter",
+    copied: "Link copied",
+    chapter: "Chapter",
+    readTime: "Reading time",
+    minutes: "minutes",
+    minShort: "min",
+    yesterday: "Yesterday",
+    todayRibbon: "Today",
+    openTomorrow: "Open for tomorrow",
+    chapterEnd: "END OF TODAY’S CHAPTER",
+    threadsRemain: "The threads remain laid",
+    prevDay: "← Previous day",
+    nextDay: "Next day →",
+    runningThreads: "Running threads",
+    readingNote: "A note on reading",
+    readingNoteText:
+      "The narrative form condenses. It invents no events. Every numbered mark leads to a published source. Humour strikes power, not the dead.",
+    figures: "Figures of these days",
+    sources: "Sources",
+    sourcesLead: "What this chapter was drawn from",
+    sourcesIntro:
+      "No scene without a citation. The literary voice arranges; it does not replace the reporters.",
+    sourceLink: "Source",
+    noChapter: "No chapter yet.",
+    archiveTitle: "Archive of days",
+    archiveLead: "Each date is a chapter. The newest stands at the top.",
+    methodTitle: "How the World Book is made",
+    methodLead: "One chapter a day. Five to fifteen minutes. Sources beneath.",
+    notFoundTitle: "This chapter does not exist.",
+    notFoundLead: "Return to the latest day.",
+    backToday: "To today",
+    footerMark: "WELTBUCH · The continuing story of our time"
+  }
+} as const;
+
+export function t(lang: Lang, key: keyof (typeof ui)["de"]) {
+  return ui[lang][key];
+}
