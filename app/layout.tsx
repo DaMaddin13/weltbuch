@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
+import { getLang } from "@/lib/locale";
 
 export const metadata: Metadata = {
   title: "WELTBUCH — Die fortlaufende Geschichte unserer Zeit",
@@ -7,9 +8,10 @@ export const metadata: Metadata = {
     "Jeden Morgen ein neues Kapitel aus dem Weltgeschehen. Literarisch erzählt, an den Quellen festgebunden.",
 };
 
-export default function RootLayout({ children }: { children: React.ReactNode }) {
+export default async function RootLayout({ children }: { children: React.ReactNode }) {
+  const lang = await getLang();
   return (
-    <html lang="de">
+    <html lang={lang}>
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
