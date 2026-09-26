@@ -32,23 +32,49 @@ button { font: inherit; }
   position: sticky; top: 0; z-index: 40;
   display: flex; align-items: center; justify-content: space-between;
   gap: 16px;
-  padding: 12px 28px;
-  background: rgba(18, 12, 9, 0.92);
-  backdrop-filter: blur(14px);
-  border-bottom: 1px solid rgba(176,138,62,0.22);
-  color: var(--parchment);
+  padding: 10px 28px;
+  background: #0d0907;
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(212, 181, 106, 0.38);
+  color: #f7edd4;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
 }
 .brand { display: flex; align-items: center; gap: 12px; text-decoration: none; flex-shrink: 0; }
-.brand img { width: 36px; height: 36px; border-radius: 50%; object-fit: cover; border: 1px solid var(--gold); }
-.brand .name { font-family: "Cormorant Garamond", serif; font-size: 22px; letter-spacing: 0.18em; font-weight: 600; }
-.brand .name span { color: var(--gold-lite); }
-.topbar nav { display: flex; gap: 8px; font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; flex-wrap: wrap; justify-content: flex-end; }
-.topbar nav a {
-  color: #e8d8b8; text-decoration: none; opacity: 0.85;
-  padding: 6px 10px;
-  border-radius: 2px;
+.brand img {
+  width: 36px; height: 36px; border-radius: 50%; object-fit: cover;
+  border: 1px solid var(--gold-lite);
+  box-shadow: 0 0 0 2px rgba(13, 9, 7, 0.9), 0 0 0 3px rgba(212, 181, 106, 0.35);
 }
-.topbar nav a:hover, .topbar nav a.active { opacity: 1; color: var(--gold-lite); }
+.brand .name {
+  font-family: "Cormorant Garamond", serif;
+  font-size: 22px;
+  letter-spacing: 0.16em;
+  font-weight: 600;
+  color: #fbf6ea;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.65);
+}
+.brand .name span { color: #e4c36a; }
+.topbar nav {
+  display: flex; gap: 4px; font-size: 12px; letter-spacing: 0.12em;
+  text-transform: uppercase; flex-wrap: wrap; justify-content: flex-end;
+  font-weight: 600;
+}
+.topbar nav a {
+  color: #f3e6c8;
+  text-decoration: none;
+  opacity: 1;
+  padding: 7px 12px;
+  border-radius: 2px;
+  border-bottom: 2px solid transparent;
+}
+.topbar nav a:hover {
+  color: #fff8e8;
+  background: rgba(212, 181, 106, 0.12);
+}
+.topbar nav a.active {
+  color: #f4d98a;
+  border-bottom-color: #e4c36a;
+}
 
 .hero {
   position: relative;
@@ -399,7 +425,7 @@ footer {
     justify-content: center;
     width: 100%;
     gap: 4px;
-    border-top: 1px solid rgba(176,138,62,0.22);
+    border-top: 1px solid rgba(212, 181, 106, 0.28);
     padding: 6px 0 2px;
   }
   .topbar nav a { padding: 8px 12px; font-size: 11px; }
