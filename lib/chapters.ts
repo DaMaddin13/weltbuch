@@ -12,16 +12,41 @@ export function getAllChapters(): Chapter[] {
     .filter((f) => f.endsWith(".json") && !f.startsWith("_") && !f.endsWith(".en.json"))
     .map((file) => {
       const slug = file.replace(/\.json$/, "");
-      const raw = fs.readFileSync(path.join(DIR, file), "utf8");
-      const data = JSON.parse(raw) as Omit<Chapter, "slug">;
-      const enFile = path.join(DIR, `${slug}.en.json`);
-      let en: ChapterCopy | undefined;
-      if (fs.existsSync(enFile)) {
-        en = JSON.parse(fs.readFileSync(enFile, "utf8")) as ChapterCopy;
+      try {
+        const raw = fs.readFileSync(path.join(DIR, file), "utf8");
+        const data = JSON.parse(raw) as Partial<Omit<Chapter, "slug">>;
+        const enFile = path.join(DIR, `${slug}.en.json`);
+        let en: ChapterCopy | undefined;
+        if (fs.existsSync(enFile)) {
+          try {
+            en = JSON.parse(fs.readFileSync(enFile, "utf8")) as ChapterCopy;
+          } catch {
+            en = undefined;
+          }
+        }
+        return {
+          date: data.date || slug,
+          number: typeof data.number === "number" ? data.number : 0,
+          weekday: data.weekday || "",
+          title: data.title || slug,
+          subtitle: data.subtitle || "",
+          lede: data.lede || "",
+          readMinutes: typeof data.readMinutes === "number" ? data.readMinutes : 5,
+          threads: data.threads || [],
+          figures: data.figures || [],
+          sources: data.sources || [],
+          yesterday: data.yesterday,
+          openTomorrow: data.openTomorrow,
+          body: data.body || "",
+          slug,
+          en
+        } as Chapter;
+      } catch {
+        return null;
       }
-      return { ...data, slug, en };
     })
-    .sort((a, b) => b.date.localeCompare(a.date));
+    .filter((c): c is Chapter => Boolean(c))
+    .sort((a, b) => String(b.date).localeCompare(String(a.date)));
 }
 
 export function getLatestChapter(): Chapter | null {
