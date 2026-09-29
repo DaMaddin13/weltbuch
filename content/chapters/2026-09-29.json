@@ -1,1 +1,13 @@
-FULL_FROM_ARTIFACT
+{
+  "date": "2026-09-29",
+  "number": 5,
+  "weekday": "Dienstag",
+  "title": "Der Zoll und die Akademie",
+  "subtitle": "In dem Mitternacht eine Liste schließt, ein Haus der Wissenschaften brennt und der Hahn weiter steht.",
+  "lede": "Der 29. September beginnt mit einer Sperre. Er hat eine verbrannte Fassade, eine Mitternachtsliste und keine neue Klausel.",
+  "readMinutes": 8,
+  "threads": [{"id": "A", "since": "Strang A · seit Feb. 2026", "title": "Der Iran-Krieg und das Nadelöhr", "summary": "Keine neue Klausel; Vermittler ohne frischen Termin; Blockade bleibt.", "status": "offen · still"}, {"id": "B", "since": "Strang B · Staatsbesuch", "title": "Die zwei Throne", "summary": "Kein frischer Stoff.", "status": "ruhend"}, {"id": "C", "since": "Strang C · seit 2022", "title": "Das östliche Feld", "summary": "Akademie der Wissenschaften in Kiew getroffen; Dnipro, Charkiw; Polen-Alarm.", "status": "andauernd"}, {"id": "D", "since": "Strang D · UN-Woche", "title": "Der sich lichtende Saal", "summary": "Kein neuer Stoff.", "status": "ruhend"}, {"id": "F", "since": "Strang F · neu · 29. Sept.", "title": "Die nördliche Zolliste", "summary": "US-Importverbote für kanadisches Bier, Motorräder, Molke, Melasse gelten ab Mitternacht.", "status": "offen"}],
+  "figures": [{"role": "Der Hausherr", "name": "Donald Trump", "text": "Sperrt Listen. Dreht den Hahn nicht."}, {"role": "Der Feilschende", "name": "Abbas Araghchi", "text": "Wartet auf Vermittler. Sieben Tage bleiben Papier."}, {"role": "Der Feldherr im Osten", "name": "Wolodymyr Selenskyj", "text": "Zählt Feuerwehrleitern an der Akademie."}, {"role": "Der Nachbar im Norden", "name": "Mark Carney", "text": "Die Sperre trifft Fässer und Räder, nicht den Vertrag."}],
+  "yesterday": {"slug": "2026-09-28", "title": "Die Grenze und der Hahn", "teaser": "Der 28. September beginnt an einer Grenze. Er hat eine Kathedrale, eine Totenliste und keine neue Klausel."},
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Die nördliche Zolliste"
+}
