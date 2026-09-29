@@ -52,7 +52,7 @@ export function ChapterView({
             </span>
           </div>
           <div className="hero-actions">
-            <a className="cta" href="#kapitel">
+            <a className="cta" href="#kapitel-anfang">
               {t(lang, "readChapter")}
             </a>
             <ShareChapter title={chapter.title} date={today} lang={lang} className="cta cta-quiet" />
@@ -63,7 +63,7 @@ export function ChapterView({
       <div className="wrap">
         <div className="layout">
           <main className="page">
-            <ol className="ribbon" id="kapitel">
+            <ol className="ribbon">
               {chapter.yesterday ? (
                 <li>
                   <span>{t(lang, "yesterday")}</span>
@@ -79,7 +79,7 @@ export function ChapterView({
                 <b>{openLine(chapter)}</b>
               </li>
             </ol>
-            <div className="chapter-head">
+            <div className="chapter-head" id="kapitel-anfang">
               <div className="orn">✦ &nbsp; {chapter.date.split("-").reverse().join(".")} &nbsp; ✦</div>
               <h2>{chapter.title}</h2>
               {chapter.subtitle ? <div className="sub">{chapter.subtitle}</div> : null}
