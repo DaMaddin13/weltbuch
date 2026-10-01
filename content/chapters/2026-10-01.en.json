@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-01",
+  "number": 7,
+  "weekday": "Thursday",
+  "title": "The Grid and the Note",
+  "subtitle": "In which winter arrives through the wires, three tankers acquire names, and Kaliningrad is written into a threat.",
+  "lede": "The first of October 2026 still flies flags in Baghdad and turns the lights down in Kyiv by plan, for the first time since spring.",
+  "readMinutes": 9,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the choke point",
+      "summary": "Three tankers on the 29th; a slick off Musandam; ten visible transits on the 30th; still no clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Winter campaign against the grid; seven dead; a note about Kaliningrad.",
+      "status": "ongoing"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern ban list",
+      "summary": "No fresh matter.",
+      "status": "resting"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "Pentagon confirms the exit; Trump calls the day great; holidays through the third.",
+      "status": "open"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The host",
+      "name": "Donald Trump",
+      "text": "Calls the exit from Iraq a great day for America and leaves the tap where it stood."
+    },
+    {
+      "role": "The commander in the east",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Counts seven dead and a grid that goes dark on purpose for the first time since spring."
+    },
+    {
+      "role": "The host on the Tigris",
+      "name": "Ali al-Zaidi",
+      "text": "Keeps Sovereignty Days while the militias keep their calendar until June 2027."
+    },
+    {
+      "role": "The reader of the note",
+      "name": "Mark Rutte",
+      "text": "Answers that the alliance is defensive and that nuclear talk should stop."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "AP / France 24, 1 Oct. 2026: heaviest combined energy strike in months; emergency cuts in Kyiv.",
+      "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts"
+    },
+    {
+      "id": "q2",
+      "text": "The Guardian, 1 Oct. 2026: seven dead; child in Vyshhorod; Ukrenergo.",
+      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months"
+    },
+    {
+      "id": "q3",
+      "text": "AP, 30 Sept. 2026: barrage, child, grid.",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-b837b4ee58f0aa8b4e5a5a872906d91e"
+    },
+    {
+      "id": "q4",
+      "text": "ISW, 30 Sept. 2026: Trypillia plant; start of the winter campaign.",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-30-2026/"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 30 Sept. 2026: Russian note to NATO on Kaliningrad.",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-issues-nuclear-warning-nato-tensions-rise-baltic-2026-09-30/"
+    },
+    {
+      "id": "q6",
+      "text": "Al Jazeera / Reuters, 30 Sept. 2026: Rutte rejects the threat.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off"
+    },
+    {
+      "id": "q7",
+      "text": "UANI, 30 Sept. 2026: three Liberia-flagged tankers struck.",
+      "url": "https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-30-2026"
+    },
+    {
+      "id": "q8",
+      "text": "Windward Daily, 30 Sept. 2026: 13 × 20 km slick off Musandam.",
+      "url": "https://windward.ai/knowledge-base/strait-of-hormuz-live-report/"
+    },
+    {
+      "id": "q9",
+      "text": "Soufan Center, 1 Oct. 2026: Washington and Tehran reading the same water two ways.",
+      "url": "https://thesoufancenter.org/intelbrief-2026-october-1/"
+    },
+    {
+      "id": "q10",
+      "text": "The Guardian, 30 Sept. 2026: Pentagon ends Inherent Resolve in Iraq.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq"
+    },
+    {
+      "id": "q11",
+      "text": "PBS / AP, 30 Sept. 2026: last departure from Erbil.",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-its-withdrawal-of-troops-from-iraq-for-islamic-state-fight-is-complete"
+    },
+    {
+      "id": "q12",
+      "text": "Wikipedia Current Events, 30 Sept. 2026: withdrawal, Romania, Pike, T24.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30"
+    },
+    {
+      "id": "q13",
+      "text": "AFP / AP: Romanian parliament rejects Mureșan's cabinet.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+    },
+    {
+      "id": "q14",
+      "text": "Wikipedia Current Events: Bangkok floods, at least 23 dead.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+    },
+    {
+      "id": "q15",
+      "text": "AFP via France 24 / Reuters: Christa Pike, stay and hospital.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-09-30",
+    "title": "The last post and the child outside the city",
+    "teaser": "An army turns a page. A child outside Kyiv does not stand up. A ship admits fire a day late."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The last post",
+  "body": "<p>There are mornings when one state raises flags and another dims the lights on purpose, because the wires will not carry what winter is about to ask. The first of October 2026 is such a morning. In Baghdad the holiday they have named sovereignty still runs. In Kyiv and three neighbouring regions Ukrenergo cuts power by emergency, for the first time since spring. Between those two pictures sits a strait that still has no clause, and a note that writes the word nuclear into a sentence about the Baltic.</p>\n<h3>I. The grid that fetches winter early</h3>\n<p>On the night into Wednesday Moscow sent a mixed package of ballistic missiles and nearly one hundred and ninety drones, a large share of them jet-powered, mainly at energy sites in Kyiv and the oblast around it. Prime Minister Serhii Koretskyi called the blow the heaviest combined strike on the grid since the last heating season ended. The Trypillia thermal plant took damage. Ukrenergo laid emergency outages across the capital and three surrounding regions. Since spring the city had not needed that sentence. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Officials count seven dead. Among them is the child in Vyshhorod already named the day before; three more people die in the capital, others at addresses the book does not need to stack because the direction holds. Zelenskyy speaks of critical infrastructure in five regions. The air force says it brought down most of the drones and five missiles; hits and wreckage remain. Moscow speaks of a hydroelectric plant, a thermal plant, a substation, a storage park. Kyiv does not confirm the addresses one by one, because confirmation itself is a position. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>What changes on Wednesday is not the existence of the war. It is the calendar. Winter does not begin at the first frost. It begins on the day the grid goes darker by plan, so that later there is still something left to share. Patriots stay scarce, because the same war that holds the tap in the Gulf also empties the magazines. Yesterday’s NASAMS package does little to that arithmetic. Who strikes houses strikes frost in advance. Who strikes the plant strikes the rest of the country that drinks from it.</p>\n<p>The jet-powered drones fly higher and faster than the older machines, and the gaps in the defence sit exactly where ballistic missiles and these new craft divide the seconds. Ihnat already counts more than three thousand one hundred jet drones for September, more than in the whole of August. The figure is an administrative fact. The house in Vyshhorod is not.</p>\n<p>On the same Wednesday Moscow hands NATO a diplomatic note. It says the alliance is steering a dangerous course; anyone who tries to cut Kaliningrad off from Russia must reckon with the entire arsenal, including nuclear weapons, and with strikes on decision centres from the first moment. Secretary General Mark Rutte answers that the alliance is defensive, that no exercise threatens Russian territory, and that nuclear talk should stop. Peskov calls the note a reminder to hot heads. A European defence official tells Reuters that in this form it has not happened since the Cold War. <a class=\"src\" href=\"#q5\">5</a> <a class=\"src\" href=\"#q6\">6</a></p>\n<blockquote>A note is not a battle. It only sets the word nuclear beside a piece of land that lies between Poland and Lithuania and carries a fleet.</blockquote>\n<p>The field now reaches past the siren, not only through grain, but through an exclave whose isolation Moscow writes down as a cause for war, although nobody in Brussels has declared a blockade. The book keeps the wording, because in this war wordings often arrive earlier than ships.</p>\n<h3>II. Three names on the water</h3>\n<p>What on the twenty-eighth was still a late flame without a ship’s name acquires company on the twenty-ninth and lists on the thirtieth. Three tankers under the Liberian flag — Mersin Prosperity, Sinbad, Al Ruwais — are struck in the Strait of Hormuz by projectiles of unclear origin. One was sailing in. The counters speak of eighty-one recorded incidents in this war, twenty-four dead among seafarers since February. Off Musandam lies an oil slick thirteen by twenty kilometres; the drift models put it onto Larak and Qeshm. The Kuwaiti VLCC from the evening of the twenty-eighth now has a name and was sailing dark. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>On the thirtieth the visible passages number ten ships, three in, seven out. The seven-day average sits just under five. Before the war it was more than eighty a day. Washington still says the strait belongs to the order it has imposed, and that flow sits above four fifths of the old mark if the bypasses are counted. Tehran still says that without its conditions the waterway remains a tool, and the Revolutionary Guards speak of daily blows against ships that sail without leave. A clause lives in neither sentence. <a class=\"src\" href=\"#q9\">9</a></p>\n<p>Whoever thinks ten visible passages are an opening confuses motion with a contract. Whoever thinks three struck tankers are already a new battle confuses names with a decision. Both readings hold on the same morning, and the rial stays where it stood on Wednesday: more than two and a half million to the dollar, a low that has repeated itself inside a month.</p>\n<p>Watchers in Washington and Tehran read the same water as two different victories. One side treats the escort as proof that the strait is already taken and wants nuclear concessions next. The other treats every holed hull as proof that the world economy can still be squeezed, and wants the blockade of its own ports lifted first. A week of diplomacy on the edge of the General Assembly, including the first encounter since June, has not changed that reading. Wednesday’s envelope remains an envelope.</p>\n<h3>III. The courtyard declared empty</h3>\n<p>The Pentagon says formally on Wednesday what Baghdad has already sold as a calendar: Inherent Resolve in Iraq is over. The last forces and the kit leave Erbil airfield. Sean Parnell speaks of an orderly departure and of a relationship that is now to be called bilateral and normal. Primary responsibility for remnants of the Islamic State and for militia-aligned groups rests with the Iraqi state. Trump calls the same day great for America and the old war a quagmire born of bad decisions. In Baghdad the Sovereignty Days run through the third of October. <a class=\"src\" href=\"#q10\">10</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<p>The Patriot and C-RAM batteries that covered Erbil and Harir leave with them. Kurdish voices name the risk. Disarmament of the Iran-aligned militias remains dated to the end of June 2027. A residual staff of unnamed size is to keep passing training and intelligence, from Jordan, where the mission against the Islamic State in Syria keeps its seat. Baghdad says no foreign soldier remains on Iraqi soil. Both sentences can be true without meaning the same courtyard.</p>\n<p>An army leaves because a treaty from 2024 wanted it so. The neighbours who stay still have no calendar for influence. The tap in the Gulf and the emptied court on the Tigris belong together, even when the flags claim otherwise. Who reads the withdrawal only as Iraqi sovereignty reads half. Who reads it only as a gift to Tehran reads half as well. The book holds both halves, because the Tigris and Hormuz do not cancel each other. They share a month.</p>\n<p>Ahmed Salah, seventy, said on Wednesday that the departure filled the heart with joy, and in the same breath demanded that the militias give their weapons to the state. The state has written June 2027 into the calendar for that. Joy and a deadline stand on the same parade.</p>\n<h3>IV. At the edge of the page</h3>\n<p>Romania’s parliament rejects the cabinet proposed by Siegfried Mureșan. The votes fall short of the two hundred and thirty-three required; one hundred and eighty-two do not suffice. The crisis that began in May with the fall of the Bolojan government continues. Floods in Bangkok and the country around it leave at least twenty-three dead. In Tennessee the Sixth Circuit stays Christa Pike’s execution shortly before the hour; the Supreme Court lifts the stay; two rounds of the injection fail, and Pike is taken to hospital. A Turkish court orders the independent site T24 shut because the justice ministry counted one hundred and eighteen pieces as unlawful advocacy. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<p>Beijing marks the National Day of the People’s Republic, seventy-seven years after the proclamation at Tiananmen. The two thrones earn no new sentence on this Thursday; the festival in Beijing is a calendar, not a treaty. The Security Council still sounds out the next secretary-general behind the door. The northern ban list has stood since midnight on Tuesday, and Thursday does not require a new sentence about barrels or molasses. Large brands know detours. Small halls do not. What goes three days without growth belongs at the margin, not in a new piece.</p>\n<p>In Nigeria, Cyprus, Tuvalu and Palau the first of October is Independence Day. Those flags mean other years than the flags on the Tigris. The book does not confuse them.</p>\n<h3>The chronicler’s close</h3>\n<p>The grid in Kyiv has gone darker by plan for the first time since spring, and Moscow has set the word nuclear beside Kaliningrad. The strait has three new names and still no clause. The court on the Tigris has been declared empty and remains inhabited by neighbours who need no holiday.</p>\n<p>Hormuz stays open as a thread, as does the eastern field, as does the emptied court. The ban list rests until someone changes a milk quota or a second address.</p>\n<p>Today the book does not slide an old marker into a familiar crack. It holds the page at the darkened grid and at the note, and watches what the second of October makes of a winter that would not wait for frost.</p>"
+}
