@@ -1,1 +1,145 @@
-PLACEHOLDER
+{
+  "date": "2026-10-01",
+  "number": 7,
+  "weekday": "Donnerstag",
+  "title": "Das Netz und die Note",
+  "subtitle": "In dem der Winter am Strom beginnt, drei Tanker Namen bekommen und Kaliningrad eine Drohung auf Papier legt.",
+  "lede": "Der erste Oktober 2026 hebt in Bagdad noch Fahnen und lässt in Kiew das Licht zum ersten Mal seit dem Frühling planmäßig ausgehen.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Drei Tanker am 29.; Ölfleck vor Musandam; zehn sichtbare Passagen am 30.; keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Winterschlag auf das Netz; sieben Tote; Note zu Kaliningrad.",
+      "status": "andauernd"
+    },
+    {
+      "id": "F",
+      "since": "Strang F · seit 29. Sept.",
+      "title": "Die nördliche Zolliste",
+      "summary": "Kein neuer Stoff.",
+      "status": "ruhend"
+    },
+    {
+      "id": "G",
+      "since": "Strang G · seit 30. Sept.",
+      "title": "Der letzte Posten",
+      "summary": "Pentagon bestätigt Abzug; Trump nennt den Tag groß; Feiertage bis zum dritten.",
+      "status": "offen"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Hausherr",
+      "name": "Donald Trump",
+      "text": "Nennt den Abzug aus dem Irak einen großen Tag und lässt den Hahn, wo er stand."
+    },
+    {
+      "role": "Der Feldherr im Osten",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Zählt sieben Tote und ein Netz, das zum ersten Mal seit dem Frühling planmäßig dunkel wird."
+    },
+    {
+      "role": "Der Hausherr am Tigris",
+      "name": "Ali al-Zaidi",
+      "text": "Feiert Souveränitätstage, während Milizen bis Juni 2027 Zeit haben."
+    },
+    {
+      "role": "Der Bote der Note",
+      "name": "Mark Rutte",
+      "text": "Antwortet, die Allianz sei defensiv, und fordert, die atomare Rhetorik einzustellen."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "AP / France 24, 1. Okt. 2026: schwerster kombinierter Schlag gegen Energie seit Monaten; Notabschaltungen in Kiew.",
+      "url": "https://www.france24.com/en/europe/20261001-russia-launches-major-attack-on-ukraine-energy-grid-causing-power-cuts"
+    },
+    {
+      "id": "q2",
+      "text": "The Guardian, 1. Okt. 2026: sieben Tote; Kind in Wyschhorod; Ukrenergo.",
+      "url": "https://www.theguardian.com/world/2026/oct/01/ukraine-war-briefing-russia-pounds-power-grid-with-seven-killed-in-biggest-energy-attack-in-months"
+    },
+    {
+      "id": "q3",
+      "text": "AP, 30. Sept. 2026: Barrage, Kind, Netz.",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-b837b4ee58f0aa8b4e5a5a872906d91e"
+    },
+    {
+      "id": "q4",
+      "text": "ISW, 30. Sept. 2026: Trypillja-Kraftwerk; Beginn der Winterkampagne.",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-september-30-2026/"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 30. Sept. 2026: russische Note an die Nato zu Kaliningrad.",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-issues-nuclear-warning-nato-tensions-rise-baltic-2026-09-30/"
+    },
+    {
+      "id": "q6",
+      "text": "Al Jazeera / Reuters, 30. Sept. 2026: Rutte weist die Drohung zurück.",
+      "url": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off"
+    },
+    {
+      "id": "q7",
+      "text": "UANI, 30. Sept. 2026: drei liberianisch geflaggte Tanker getroffen.",
+      "url": "https://www.unitedagainstnucleariran.com/analysis/iran-shipping-update-september-30-2026"
+    },
+    {
+      "id": "q8",
+      "text": "Windward Daily, 30. Sept. 2026: Ölfleck 13 × 20 km vor Musandam.",
+      "url": "https://windward.ai/knowledge-base/strait-of-hormuz-live-report/"
+    },
+    {
+      "id": "q9",
+      "text": "Soufan Center, 1. Okt. 2026: Wahrnehmungslücke Washington–Teheran.",
+      "url": "https://thesoufancenter.org/intelbrief-2026-october-1/"
+    },
+    {
+      "id": "q10",
+      "text": "The Guardian, 30. Sept. 2026: Pentagon erklärt Inherent Resolve im Irak für beendet.",
+      "url": "https://www.theguardian.com/us-news/2026/sep/30/pentagon-formal-withdrawal-troops-iraq"
+    },
+    {
+      "id": "q11",
+      "text": "PBS / AP, 30. Sept. 2026: letzter Abzug aus Erbil.",
+      "url": "https://www.pbs.org/newshour/world/u-s-military-says-its-withdrawal-of-troops-from-iraq-for-islamic-state-fight-is-complete"
+    },
+    {
+      "id": "q12",
+      "text": "Wikipedia Current Events, 30. Sept. 2026: Abzug, Rumänien, Pike, T24.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30"
+    },
+    {
+      "id": "q13",
+      "text": "AFP / AP: rumänisches Parlament lehnt Kabinett Mureșan ab.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+    },
+    {
+      "id": "q14",
+      "text": "Wikipedia Current Events: Fluten Bangkok, wenigstens 23 Tote.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events"
+    },
+    {
+      "id": "q15",
+      "text": "AFP via France 24 / Reuters: Christa Pike, Stay und Krankenhaus.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_September_30"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-09-30",
+    "title": "Der letzte Posten und das Kind vor der Stadt",
+    "teaser": "Eine Armee blättert um. Ein Kind vor Kiew steht nicht auf. Ein Schiff gibt verspätet Feuer zu."
+  },
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Der letzte Posten",
+  "body": "<p>Es gibt Morgen, an denen ein Staat Fahnen hisst und ein anderer das Licht planmäßig löscht, weil die Leitungen nicht mehr tragen, was der Winter verlangen wird. Der erste Oktober 2026 ist so ein Morgen. In Bagdad dauert der Feiertag, den man Souveränität nennt. In Kiew und drei Nachbargebieten schaltet Ukrenergo Notstrom, zum ersten Mal seit dem Frühling. Zwischen beiden Bildern liegt eine Straße, die weiter keine Klausel hat, und eine Note, die das Wort Atom in einen Ostsee-Satz schreibt.</p>\n<h3>I. Das Netz, das den Winter vorzieht</h3>\n<p>In der Nacht auf Mittwoch schickt Moskau eine kombinierte Lage aus ballistischen Flugkörpern und fast einhundertneunzig Drohnen, darunter ein großer Anteil mit Strahltriebwerk, vor allem gegen Energie in Kiew und der Oblast. Premierminister Serhij Korezkyj nennt den Schlag den schwersten kombinierten Angriff auf das Netz seit dem Ende der letzten Heizperiode. Das Wärmekraftwerk Trypillja trägt Schaden. Ukrenergo legt Notabschaltungen über die Hauptstadt und drei umliegende Gebiete. Seit dem Frühling hatte die Stadt diesen Satz nicht mehr nötig. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Die Behörden zählen sieben Tote. Unter ihnen ist das Kind in Wyschhorod, das schon der Vortag genannt hat; drei weitere Menschen sterben in der Hauptstadt, andere an Adressen, die das Buch nicht alle aufreihen muss, weil die Richtung sitzt. Selenskyj spricht von kritischer Infrastruktur in fünf Gebieten. Die Luftwaffe sagt, sie habe den größten Teil der Drohnen und fünf Raketen heruntergeholt; Einschläge und Trümmer bleiben. Russland spricht von einem Wasserkraftwerk, einem Wärmekraftwerk, einer Umspannanlage, einem Speicherpark. Kiew bestätigt die Adressen nicht einzeln, weil Bestätigung selbst eine Lage ist. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Was sich am Mittwoch ändert, ist nicht die Existenz des Krieges. Es ist der Kalender. Der Winter beginnt nicht am ersten Frost, sondern an dem Tag, an dem das Netz zum ersten Mal wieder planmäßig dunkler wird, damit es später überhaupt noch etwas zu verteilen hat. Patriot bleibt knapp, weil derselbe Krieg, der den Hahn am Golf hält, auch die Magazine leert. Das NASAMS-Paket vom Vortag ändert daran wenig. Wer Wohnen trifft, trifft den Frost im Voraus. Wer das Kraftwerk trifft, trifft den Rest des Landes, das von diesem Kraftwerk trinkt.</p>\n<p>Die Drohnen mit Strahltriebwerk fliegen höher und schneller als die älteren Modelle, und die Lücken in der Abwehr sind genau dort, wo ballistische Flugkörper und diese neuen Geräte sich die Sekunden teilen. Ihnat zählt für den September schon mehr als dreitausend einhundert Strahldrohnen, mehr als im ganzen August. Die Zahl ist eine Verwaltungssache. Die Wohnung in Wyschhorod ist keine.</p>\n<p>Am selben Mittwoch legt Moskau der Nato eine diplomatische Note vor. Darin steht, die Allianz steuere einen gefährlichen Kurs; wer Kaliningrad von Russland abschneiden wolle, müsse mit dem gesamten Arsenal rechnen, einschließlich Kernwaffen, und mit Schlägen gegen Entscheidungszentren vom ersten Augenblick an. Nato-Generalsekretär Mark Rutte antwortet, die Allianz sei defensiv, keine Übung bedrohe russisches Gebiet, und die atomare Rhetorik solle aufhören. Peskow nennt die Note eine Erinnerung an heiße Köpfe. Ein europäischer Verteidigungsbeamter sagt Reuters, in dieser Form sei das seit dem Kalten Krieg nicht mehr geschehen. <a class=\"src\" href=\"#q5\">5</a> <a class=\"src\" href=\"#q6\">6</a></p>\n<blockquote>Eine Note ersetzt keine Schlacht. Sie setzt nur das Wort Atom neben ein Stück Land, das zwischen Polen und Litauen liegt und eine Flotte trägt.</blockquote>\n<p>Das Feld reicht damit über die Sirene hinaus, nicht nur über Getreide, sondern über eine Exklave, deren Isolierung Moskau als Kriegsgrund formuliert, obwohl niemand in Brüssel eine Blockade ausgerufen hat. Das Buch hält die Formulierung, weil Formulierungen in diesem Krieg oft früher da sind als Schiffe.</p>\n<h3>II. Drei Namen auf dem Wasser</h3>\n<p>Was am achtundzwanzigsten noch als verspätete Flamme ohne Schiffsnamen stand, bekommt am neunundzwanzigsten Gesellschaft und am dreißigsten Listen. Drei Tanker unter liberianischer Flagge — Mersin Prosperity, Sinbad, Al Ruwais — werden in der Straße von Hormus von Geschossen unklarer Herkunft getroffen. Einer fuhr hinein. Die Zähler sprechen von einundachtzig erfassten Zwischenfällen in diesem Krieg, vierundzwanzig Toten unter Seeleuten seit Februar. Vor Musandam liegt ein Ölfleck von dreizehn auf zwanzig Kilometern; die Driftmodelle setzen ihn auf Larak und Qeshm. Der kuwaitische VLCC vom Abend des achtundzwanzigsten hat inzwischen einen Namen und fuhr dunkel. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Am dreißigsten zählen die sichtbaren Passagen zehn Schiffe, drei hinein, sieben hinaus. Der Sieben-Tage-Schnitt liegt bei knapp fünf. Vor dem Krieg waren es mehr als achtzig am Tag. Washington sagt weiter, die Straße gehöre der Ordnung, die es selbst durchgesetzt habe, und der Fluss liege über vier Fünfteln des alten Standes, wenn man Umwege mitzählt. Teheran sagt weiter, ohne seine Bedingungen bleibe sie Werkzeug, und die Revolutionsgarden sprechen von täglichen Schlägen gegen Schiffe, die ohne Erlaubnis fahren. Eine Klausel liegt in keinem der beiden Sätze. <a class=\"src\" href=\"#q9\">9</a></p>\n<p>Wer glaubt, zehn sichtbare Passagen seien eine Öffnung, verwechselt Bewegung mit Vertrag. Wer glaubt, drei getroffene Tanker seien bereits eine neue Schlacht, verwechselt Namen mit einer Entscheidung. Beides gilt am selben Morgen, und der Rial bleibt dort, wo er am Mittwoch stand: mehr als zweieinhalb Millionen zum Dollar, ein Tief, das sich innerhalb eines Monats wiederholt hat.</p>\n<p>Beobachter in Washington und Teheran lesen denselben Wasserweg als zwei verschiedene Siege. Die einen halten die Eskorte für Beweis, dass die Straße bereits genommen sei, und wollen als Nächstes nukleare Zugeständnisse. Die anderen halten jeden getroffenen Rumpf für Beweis, dass sich die Weltwirtschaft weiter erpressen lässt, und wollen zuerst die Blockade der eigenen Häfen weghaben. Eine Woche Diplomatie am Rand der Generalversammlung, einschließlich der ersten Begegnung seit Juni, hat an dieser Lesart nichts geändert. Der Umschlag vom Mittwoch bleibt Umschlag.</p>\n<h3>III. Der Hof, den man für leer erklärt</h3>\n<p>Das Pentagon sagt am Mittwoch förmlich, was Bagdad schon als Kalender verkauft hat: Inherent Resolve im Irak ist beendet. Die letzten Kräfte und das Gerät verlassen den Flugplatz Erbil. Sean Parnell spricht von einem geordneten Abgang und von einer Beziehung, die nun bilateral und normal heißen soll. Die Hauptverantwortung für Reste des Islamischen Staats und für milizennahe Gruppen liege beim irakischen Staat. Trump nennt denselben Tag groß für Amerika und den alten Krieg ein Morast aus schlechten Entscheidungen. In Bagdad dauern die Souveränitätstage bis zum dritten Oktober. <a class=\"src\" href=\"#q10\">10</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<p>Die Patriot- und C-RAM-Stellungen, die Erbil und Harir geschützt haben, gehen mit. Kurdische Stimmen nennen das Risiko beim Namen. Die Abrüstung der Iran-nahen Milizen bleibt auf Ende Juni 2027 datiert. Eine Restmannschaft ungenannter Größe soll Ausbildung und Nachrichten weiterreichen, vom Jordanien aus, wo die Mission gegen den Islamischen Staat in Syrien ihren Sitz behält. Bagdad sagt, kein ausländischer Soldat stehe mehr auf irakischem Boden. Beide Sätze können wahr sein, ohne denselben Hof zu meinen.</p>\n<p>Eine Armee geht, weil ein Vertrag aus dem Jahr 2024 es so wollte. Die Nachbarn, die bleiben, haben weiter keinen Kalender für Einfluss. Der Hahn am Golf und der leere Hof am Tigris gehören zusammen, auch wenn die Fahnen das Gegenteil behaupten. Wer den Abzug nur als irakische Souveränität liest, liest halb. Wer ihn nur als Geschenk an Teheran liest, liest auch halb. Das Buch hält beide Hälften, weil der Tigris und Hormus einander nicht auslöschen, sondern denselben Monat teilen.</p>\n<p>Ahmed Salah, siebzig, hat am Mittwoch gesagt, der Abzug fülle das Herz mit Freude, und im selben Atem verlangt, die Milizen sollten die Waffen dem Staat geben. Der Staat hat dafür Juni 2027 in den Kalender geschrieben. Freude und Frist stehen auf derselben Parade.</p>\n<h3>IV. Am Rand des Blattes</h3>\n<p>Das rumänische Parlament lehnt das von Siegfried Mureșan vorgeschlagene Kabinett ab. Es fehlen Stimmen bis zur Mehrheit von zweihundertdreiunddreißig; einhundertzweiundachtzig reichen nicht. Die Krise, die im Mai mit dem Sturz der Regierung Bolojan begann, dauert. In Bangkok und der Umgebung sterben bei den Fluten wenigstens dreiundzwanzig Menschen. In Tennessee hebt der sechste Bundesberufungsgerichtshof die Hinrichtung von Christa Pike kurz vor dem Termin auf; der Supreme Court hebt den Stay wieder auf; zwei Runden der Injektion misslingen, und Pike kommt ins Krankenhaus. Ein türkisches Gericht ordnet die Schließung der unabhängigen Seite T24 an, weil das Justizministerium einhundertachtzehn Stücke als unzulässige Werbung gelesen hat. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<p>Peking begeht den Nationalfeiertag der Volksrepublik, siebenundsiebzig Jahre nach der Ausrufung auf dem Tiananmen. Die zwei Throne haben an diesem Donnerstag keinen neuen Satz verdient; das Fest in Peking ist Kalender, kein Vertrag. Der Sicherheitsrat sondiert weiter den nächsten Generalsekretär hinter der Tür. Die nördliche Zolliste gilt seit Mitternacht Dienstag, ohne dass am Donnerstag ein neuer Satz über Fässer oder Melasse nötig wäre. Große Marken kennen Umwege. Kleine Hallen kennen sie nicht. Was drei Tage ohne Zuwachs bleibt, gehört an den Rand, nicht in ein neues Stück.</p>\n<p>In Nigeria, Zypern, Tuvalu und Palau ist der erste Oktober Unabhängigkeitstag. Die Fahnen dort meinen andere Jahre als die Fahnen am Tigris. Das Buch verwechselt sie nicht.</p>\n<h3>Beschluss des Chronisten</h3>\n<p>Das Netz in Kiew ist zum ersten Mal seit dem Frühling planmäßig dunkler geworden, und Moskau hat das Wort Atom neben Kaliningrad gelegt. Die Straße hat drei neue Namen und weiter keine Klausel. Der Hof am Tigris ist für leer erklärt und bleibt von Nachbarn bewohnt, die keinen Feiertag brauchen.</p>\n<p>Offen bleiben Hormus, das östliche Feld und der leere Hof. Die Zolliste ruht, bis jemand eine Milchquote oder eine zweite Adresse ändert.</p>\n<p>Das Buch legt heute kein altes Lesezeichen in eine Ritze. Es hält die Seite am dunklen Netz und an der Note und sieht, was der zweite Oktober aus einem Winteranfang macht, der nicht auf Frost wartet.</p>"
+}
