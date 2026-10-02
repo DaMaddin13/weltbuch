@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-02",
+  "number": 8,
+  "weekday": "Friday",
+  "title": "The Pier and the Voice",
+  "subtitle": "In which dust comes through a carriage vent, a forum lays the arsenal beside an exclave, and a tanker opens October with fire.",
+  "lede": "The second of October 2026 lets dust into a carriage over the Dnipro and gives Wednesday’s note a voice in Moscow.",
+  "readMinutes": 11,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle’s eye",
+      "summary": "Warning 147-26, a nameless fire; a cabinet sees a reply; Brent near 98, products at 58 percent.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Southern Bridge and a school; Putin speaks the arsenal; Seoul and two prisoners.",
+      "status": "ongoing"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern customs list",
+      "summary": "No new matter. Second resting day. Close only after a third.",
+      "status": "resting"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "Hamidawi suspends and keeps the sky; Zaidi holds June 2027.",
+      "status": "open"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The speaker in the forum",
+      "name": "Vladimir Putin",
+      "text": "Sets the arsenal beside Kaliningrad and concedes one percent at the refineries."
+    },
+    {
+      "role": "The commander in the east",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Inspects a charred school while a bridge sends dust into a train."
+    },
+    {
+      "role": "The host on the Tigris",
+      "name": "Ali al-Zaidi",
+      "text": "Holds 1 October as the start of a weapons monopoly and the end at June 2027."
+    },
+    {
+      "role": "The winner of the round",
+      "name": "Ahmad al-Hamidawi",
+      "text": "Suspends activity and writes the exception in the sky himself."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 1. Okt. 2026: Drohne auf Schule in Kiew, Schüler unverletzt; Südbrücke.",
+      "url": "https://www.reuters.com/world/europe/russian-air-strikes-injure-two-ukraines-kyiv-odesa-officials-say-2026-10-01/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 1. Okt. 2026: zwei Drohnen auf die Piwdennyj-Brücke, Staub im Metrozug.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo"
+    },
+    {
+      "id": "q3",
+      "text": "Meduza, 1. Okt. 2026: erster Drohnenschlag auf eine Kiewer Brücke seit der großen Invasion.",
+      "url": "https://meduza.io/en/feature/2026/10/01/russian-drones-strike-kyiv-s-southern-bridge-in-first-drone-attack-on-a-kyiv-bridge-since-the-full-scale-invasion-a-subway-train-was-crossing-it-at-the-time"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 1. Okt. 2026: Putin in Waldai, gesamtes Arsenal bei Angriff auf Kaliningrad; ein Prozent BIP.",
+      "url": "https://www.reuters.com/world/europe/putin-says-world-is-living-through-dangerous-moment-warns-west-not-escalate-2026-10-01/"
+    },
+    {
+      "id": "q5",
+      "text": "BBC, 1. Okt. 2026: Putin, alle Waffen zum Schutz Kaliningrads.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 2. Okt. 2026: Lee droht Maßnahmen wegen zweier nordkoreanischer Gefangener.",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-threatens-action-against-ukraine-over-transfer-north-korean-2026-10-02/"
+    },
+    {
+      "id": "q7",
+      "text": "gCaptain, 1. Okt. 2026: UKMTO-Warnung 147-26, Tanker getroffen, Feuer, Besatzung heil.",
+      "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-attacks-continue/"
+    },
+    {
+      "id": "q8",
+      "text": "Seatrade Maritime, 2. Okt. 2026: erster Hormus-Angriff im Oktober, Feuer.",
+      "url": "https://www.seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october"
+    },
+    {
+      "id": "q9",
+      "text": "OilPrice / Reuters, 1. Okt. 2026: drei Tanker der Vortage; iranische Lesart der Liste.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Three-Tankers-Struck-by-Unknown-Projectiles-in-Strait-of-Hormuz.html"
+    },
+    {
+      "id": "q10",
+      "text": "CNBC-TV18, 1. Okt. 2026: Brent um 98 Dollar; Araghchi legt Antwort vor; Produkte bei 58 Prozent.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-steady-west-asia-supply-recovery-iran-talks-brent-crude-wti-strait-of-hormuz-20002549.htm"
+    },
+    {
+      "id": "q11",
+      "text": "The National, 1. Okt. 2026: Hamidawi, Pause außer feindliche Flugzeuge; keine Entwaffnungsverständigung.",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/01/resistance-has-won-this-round-kataib-hezbollah-denies-disarmament-deal-after-us-troops-leave-iraq/"
+    },
+    {
+      "id": "q12",
+      "text": "Middle East Eye, 1. Okt. 2026: Kata’ib Hisbollah setzt Aktivitäten aus, Ausnahme Luftraum.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-kataib-hezbollah-announces-suspension-military-activities?topic=War%2520on%2520Iran&nid=448087&fid=558561"
+    },
+    {
+      "id": "q13",
+      "text": "Reuters, 1. Okt. 2026: pakistanische Schläge, neun Tote nach Kabul, 22 nach Islamabad.",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistani-airstrikes-afghanistan-kill-nine-kabul-says-2026-10-01/"
+    },
+    {
+      "id": "q14",
+      "text": "Al Jazeera, 1. Okt. 2026: UNAMA, wenigstens zehn Zivilisten, meist Kinder.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand"
+    },
+    {
+      "id": "q15",
+      "text": "Reuters, 1. Okt. 2026: Eritrea bricht Beziehungen zu Äthiopien ab.",
+      "url": "https://www.reuters.com/world/africa/eritrea-says-it-is-severing-all-diplomatic-ties-with-ethiopia-2026-10-01/"
+    },
+    {
+      "id": "q16",
+      "text": "Reuters, 2. Okt. 2026: Afrikanische Union mahnt Äthiopien, Eritrea, Ägypten.",
+      "url": "https://www.reuters.com/world/africa/african-union-urges-ethiopia-eritrea-egypt-refrain-actions-that-could-undermine-2026-10-02/"
+    },
+    {
+      "id": "q17",
+      "text": "Reuters, 1. Okt. 2026: Siedler töten Palästinenser in Jasuf.",
+      "url": "https://www.reuters.com/world/middle-east/israeli-settlers-kill-palestinian-west-bank-say-officials-2026-10-01/"
+    },
+    {
+      "id": "q18",
+      "text": "AP, 1. Okt. 2026: Hubschrauber vor Santa Catalina.",
+      "url": "https://apnews.com/article/california-los-angeles-helicopter-crash-accident-1be07d50b5154918d740d7308dbc3171"
+    },
+    {
+      "id": "q19",
+      "text": "AFP via France 24, 1. Okt. 2026: Start Crew-13.",
+      "url": "https://www.france24.com/en/live-news/20261001-four-member-crew-blasts-off-for-international-space-station"
+    },
+    {
+      "id": "q20",
+      "text": "Wikipedia Current Events, 1. Okt. 2026: Sudan, England, Japan, Sierra Leone, Torreón.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_1"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-01",
+    "title": "The Grid and the Note",
+    "teaser": "A grid goes dark on schedule. Three tankers acquire names. A note lays the word nuclear beside Kaliningrad."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The court with the exception",
+  "body": "<p>On the second of October a train crosses the Dnipro, and dust comes through the vents before anyone can finish the sentence that bridges had been a line this war had not touched. The carriage stays whole. The line does not. In Moscow, the same hour, a man turns Wednesday’s note into a voice and sets the arsenal beside a strip of land lying between Poland and Lithuania. Farther south a tanker catches fire, and the sea watch has not yet given it a name. Three pictures, one day, and none of them closes what the day before left open.</p>\n<h3>I. The pier that sends dust</h3>\n<p>On Thursday morning a Russian drone hits a school in Solomianskyi, the third floor, around nine local time. The pupils are in the shelter. No one is hurt at that address. Zelenskyy comes later and looks at the charred wall. What changes is not that schools are struck. It is that the same day a bridge is struck, a structure lately treated as a limit, even after power stations and flats have long been crossed. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Around noon two drones hit the Southern Bridge, the Pivdennyi, one of the main arteries over the river, road above and metro below, joining the west of the city to the east. A train is on the bridge. A passenger hears the word Shahed, then dust comes through the ventilation into the carriage. The train, on first inspection, stays whole and is sent to a depot. Traffic over the bridge stops. The metro runs only underground, between Syrets and Vydubychi, between Osokorky and Chervonyi Khutir. Buses look for detours. In the evening another drone hits the same structure: a support, a piece of roadway, the metro’s protective barrier. Klitschko sends the crews. Specialists had found no critical damage after the morning. The evening rewrites the sentence. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Meduza calls it the first strike on a Kyiv bridge since the full-scale invasion began. A political observer in the city writes that such structures had lately counted as a red line. Red lines in this war are often only the sentences that hold until they do not. To hit a bridge while a train is crossing is not only to hit concrete. It is to hit the habit that the river still holds a city together when the light is already being rationed. The grid of the day before stays dark in the book’s memory. Today’s increment is a pier.</p>\n<blockquote>A bridge is not a metaphor while a carriage swallows dust. After that, it becomes one.</blockquote>\n<p>The field reaches past the siren again, this time not through grain but through a link without which a capital splits into two banks once winter makes the detours dearer. The pier and the scarce magazine share the same war. The book does not repeat the scarcity as news.</p>\n<h3>II. The voice beside the note</h3>\n<p>In the evening Vladimir Putin speaks at the Valdai Club in Moscow and gives a voice to the diplomatic note that went to Nato on Wednesday. The world, he says, is living through a dangerous moment. Russia plans no attack on a European country, wants coexistence, and began the war only to protect its own security. In the next breath he puts the whole arsenal on the table, including nuclear weapons, if there is a direct attack on the Russian Federation, in this case on Kaliningrad and perhaps on other territories. That, he says, is inevitable. Nato is an enemy twice Russia’s size. France and Britain are nuclear powers; Moscow knows it. No one else possesses the weapons Russia has today. He calls that a competitive advantage. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Rutte had already dismissed the note as rhetoric that does not help a defensive alliance. Putin does not answer with a new clause. He answers with the old threat in longer sentences, warns of a moment when nothing can be changed, and asks whether anyone can be sure that weapons capable of destroying all life will never be used. The answer he gives himself is no. Whoever had announced a reminder to hot heads hears a stage on Thursday.</p>\n<p>Beside the stage sits a figure that bends the field back into Russia’s own economy. Putin concedes that Ukrainian strikes on Russian refineries have cost about one percent of gross domestic product. Moscow, he says, is answering in kind. He will not stop Russian strikes in the Black Sea, and says Moscow is not planning to attack European arms factories tomorrow. He is ready for a three-way meeting with Xi and Trump if an agenda is settled first. An agenda is not yet a table. One percent is not yet a winter. Neither opens the strait or the grid. <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Early on Friday a sentence arrives from Seoul that does not sound like Kaliningrad and is stitched to the same war anyway. President Lee Jae Myung threatens further measures unless Kyiv admits what Seoul calls a confidentiality agreement on the transfer of two captured North Korean soldiers, and apologises. Zelenskyy had announced the transfer at the General Assembly. Seoul says secrecy was meant to protect the soldiers. Kyiv says no such agreement existed. Foreign minister Sybiha calls it a diplomatic misunderstanding. Lee calls Ukrainian remarks about an imminent clash on the peninsula an encouragement of war. Further measures, an analyst in Seoul guesses, would most likely touch aid South Korea already gives, most recently a hundred million dollars in non-lethal support on the margins of the Nato summit. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>Two prisoners who fought for Russia and now stand between two capitals are not a ceasefire. They are proof that this war exports personnel and presents the bill in another time zone.</p>\n<h3>III. The fire that opens October</h3>\n<p>The British maritime watch issues Warning 147-26 on Thursday. A third party has reported a tanker struck in the Strait of Hormuz by a projectile of unclear origin, around 17:50 universal time, fire on board, crew safe, damage and environmental effect unknown at the time of the report. The Joint Maritime Information Center had earlier counted four confirmed attacks or disruptions in ninety-six hours and left the threat at severe. Thursday sits outside those four. Trade reporting counts at least sixteen attacks on ships in the strait in September, mostly tankers, four of them in twenty-four hours at the end of the month. October does not open with a pause. It opens with a flame that still has no name. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Iranian outlets claim the three Emirati tankers of the previous days had stood on a non-compliance list, and read the hits as enforcement. The claim comes from state channels. The sea watch names no attacker. Tehran still speaks of conditions. Washington still speaks of an order it says it has imposed. On Thursday, by the account of government spokeswoman Fatemeh Mohajerani, foreign minister Abbas Araghchi lays an American reply before the cabinet. What it contains is not on the table. To read a presentation as the end of the war is to read an envelope as a treaty. The book does not. <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Brent settles Thursday around ninety-eight dollars, after climbing as high as one hundred and four in Wednesday’s session. Analysts at JPMorgan estimate the region’s crude exports at seventeen and a half million barrels a day, close to the pre-war level, while diesel, gasoline and other products sit near fifty-eight percent. The barrels find detours. The fuel does not, to the same degree. A strait that lets crude through and shortens products is not an opening. It is a selection, and the selection reaches the pump before it reaches the statistic. <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Whoever takes Wednesday’s visible transits for a peace has not read Thursday. A nameless flame is a warning number, not a clause. The tap stands where it stood.</p>\n<h3>IV. The court that writes its own exception</h3>\n<p>In Baghdad the days called sovereignty continue. What is new is not on the parade. It is in a statement. Ahmad al-Hamidawi, secretary-general of Kataib Hezbollah, orders military activity in Iraq suspended, except strikes on aircraft the formation reads as hostile and as violating the airspace, until state air defence is finished. He calls the resistance the winner of this round, because the winner dictates terms to the enemy. He denies any understanding with prime minister Ali al-Zaidi on disarmament. They had waited until the last hour for an answer, he says, and then started again. <a class=\"src\" href=\"#q11\">11</a> <a class=\"src\" href=\"#q12\">12</a></p>\n<p>Al-Zaidi holds the other line: the first of October must be the start of the state’s monopoly on weapons, along a roadmap whose end he sets at the thirtieth of June 2027. Two smaller formations claim they have already placed their weapons under state authority. The strongest writes its own pause and keeps the sky. A pause whose exception is defined by the one who pauses is not a handover. It is a flag lowered without the court being cleared.</p>\n<p>The American withdrawal remains what it was on Wednesday: a date, an empty airfield at Erbil, residual work from beyond the border. Friday’s increment is the sentence of those who stay and write the condition themselves. Baghdad celebrates a state. The formation celebrates a round. Both calendars can hang on the same day without meaning the same court.</p>\n<h3>V. At the edge of the leaf</h3>\n<p>Pakistan strikes targets in Kunar and Helmand late on Wednesday and in the night, and speaks of twenty-two fighters killed. Kabul speaks of nine dead, women and children, eleven wounded, three houses destroyed. The United Nations mission counts at least ten civilians killed, most of them children. Three months of relative quiet are over. The book does not yet open a strand of its own; it marks the margin, so the next day cannot pretend the frontier starts at zero. <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a></p>\n<p>Eritrea severs diplomatic relations with Ethiopia after Addis Ababa closes its embassy in Asmara, declares ten Eritrean diplomats persona non grata, and orders an Egyptian diplomat out within forty-eight hours. Cairo answers in kind. Late on Thursday the African Union Commission calls on Ethiopia, Eritrea and Egypt for maximum restraint. On the Horn there is no treaty, only a table cleared, and the table reaches past Tigray to the Nile. <a class=\"src\" href=\"#q15\">15</a> <a class=\"src\" href=\"#q16\">16</a></p>\n<p>In the village of Yasuf in the occupied West Bank, settlers shoot and kill a Palestinian man in his home and wound another. In El Obeid a Rapid Support Forces drone hits a dormitory at the University of Kordofan; five people die. Off Santa Catalina a medical helicopter carrying a patient goes into the sea, two dead, two injured, one missing. In England and Wales hundreds of prisoners begin to leave early, more than four thousand five hundred in the coming weeks, because the prisons are full. Crew-13 lifts from Cape Canaveral. Japan raises the bar for permanent residency, the Commission stops eighteen million euro to Sierra Leone, and in Torreón a vice-principal dies by knives in a school that thought the day was ordinary. <a class=\"src\" href=\"#q17\">17</a> <a class=\"src\" href=\"#q18\">18</a> <a class=\"src\" href=\"#q19\">19</a> <a class=\"src\" href=\"#q20\">20</a></p>\n<p>The northern customs list has earned no new sentence by Friday morning. Large brands still know their detours; small halls do not. Two days without increment are not yet a close. A third silent day would ask whether the list belongs at the margin until someone changes a quota or a second address. The two thrones have no new treaty on this Friday either.</p>\n<h3>The chronicler’s close</h3>\n<p>The pier over the Dnipro has sent dust into a carriage, and Wednesday’s note has found a voice in Moscow that sets the arsenal beside Kaliningrad and concedes one percent lost at the refineries. The strait opens October with a nameless flame and with a cabinet that has seen a reply without showing it. The court on the Tigris writes its own pause and keeps the sky.</p>\n<p>Still open: Hormuz, the eastern field, and the court that reserves its own exception. The customs list rests. A strike on the Afghan frontier and a cleared table on the Horn sit at the margin until they carry a second day.</p>\n<p>Today the book sets the page against the pier that sent the dust, and against the voice that laid an arsenal beside a strip of land. It waits to see whether the next night leaves the bridge standing as a road or only as a scar, and whether the envelope finally becomes a clause or only another sheet that no one opens.</p>"
+}
