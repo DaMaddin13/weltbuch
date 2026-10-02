@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-02",
+  "number": 8,
+  "weekday": "Freitag",
+  "title": "Der Pfeiler und die Stimme",
+  "subtitle": "In dem Staub durch die Lüftung eines Zuges kommt, ein Forum das Arsenal neben eine Exklave legt und ein Tanker den Oktober mit Feuer beginnt.",
+  "lede": "Der zweite Oktober 2026 lässt über dem Dnipro Staub in einen Wagen und gibt der Note vom Mittwoch in Moskau eine Stimme.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Warnung 147-26, Feuer ohne Namen; Kabinett sieht eine Antwort; Brent um 98, Produkte bei 58 Prozent.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Südbrücke und Schule; Putin spricht das Arsenal; Seoul und zwei Gefangene.",
+      "status": "andauernd"
+    },
+    {
+      "id": "F",
+      "since": "Strang F · seit 29. Sept.",
+      "title": "Die nördliche Zolliste",
+      "summary": "Kein neuer Stoff. Zweiter ruhender Tag. Schließen erst nach einem dritten.",
+      "status": "ruhend"
+    },
+    {
+      "id": "G",
+      "since": "Strang G · seit 30. Sept.",
+      "title": "Der letzte Posten",
+      "summary": "Hamidawi setzt aus und behält den Himmel; Zaidi hält Juni 2027.",
+      "status": "offen"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Redner im Forum",
+      "name": "Wladimir Putin",
+      "text": "Legt das Arsenal neben Kaliningrad und räumt ein Prozent an den Raffinerien ein."
+    },
+    {
+      "role": "Der Feldherr im Osten",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Besichtigt eine verkohlte Schule, während eine Brücke Staub in einen Zug schickt."
+    },
+    {
+      "role": "Der Hausherr am Tigris",
+      "name": "Ali al-Zaidi",
+      "text": "Hält den ersten Oktober als Anfang des Waffenmonopols und das Ende auf Juni 2027."
+    },
+    {
+      "role": "Der Sieger der Runde",
+      "name": "Ahmad al-Hamidawi",
+      "text": "Setzt die Aktivitäten aus und schreibt sich die Ausnahme am Himmel selbst."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 1. Okt. 2026: Drohne auf Schule in Kiew, Schüler unverletzt; Südbrücke.",
+      "url": "https://www.reuters.com/world/europe/russian-air-strikes-injure-two-ukraines-kyiv-odesa-officials-say-2026-10-01/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 1. Okt. 2026: zwei Drohnen auf die Piwdennyj-Brücke, Staub im Metrozug.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn8e8344v5qo"
+    },
+    {
+      "id": "q3",
+      "text": "Meduza, 1. Okt. 2026: erster Drohnenschlag auf eine Kiewer Brücke seit der großen Invasion.",
+      "url": "https://meduza.io/en/feature/2026/10/01/russian-drones-strike-kyiv-s-southern-bridge-in-first-drone-attack-on-a-kyiv-bridge-since-the-full-scale-invasion-a-subway-train-was-crossing-it-at-the-time"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 1. Okt. 2026: Putin in Waldai, gesamtes Arsenal bei Angriff auf Kaliningrad; ein Prozent BIP.",
+      "url": "https://www.reuters.com/world/europe/putin-says-world-is-living-through-dangerous-moment-warns-west-not-escalate-2026-10-01/"
+    },
+    {
+      "id": "q5",
+      "text": "BBC, 1. Okt. 2026: Putin, alle Waffen zum Schutz Kaliningrads.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 2. Okt. 2026: Lee droht Maßnahmen wegen zweier nordkoreanischer Gefangener.",
+      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-threatens-action-against-ukraine-over-transfer-north-korean-2026-10-02/"
+    },
+    {
+      "id": "q7",
+      "text": "gCaptain, 1. Okt. 2026: UKMTO-Warnung 147-26, Tanker getroffen, Feuer, Besatzung heil.",
+      "url": "https://gcaptain.com/another-tanker-hit-in-strait-of-hormuz-as-attacks-continue/"
+    },
+    {
+      "id": "q8",
+      "text": "Seatrade Maritime, 2. Okt. 2026: erster Hormus-Angriff im Oktober, Feuer.",
+      "url": "https://www.seatrade-maritime.com/security/tanker-catches-fire-after-first-hormuz-attack-in-october"
+    },
+    {
+      "id": "q9",
+      "text": "OilPrice / Reuters, 1. Okt. 2026: drei Tanker der Vortage; iranische Lesart der Liste.",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Three-Tankers-Struck-by-Unknown-Projectiles-in-Strait-of-Hormuz.html"
+    },
+    {
+      "id": "q10",
+      "text": "CNBC-TV18, 1. Okt. 2026: Brent um 98 Dollar; Araghchi legt Antwort vor; Produkte bei 58 Prozent.",
+      "url": "https://www.cnbctv18.com/market/commodities/oil-prices-steady-west-asia-supply-recovery-iran-talks-brent-crude-wti-strait-of-hormuz-20002549.htm"
+    },
+    {
+      "id": "q11",
+      "text": "The National, 1. Okt. 2026: Hamidawi, Pause außer feindliche Flugzeuge; keine Entwaffnungsverständigung.",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/01/resistance-has-won-this-round-kataib-hezbollah-denies-disarmament-deal-after-us-troops-leave-iraq/"
+    },
+    {
+      "id": "q12",
+      "text": "Middle East Eye, 1. Okt. 2026: Kata’ib Hisbollah setzt Aktivitäten aus, Ausnahme Luftraum.",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iraqs-kataib-hezbollah-announces-suspension-military-activities?topic=War%2520on%2520Iran&nid=448087&fid=558561"
+    },
+    {
+      "id": "q13",
+      "text": "Reuters, 1. Okt. 2026: pakistanische Schläge, neun Tote nach Kabul, 22 nach Islamabad.",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistani-airstrikes-afghanistan-kill-nine-kabul-says-2026-10-01/"
+    },
+    {
+      "id": "q14",
+      "text": "Al Jazeera, 1. Okt. 2026: UNAMA, wenigstens zehn Zivilisten, meist Kinder.",
+      "url": "https://www.aljazeera.com/news/2026/10/1/afghanistan-says-nine-killed-in-pakistani-air-raids-on-kunar-helmand"
+    },
+    {
+      "id": "q15",
+      "text": "Reuters, 1. Okt. 2026: Eritrea bricht Beziehungen zu Äthiopien ab.",
+      "url": "https://www.reuters.com/world/africa/eritrea-says-it-is-severing-all-diplomatic-ties-with-ethiopia-2026-10-01/"
+    },
+    {
+      "id": "q16",
+      "text": "Reuters, 2. Okt. 2026: Afrikanische Union mahnt Äthiopien, Eritrea, Ägypten.",
+      "url": "https://www.reuters.com/world/africa/african-union-urges-ethiopia-eritrea-egypt-refrain-actions-that-could-undermine-2026-10-02/"
+    },
+    {
+      "id": "q17",
+      "text": "Reuters, 1. Okt. 2026: Siedler töten Palästinenser in Jasuf.",
+      "url": "https://www.reuters.com/world/middle-east/israeli-settlers-kill-palestinian-west-bank-say-officials-2026-10-01/"
+    },
+    {
+      "id": "q18",
+      "text": "AP, 1. Okt. 2026: Hubschrauber vor Santa Catalina.",
+      "url": "https://apnews.com/article/california-los-angeles-helicopter-crash-accident-1be07d50b5154918d740d7308dbc3171"
+    },
+    {
+      "id": "q19",
+      "text": "AFP via France 24, 1. Okt. 2026: Start Crew-13.",
+      "url": "https://www.france24.com/en/live-news/20261001-four-member-crew-blasts-off-for-international-space-station"
+    },
+    {
+      "id": "q20",
+      "text": "Wikipedia Current Events, 1. Okt. 2026: Sudan, England, Japan, Sierra Leone, Torreón.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_1"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-01",
+    "title": "Das Netz und die Note",
+    "teaser": "Ein Netz wird planmäßig dunkler. Drei Tanker bekommen Namen. Eine Note legt das Wort Atom neben Kaliningrad."
+  },
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Der Hof mit der Ausnahme",
+  "body": "<p>Über dem Dnipro fährt am zweiten Oktober ein Zug, und der Staub kommt durch die Lüftung, bevor irgendjemand den Satz zu Ende bringt, Brücken seien bisher eine Linie gewesen, die dieser Krieg nicht angefasst habe. Der Wagen bleibt heil. Die Linie nicht. In Moskau spricht zur selben Stunde ein Mann, der eine Note vom Mittwoch in eine Stimme übersetzt und das Arsenal neben ein Stück Land legt, das zwischen Polen und Litauen liegt. Auf dem Wasser weiter südlich fängt ein Tanker Feuer, dessen Name die Seewache noch nicht hergibt. Drei Bilder, ein Tag, und keines von ihnen schließt, was der Vortag offen gelassen hat.</p>\n<h3>I. Der Pfeiler, der Staub schickt</h3>\n<p>Am Donnerstagmorgen schlägt eine russische Drohne in ein Schulhaus im Stadtteil Solomjanskyj, ins dritte Geschoss, gegen neun Uhr Ortszeit. Die Schüler sitzen im Schutzraum. Verletzte gibt es an dieser Adresse nicht. Selenskyj kommt später und sieht sich die verkohlte Wand an. Was sich ändert, ist nicht, dass Schulen getroffen werden. Es ist, dass am selben Tag eine Brücke drankommt, die bisher als Grenze galt, auch wenn Kraftwerke und Wohnungen längst überschritten worden sind. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Gegen Mittag treffen zwei Drohnen die Südbrücke, den Piwdennyj, eine der Hauptadern über den Fluss, die den Westen der Stadt mit dem Osten verbindet und oben die Straße trägt, unten die Metro. Ein Zug ist gerade auf der Brücke. Eine Passagierin hört das Wort Schahed, dann kommt Staub durch die Lüftung in den Wagen. Der Zug selbst bleibt, nach erster Prüfung, heil und fährt in ein Depot. Der Verkehr über die Brücke hält an. Die Metro läuft nur noch unter der Erde, zwischen Syrez und Wydubytschi, zwischen Osokorky und Tscherwonyj Chutir. Busse suchen Umwege. Am Abend trifft eine weitere Drohne denselben Bau: einen Stützpfeiler, ein Stück Fahrbahn, die Schutzbarriere der Metro. Klitschko schickt die Einsatzkräfte. Fachleute hatten nach dem Morgen noch keinen kritischen Schaden gefunden. Der Abend schreibt den Satz neu. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Meduza nennt den Schlag den ersten auf eine Kiewer Brücke seit Beginn der großen Invasion. Ein politischer Beobachter in der Stadt schreibt, solche Bauten hätten zuletzt als rote Linie gegolten. Rote Linien sind in diesem Krieg oft nur die Sätze, die gelten, bis sie nicht mehr gelten. Wer eine Brücke trifft, während ein Zug darüberfährt, trifft nicht nur Beton. Er trifft die Gewohnheit, dass der Fluss noch eine Stadt zusammenhält, wenn das Licht schon planmäßig knapper wird. Das Netz vom Vortag bleibt dunkel in der Erinnerung des Buches. Heute ist der Zuwachs ein Pfeiler.</p>\n<blockquote>Eine Brücke ist keine Metapher, solange ein Wagen Staub schluckt. Danach wird sie eine.</blockquote>\n<p>Das Feld reicht damit über die Sirene hinaus, diesmal nicht über Getreide, sondern über eine Verbindung, ohne die eine Hauptstadt in zwei Ufer zerfällt, sobald der Winter die Umwege teurer macht. Der Pfeiler und das knappe Magazin teilen denselben Krieg. Das Buch wiederholt die Knappheit nicht als Neuigkeit.</p>\n<h3>II. Die Stimme neben der Note</h3>\n<p>Am Abend spricht Wladimir Putin vor dem Waldai-Klub in Moskau und gibt der diplomatischen Note, die am Mittwoch an die Nato ging, eine Stimme. Die Welt, sagt er, durchlebe einen gefährlichen Augenblick. Russland plane keinen Angriff auf ein europäisches Land, wolle Koexistenz, und habe den Krieg nur begonnen, um die eigene Sicherheit zu wahren. Im nächsten Atem legt er das gesamte Arsenal auf den Tisch, einschließlich der Kernwaffen, falls es zu einem direkten Angriff auf die Russische Föderation komme, in diesem Fall auf Kaliningrad und vielleicht auf andere Gebiete. Das sei unvermeidlich. Die Nato sei ein Gegner von doppelter Größe. Frankreich und Britannien seien Nuklearmächte, das wisse man. Niemand sonst besitze die Waffen, die Russland heute habe. Das nennt er einen Wettbewerbsvorteil. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Rutte hatte die Note schon als Rhetorik zurückgewiesen, die einer defensiven Allianz nicht helfe. Putin antwortet nicht mit einer neuen Klausel, sondern mit der alten Drohung in längeren Sätzen, warnt vor einem Punkt, an dem nichts mehr zu ändern sei, und fragt, ob man sicher sein könne, dass Waffen, die alles Leben zerstören könnten, niemals eingesetzt würden. Die Antwort, die er sich selbst gibt, lautet nein. Wer eine Erinnerung an heiße Köpfe angekündigt hatte, hört am Donnerstag eine Bühne.</p>\n<p>Neben der Bühne steht eine Zahl, die das Feld in die eigene Wirtschaft zurückbiegt. Putin räumt ein, ukrainische Schläge auf russische Raffinerien hätten etwa ein Prozent des Bruttoinlandsprodukts gekostet. Moskau antworte in gleicher Münze. Die eigenen Schläge im Schwarzen Meer stellt er nicht ein, und europäische Waffenfabriken, sagt er, wolle man morgen nicht angreifen. Bereit sei er zu einem Dreiertreffen mit Xi und Trump, wenn zuvor eine Tagesordnung sitze. Eine Tagesordnung ist noch kein Tisch. Ein Prozent ist noch kein Winter. Keines von beiden öffnet die Straße oder das Netz. <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Am frühen Freitag kommt aus Seoul ein Satz, der nicht nach Kaliningrad klingt und doch an denselben Krieg genäht ist. Präsident Lee Jae Myung droht mit weiteren Maßnahmen, sollte Kiew nicht einräumen, was Seoul eine Vertraulichkeitsvereinbarung über die Übergabe zweier gefangener nordkoreanischer Soldaten nennt, und sich nicht entschuldigen. Selenskyj hatte die Übergabe in der Generalversammlung bekannt gegeben. Seoul sagt, die Verschwiegenheit habe die Soldaten schützen sollen. Kiew sagt, eine solche Vereinbarung habe es nicht gegeben. Außenminister Sybiha spricht von einem diplomatischen Missverständnis. Lee nennt ukrainische Bemerkungen über einen nahen Zusammenstoß auf der Halbinsel eine Ermutigung zum Krieg. Weitere Maßnahmen, vermutet ein Analytiker in Seoul, träfen am ehesten die Hilfe, die Südkorea schon leistet, zuletzt hundert Millionen Dollar nichttödlicher Unterstützung am Rand des Nato-Gipfels. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>Zwei Gefangene, die für Russland gefochten haben und nun zwischen zwei Hauptstädten stehen, sind kein Waffenstillstand. Sie sind der Beweis, dass dieser Krieg Personal exportiert und die Quittung in einer anderen Zeitzone präsentiert.</p>\n<h3>III. Das Feuer, das den Oktober öffnet</h3>\n<p>Die britische Seewache gibt am Donnerstag die Warnung 147-26 heraus. Ein Dritter hat gemeldet, ein Tanker sei in der Straße von Hormus von einem Geschoss unklarer Herkunft getroffen worden, gegen 17.50 Uhr Weltzeit, Feuer an Bord, Besatzung heil, Schaden und Umweltfolge zum Zeitpunkt der Meldung unbekannt. Das Joint Maritime Information Center hatte zuvor vier bestätigte Angriffe oder Störungen in sechsundneunzig Stunden gezählt und die Lage auf schwer belassen. Der Donnerstag liegt außerhalb dieser Vier. Im September zählt die Fachpresse wenigstens sechzehn Angriffe auf Schiffe in der Straße, vor allem Tanker, vier davon in vierundzwanzig Stunden am Ende des Monats. Der Oktober beginnt nicht mit einer Pause. Er beginnt mit einer Flamme, die noch keinen Namen trägt. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Iranische Stellen behaupten, die drei emiratischen Tanker der Vortage hätten auf einer Liste der Nichtbefolgung gestanden, und lesen die Treffer als Vollzug. Die Behauptung kommt aus staatlichen Kanälen. Die Seewache nennt keine Täter. Teheran spricht weiter von Bedingungen. Washington spricht weiter von einer Ordnung, die es durchgesetzt habe. Am Donnerstag legt Außenminister Abbas Araghchi nach Angaben der Regierungssprecherin Fatemeh Mohajerani dem Kabinett eine amerikanische Antwort vor. Was darin steht, liegt nicht auf dem Tisch. Wer aus einer Vorlage schon ein Ende des Krieges liest, liest den Umschlag als Vertrag. Das Buch tut das nicht. <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Brent schließt den Donnerstag um achtundneunzig Dollar, nachdem es am Mittwoch im Tagesverlauf bis auf hundertvier geklettert war. Analytiker bei JPMorgan schätzen die Rohölexporte der Region auf siebzehneinhalb Millionen Fass am Tag, nahe am Stand vor dem Krieg, während Diesel, Benzin und andere Produkte nur bei etwa achtundfünfzig Prozent liegen. Die Fässer finden Umwege. Der Treibstoff nicht im selben Maß. Eine Straße, die Rohöl durchlässt und Produkte kürzt, ist keine Öffnung. Sie ist eine Auswahl, und die Auswahl trifft die Tankstelle früher als die Statistik. <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Wer die sichtbaren Passagen vom Mittwoch für einen Frieden hält, hat den Donnerstag nicht gelesen. Eine Flamme ohne Namen ist eine Warnnummer, keine Klausel. Der Hahn steht, wo er stand.</p>\n<h3>IV. Der Hof, der sich die Ausnahme schreibt</h3>\n<p>In Bagdad dauern die Tage, die man Souveränität nennt. Was neu ist, steht nicht auf der Parade, sondern in einer Erklärung. Ahmad al-Hamidawi, Generalsekretär der Kata’ib Hisbollah, ordnet an, die militärischen Aktivitäten in Irak einzustellen, ausgenommen Schläge gegen Flugzeuge, die der Verband als feindlich liest und die den Luftraum verletzen, bis die staatliche Luftabwehr fertig sei. Den Widerstand nennt er Sieger dieser Runde, weil der Sieger dem Gegner die Bedingungen diktiere. Eine Verständigung mit Premierminister Ali al-Zaidi über die Entwaffnung bestreitet er. Man habe bis zur letzten Stunde auf eine Antwort gewartet und dann neu angesetzt. <a class=\"src\" href=\"#q11\">11</a> <a class=\"src\" href=\"#q12\">12</a></p>\n<p>Al-Zaidi hält dagegen, der erste Oktober müsse der Anfang sein für das Monopol des Staates auf Waffen, nach einem Fahrplan, dessen Ende er auf den dreißigsten Juni 2027 legt. Zwei kleinere Formationen behaupten, ihre Waffen schon unter staatliche Autorität gestellt zu haben. Die mächtigste schreibt sich die Pause selbst und behält den Himmel. Eine Pause, deren Ausnahme der Pausierende definiert, ist keine Übergabe. Sie ist eine Fahne, die man senkt, ohne den Hof zu räumen.</p>\n<p>Der amerikanische Abzug bleibt, was er am Mittwoch war: ein Datum, ein leerer Flugplatz in Erbil, eine Restarbeit von jenseits der Grenze. Der Zuwachs des Freitags ist der Satz derer, die bleiben und sich die Bedingung selber schreiben. Bagdad feiert einen Staat. Die Formation feiert eine Runde. Beide Kalender können am selben Tag hängen, ohne denselben Hof zu meinen.</p>\n<h3>V. Am Rand des Blattes</h3>\n<p>Pakistan fliegt am späten Mittwoch und in der Nacht Ziele in Kunar und Helmand an und spricht von zweiundzwanzig getöteten Kämpfern. Kabul spricht von neun Toten, Frauen und Kindern, elf Verletzten, drei zerstörten Häusern. Die Mission der Vereinten Nationen zählt wenigstens zehn getötete Zivilisten, die meisten Kinder. Drei Monate relativer Ruhe sind damit zu Ende. Das Buch öffnet daraus noch keinen eigenen Strang; es merkt den Rand an, damit der nächste Tag nicht so tut, als beginne die Grenze bei null. <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a></p>\n<p>Eritrea bricht die diplomatischen Beziehungen zu Äthiopien ab, nachdem Addis Abeba die Botschaft in Asmara geschlossen, zehn eritreische Diplomaten ausgewiesen und einen ägyptischen Diplomaten des Landes verwiesen hat. Kairo antwortet in gleicher Münze. Die Kommission der Afrikanischen Union fordert am späten Donnerstag Äthiopien, Eritrea und Ägypten zu äußerster Zurückhaltung auf. Am Horn steht damit kein Vertrag, sondern ein abgeräumter Tisch, und der Tisch reicht über Tigray hinaus bis an den Nil. <a class=\"src\" href=\"#q15\">15</a> <a class=\"src\" href=\"#q16\">16</a></p>\n<p>Im Dorf Jasuf im besetzten Westjordanland erschießen Siedler einen palästinensischen Mann in seinem Haus und verletzen einen weiteren. In al-Ubayyid trifft eine Drohne der Rapid Support Forces ein Wohnheim der Universität Kordofan; fünf Menschen sterben. Vor Santa Catalina stürzt ein Rettungshubschrauber mit einem Patienten ins Meer, zwei Tote, zwei Verletzte, eine Person vermisst. In England und Wales beginnen Hunderte Gefangene die Haft früher zu verlassen, mehr als viertausendfünfhundert in den kommenden Wochen, weil die Anstalten voll sind. Von Cape Canaveral startet die Crew-13 zur Station. Japan hebt die Hürde für den Daueraufenthalt, die Kommission stoppt achtzehn Millionen Euro an Sierra Leone, und in Torreón sterben eine Vizedirektorin und die Fassung einer Schule an Messern. <a class=\"src\" href=\"#q17\">17</a> <a class=\"src\" href=\"#q18\">18</a> <a class=\"src\" href=\"#q19\">19</a> <a class=\"src\" href=\"#q20\">20</a></p>\n<p>Die nördliche Zolliste hat keinen neuen Satz verdient. Große Marken kennen ihre Umwege weiter, kleine Hallen nicht. Zwei Tage ohne Zuwachs sind noch kein Schluss. Ein dritter stiller Tag würde fragen, ob die Liste an den Rand gehört, bis jemand eine Quote oder eine zweite Adresse ändert. Die zwei Throne haben an diesem Freitag keinen neuen Vertrag.</p>\n<h3>Beschluss des Chronisten</h3>\n<p>Der Pfeiler über dem Dnipro hat Staub in einen Wagen gelassen, und die Note vom Mittwoch hat in Moskau eine Stimme bekommen, die das Arsenal neben Kaliningrad legt und ein Prozent Verlust an den Raffinerien einräumt. Die Straße beginnt den Oktober mit einer Flamme ohne Namen und mit einem Kabinett, das eine Antwort sieht, ohne sie zu zeigen. Der Hof am Tigris schreibt sich die Pause selbst und behält den Himmel.</p>\n<p>Offen bleiben Hormus, das östliche Feld und der Hof, der sich die Ausnahme vorbehält. Die Zolliste ruht. Ein Schlag an der afghanischen Grenze und ein abgeräumter Tisch am Horn liegen am Rand, bis sie einen zweiten Tag tragen.</p>\n<p>Das Buch stellt die Seite gegen den Pfeiler, der Staub geschickt hat, und gegen die Stimme, die ein Arsenal neben einen Streifen Land gelegt hat. Es wartet, ob die nächste Nacht die Brücke als Weg stehen lässt oder nur als Narbe, und ob aus dem Umschlag endlich eine Klausel wird oder nur ein weiteres Blatt, das niemand aufschlägt.</p>"
+}
