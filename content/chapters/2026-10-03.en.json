@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-03",
+  "number": 9,
+  "weekday": "Saturday",
+  "title": "The Barrels and the Half City",
+  "subtitle": "In which a cellar is opened against the tap, a capital counts its bridges, and a second needle comes onto the map.",
+  "lede": "The third of October 2026 makes the bridges in Kyiv scarce and opens a cellar of barrels in Paris.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle",
+      "summary": "G7 releases 100 million barrels; Kazimah III ashore; Riyadh plans the push on Bab el-Mandeb. No clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Fourth hit on the Southern Bridge, three bridges shut; Saturday ballistic, one dead; four offers and no table; Latvians vote.",
+      "status": "ongoing"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern customs list",
+      "summary": "Third day without matter. Closure proposed.",
+      "status": "resting · closure proposed"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "No increment beyond the pause it wrote itself. Rests.",
+      "status": "resting"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The Horn before the city",
+      "summary": "Militia before Mekelle; ties cut; AU urges restraint. Second day, lifted from the footnote.",
+      "status": "open"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The host of the cellar",
+      "name": "Emmanuel Macron",
+      "text": "Chairs the call and opens, with the Seven, a store of a hundred million barrels."
+    },
+    {
+      "role": "The commander in the east",
+      "name": "Volodymyr Zelensky",
+      "text": "Says at a charred school that Putin is not afraid of the Europeans, and counts a city losing its bridges."
+    },
+    {
+      "role": "The bearer of four offers",
+      "name": "Andrii Sybiha",
+      "text": "Names India, Turkey, Egypt and Washington, and binds energy to the Black Sea."
+    },
+    {
+      "role": "The premier under the sky",
+      "name": "Andris Kulbergs",
+      "text": "Leads the polls while Eurofighters lie over the Saeima."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 2. Okt. 2026: erneuter Schlag auf die Südbrücke, drei Brücken ganz oder teilweise zu.",
+      "url": "https://www.reuters.com/world/europe/russian-air-strikes-hit-southern-bridge-kyiv-again-mayor-says-2026-10-02/"
+    },
+    {
+      "id": "q2",
+      "text": "Censor.NET, 2. Okt. 2026: Piwdennyj ganz geschlossen, vierter Treffer, Beschränkungen auf drei weiteren Brücken.",
+      "url": "https://censor.net/en/news/4026435/kyiv-bridge-closures-pivdennyi-bridge-shut-three-others-restricted"
+    },
+    {
+      "id": "q3",
+      "text": "RBC-Ukraine, 2. Okt. 2026: 108 Drohnen, 88 abgefangen, Toter im Hochhaus Darnyzkyj.",
+      "url": "https://newsukraine.rbc.ua/news/russia-sends-over-100-drones-into-ukraine-1790920505.html"
+    },
+    {
+      "id": "q4",
+      "text": "El País, 2. Okt. 2026: Selenskyj, Putin fürchte Europäer nicht, Ziel sei die Entleerung der Hauptstadt.",
+      "url": "https://english.elpais.com/international/2026-10-02/volodymyr-zelenskiy-to-el-pais-on-the-new-russian-offensive-against-kyiv-putin-isnt-afraid-of-europeans.html"
+    },
+    {
+      "id": "q5",
+      "text": "ISW, 2. Okt. 2026: wiederholte Schläge auf die Südbrücke, Verdichtung auf die großen Städte.",
+      "url": "https://understandingwar.org/research/russia-ukraine/russian-offensive-campaign-assessment-october-2-2026/"
+    },
+    {
+      "id": "q6",
+      "text": "Kyiv Post, 3. Okt. 2026: ballistischer Schlag am frühen Samstag, ein Toter, zwei Verletzte.",
+      "url": "https://www.kyivpost.com/post/86004"
+    },
+    {
+      "id": "q7",
+      "text": "Jewropejska Prawda, 2. Okt. 2026: Sybiha, vier Angebote aus Indien, Türkei, Ägypten, USA.",
+      "url": "https://www.eurointegration.com.ua/rus/news/2026/10/2/7246770/"
+    },
+    {
+      "id": "q8",
+      "text": "BBC, 2. Okt. 2026: G7 gibt bis zu 100 Millionen Fass frei, Brent zurück um 102.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo"
+    },
+    {
+      "id": "q9",
+      "text": "New York Times, 2. Okt. 2026: Diesel und Rohöl über vier Monate, IEA koordiniert.",
+      "url": "https://www.nytimes.com/2026/10/02/business/diesel-reserves-g7.html"
+    },
+    {
+      "id": "q10",
+      "text": "PBS / AP, 2. Okt. 2026: Diesel in den USA bei 6,37 Dollar, Freigabe sofort.",
+      "url": "https://www.pbs.org/newshour/world/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel"
+    },
+    {
+      "id": "q11",
+      "text": "Indian Express, 3. Okt. 2026: fünf indische Seeleute der Kazimah III an Land in Oman.",
+      "url": "https://indianexpress.com/article/world/us-iran-war-live-news-updates-saudi-arabia-houthi-struck-school-oil-prices-india-flydubai-pilot-10904552/"
+    },
+    {
+      "id": "q12",
+      "text": "hormuz.now, 2. Okt. 2026: neun sichtbare Passagen, drei Tanker.",
+      "url": "https://hormuz.now/traffic/2026-10-02"
+    },
+    {
+      "id": "q13",
+      "text": "Reuters, 2. Okt. 2026: saudische Offensive geplant, Bab al-Mandab, zwei Varianten.",
+      "url": "https://www.reuters.com/world/asia-pacific/saudis-plan-assault-houthis-break-red-sea-chokehold-2026-10-02/"
+    },
+    {
+      "id": "q14",
+      "text": "Reuters, 3. Okt. 2026: Saeima-Wahl im Schatten von Drohnen.",
+      "url": "https://www.reuters.com/world/latvians-vote-election-shadow-drone-incursions-war-ukraine-2026-10-03/"
+    },
+    {
+      "id": "q15",
+      "text": "BBC, 2. Okt. 2026: Schulunruhen, über 700 Schulen zu, Darmanin.",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo"
+    },
+    {
+      "id": "q16",
+      "text": "Wikipedia Current Events, 2. und 3. Okt. 2026.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_2"
+    },
+    {
+      "id": "q17",
+      "text": "Reuters, 2. Okt. 2026: Miliz vor Mekelle, Botschaften, AU.",
+      "url": "https://www.reuters.com/world/africa/ethiopian-forces-near-tigray-capital-fears-grow-wider-conflict-2026-10-02/"
+    },
+    {
+      "id": "q18",
+      "text": "Reuters, 1./2. Okt. 2026: Eritrea kappt Beziehungen, AU mahnt.",
+      "url": "https://www.reuters.com/world/africa/explosions-heard-overnight-ethiopias-capital-diplomatic-sources-say-2026-10-01/"
+    },
+    {
+      "id": "q19",
+      "text": "The Guardian, 2. Okt. 2026: Holei-Bogen ins Meer gefallen.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/02/hawaii-holei-sea-arch-collapses"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-02",
+    "title": "The Pier and the Voice",
+    "teaser": "A train swallows dust. A voice lays the arsenal beside Kaliningrad. A tanker opens October with fire."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The second needle · The Horn",
+  "body": "<p>On the third of October a capital counts bridges in the morning, not sirens. Of six roads across the Dnipro, three are closed in whole or in part, and the traffic stacks into lines longer than the patience of people who still have to get to work. At the same hour a president in Paris sits before a screen and, with the other great powers, opens a cellar in which a hundred million barrels of diesel and crude are lying, as if a tap in the Gulf could be answered with stores pulled out of the ground. Farther south, on a second narrow water, Riyadh draws an offensive that does not yet have a date. Three pictures, and none of them turns the night before into a finished sentence.</p>\n<h3>I. The city that no longer holds its banks together</h3>\n<p>What Thursday had begun as a single pier becomes, on Friday, the habit of a city that had treated the river as a given. Russia hits the Southern Bridge, the Pivdennyi, again in the evening, while it is already closed, and forces traffic across it and two other bridges to a full or partial stop. Klitschko speaks of jams in the morning and in the evening. Hundreds of thousands who usually cross the river look for detours, and the detours grow more expensive as winter comes nearer, because a detour in October is still a detour and in January it is a bill. The city administration closes the Pivdennyi outright and places limits on three further bridges whenever the siren runs. On the evening of the second day a drone strikes the same structure for the fourth time in two days. A line that on Thursday still counted as a boundary is, on Friday, a worksite with a repeated address. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>On the night into Friday Moscow sends more than a hundred drones, nearly half of them jet-powered, from four directions. The air force brings down eighty-eight, strikes remain at eleven places, debris at five, and in the Darnytskyi district a twenty-five-storey block is hit, where one person is killed and two are wounded. Standing at a charred school, Zelensky tells El País that Putin is not afraid of the Europeans and will raise the strikes as the American midterm on the third of November draws closer. The aim, he says, is that people leave the capital, and that was already the aim at the start of the full-scale invasion. Bridges and schools, he says, are not military targets and do not lie on the front. The Institute for the Study of War reads the repeated hits on the Southern Bridge as an attempt to wear down the structure and make life in the city hard, and leaves open whether the tempo is enough to render the bridge beyond repair. Ukrainian officials tell the Financial Times they expect a thickening of strikes on Kyiv, Kharkiv, Lviv and Odesa, so that the great cities are cut off from the rest of the country when winter begins. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Early on Saturday, before the hour at which this chapter opens, ballistic missiles and drones come over the capital again. Klitschko writes of explosions and sends people into shelters. Fire breaks out in Sviatoshynskyi and Obolonskyi, at a garage cooperative, later in grass lit by debris in Holosiivskyi. A man is killed, two people are wounded, one of them taken to hospital. The defence keeps working against drones after the missiles have already struck. The night has answered the previous day's question without closing it: the bridge still stands as a scar and as a closed road, and the city goes on counting. <a class=\"src\" href=\"#q6\">6</a></p>\n<blockquote>A bridge struck four times is no longer a surprise. It is a method.</blockquote>\n<p>Beside the method lie four offers that are not yet a table. Foreign minister Sybiha says Kyiv has proposals from the United States, from India, from Turkey and from Egypt for a partial pause. India has laid down the widest and wants, for the first time, to play a role. Turkey and Egypt mean above all the grain on the Black Sea, because Cairo depends for a third on Ukrainian corn and also on Russian. Washington presses for a pause on energy. Sybiha answers that Kyiv is ready, but only if energy and the Black Sea stand together: no more strikes on plants, stores and ports, and none on the ships that carry the grain. An offer without the other leg would be a pause that leaves one side hungry and the other cold. He asks for three hundred Patriot missiles as a minimum shield for the winter, while Moscow finishes a hundred and twenty to a hundred and forty ballistic missiles a month and already holds six hundred in store. A number is not yet a magazine, and a proposal is not yet a pause. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q1\">1</a></p>\n<h3>II. The cellar against the tap</h3>\n<p>On Friday Emmanuel Macron chairs a call of the Seven and says afterwards that they have agreed to release up to a hundred million barrels, within four months, coordinated by the International Energy Agency. The joint statement speaks of a hundred million barrels, beginning at once, including a front-loaded, substantial release of diesel in the first twenty days by the Seven and partners. Which partners, and how quickly diesel is to be separated from crude, is not in the sentence. The Seven also bind themselves not to lay export bans on energy among themselves, and call on all producers to do the same. Ed Miliband, in the call for London, speaks of stable supplies and a shield for households against price jumps. Trump writes that the diesel will come at once, and stands before a midterm in which an AP poll measures a new low in his approval on the economy. American diesel costs on Friday an average of six dollars and thirty-seven cents a gallon, after marking a record of six dollars and fifty-two cents on the twenty-second of September. <a class=\"src\" href=\"#q8\">8</a> <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Brent falls briefly below a hundred dollars after the announcement and stands again around a hundred and two on Friday evening. A hundred million barrels are roughly a day of world consumption. Diesel and related fuels make up, according to the energy agency, about twenty-eight percent of demand, and they are precisely what is missing, because strikes on plants in the Middle East and in Russia have cut the ability to turn crude into what a filling station sells. A cellar one opens is not a strait one opens. It is the proof that the great powers cannot turn the tap and so turn the stores instead. Whoever reads a peace in it is reading an inventory as a treaty. <a class=\"src\" href=\"#q8\">8</a> <a class=\"src\" href=\"#q9\">9</a></p>\n<p>On the water the fire from Thursday now has a name and a coast. The Indian embassy in Muscat says five Indian seafarers from the Kuwaiti Kazimah III were brought ashore to Oman after the hit, unhurt. The ship belongs to the Kuwait Oil Tanker Company and is the second supertanker of that fleet in less than a week, after the Al Funtas. Fars had spoken of a tanker of about two and a half million barrels, eight kilometres off the Omani coast, on a route Tehran does not permit. The sea watch stays with a projectile of unclear origin and with a crew that remained whole. Visible passages on Friday: nine ships, six inbound, three outbound, among them three tankers, against more than eighty a day before the war. Nine hulls and an opened cellar do not change the clause. They change only who feels the shortage first. <a class=\"src\" href=\"#q11\">11</a> <a class=\"src\" href=\"#q12\">12</a></p>\n<h3>III. The second needle</h3>\n<p>Reuters reports from Riyadh on Friday that Saudi Arabia is planning an offensive against the Houthis to take back the Bab el-Mandeb, which the movement seized along the coast last month. Yemeni forces, overseen by Riyadh, are to go on the ground, Saudi strikes from the air to cover them. More than a hundred thousand soldiers could be raised, depending on the cut. Two variants lie on the table: a narrow push only around the strait, or the same push together with simultaneous attacks in Al-Bayda, Marib, Taiz and Al-Jawf. The United States would supply intelligence, not the fight. European and regional partners stay with defensive aid. No one names a date earlier than the coming weeks, and the range of those who know the plan runs from a week to after the American midterm at the start of November. <a class=\"src\" href=\"#q13\">13</a></p>\n<p>Riyadh has concluded, the diplomats say, that new peace talks are worth little while the Houthis hold the strait and with it a lever larger than Yemen. The former American ambassador Michael Ratney expects a narrower cut than the intervention of 2015, not its repetition. A second needle beside the first is not a metaphor for scarcity. It is the place where the Red Sea stops being a detour and becomes a weapon itself, precisely because Hormuz is already a weapon. An offensive that does not yet have a morning still belongs in the book, because it lengthens October by a coast the Gulf alone does not explain. <a class=\"src\" href=\"#q13\">13</a></p>\n<h3>IV. The vote under the same sky</h3>\n<p>On Saturday Latvians elect a hundred seats of the Saeima, from eight in the morning until eight at night, and the first count is meant to be readable before midnight. Polls put the centrist United List of prime minister Andris Kulbergs ahead, at about fourteen percent, just in front of the openly pro-Russian Sovereign Power. Kulbergs, forty-seven, came to office in May after the previous coalition broke on drones that had flown into the country undetected. Germany has laid Eurofighters at Lielvarde because Riga asked the allies for the sky over election day. Moscow calls intentions to attack Nato baseless, Western officials say a direct blow lies outside the capacity, and voters stand nonetheless in a line over which hangs the same war that is closing bridges in Kyiv. A coalition will be hard, because the field is splintered. A vote under drones is not yet a campaign. It is the proof that Wednesday's note also reaches a ballot box. <a class=\"src\" href=\"#q14\">14</a></p>\n<h3>V. At the edge of the leaf</h3>\n<p>In France, on the third day, barricades burn in front of schools. More than seven hundred buildings are shut, more than two thousand arrests since the unrest began, hundreds injured. Darmanin says student demonstrations have become a disturbance of public order, and he fears the weekend. In Belfort a seventeen-year-old is arrested because a police officer was beaten. A sixteen-year-old tells AFP that for her the morning is won, because the school is closed. On Tuesday the unions mean to follow. The book does not yet open a strand of its own from this, but it notes the third day, so that the next does not pretend the smoke begins only then. <a class=\"src\" href=\"#q15\">15</a> <a class=\"src\" href=\"#q16\">16</a></p>\n<p>On the Horn the militia of the Tigray Peace Forces stands on Friday before Mekelle and claims to have taken Milazat, twenty kilometres south-east of the city. Banks and shops are shut. Ethiopia has closed the embassy in Asmara and ordered ten Eritrean diplomats out within forty-eight hours, Eritrea has cut the ties, an Egyptian diplomat must leave, and Cairo in return expels an Ethiopian counsellor. The African Union urges the utmost restraint. This is the second day on which the cleared table is not only a note but a road toward a capital. The book therefore lifts it out of the footnote into a strand of its own, without yet calling it a battle. <a class=\"src\" href=\"#q17\">17</a> <a class=\"src\" href=\"#q18\">18</a></p>\n<p>In Hawaii the National Park Service confirms that the Holei arch, ninety feet high and about five hundred and fifty years old, has fallen into the sea, sometime between the twenty-third and the twenty-seventh of September, after the storms Nolo, Lala and Lowell. The northern customs list has a third day without a new sentence. The court on the Tigris has no increment beyond the pause it wrote for itself on Friday. Both rest. The list the book proposes to close, because three silent days are a footnote and not a thread. <a class=\"src\" href=\"#q19\">19</a> <a class=\"src\" href=\"#q16\">16</a></p>\n<h3>Decree of the chronicler</h3>\n<p>A city counts its bridges in the morning and finds half of them unusable, while the great powers open a cellar that holds roughly a day of the world's use. A second needle receives a plan without a morning. A vote on the Baltic stands under the same sky as the note that laid the arsenal beside a strip of land. On the Horn a severed relation has become a road toward Mekelle.</p>\n<p>Still open are Hormuz without a clause, the eastern field, the second needle and the Horn. The court on the Tigris rests. The northern customs list has been silent for three days; the book proposes to close it, until someone changes a quota or an address.</p>\n<p>The book sets the page today against a jam longer than the bridge, and against a barrel that does not turn the tap. It waits to see whether Saturday fills the ballot box without a drone breaking the line, and whether diesel comes out of the cellar before the next hull catches fire.</p>"
+}
