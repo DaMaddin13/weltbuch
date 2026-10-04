@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-04",
+  "number": 10,
+  "weekday": "Sonntag",
+  "title": "Die zweite Brücke und die erlaubte Fahrt",
+  "subtitle": "In dem eine Hauptstadt ein zweites Ufer verliert, ein Fass nur mit Erlaubnis die Enge quert und ein Flughafen die Hand wechselt.",
+  "lede": "Der vierte Oktober 2026 findet Kiew mit einer zweiten getroffenen Brücke und Mekelle mit einem Flughafen, der die Hand gewechselt hat.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Irak bringt zwei Millionen Fass mit Erlaubnis durch Hormus; Rauch bei Aramco in Riad, unbestätigt; Schläge auf Sanaa und Saada. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Nordbrücke getroffen, zweites großes Ufer; zwei Verletzte; Lettland: Vereinigte Liste in der Nachwahl weit vorn.",
+      "status": "andauernd"
+    },
+    {
+      "id": "G",
+      "since": "Strang G · seit 30. Sept.",
+      "title": "Der letzte Posten",
+      "summary": "Kein Zuwachs über die selbstgeschriebene Pause. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Bundesarmee nimmt den Flughafen von Mekelle; Schüsse und Plünderungsangaben ungeprüft; Washington mahnt.",
+      "status": "offen"
+    },
+    {
+      "id": "F",
+      "since": "Strang F · seit 29. Sept.",
+      "title": "Die nördliche Zolliste",
+      "summary": "Vierter Tag ohne Stoff nach vorgeschlagener Schließung. Geschlossen.",
+      "status": "geschlossen"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Bürgermeister der zwei Bögen",
+      "name": "Vitali Klitschko",
+      "text": "Meldet die Nordbrücke getroffen und sperrt den Weg vom linken zum rechten Ufer."
+    },
+    {
+      "role": "Der Premier unter der Urne",
+      "name": "Andris Kulbergs",
+      "text": "Liegt in der Nachwahl weit vorn und will ohne Lettland zuerst regieren."
+    },
+    {
+      "role": "Der Mann mit der Erlaubnis",
+      "name": "Ali Qais Abdul Jabbar",
+      "text": "Führt zwei Millionen Fass durch die Enge und nennt es die erste solche Fahrt seit Jahrzehnten."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 3. Okt. 2026: Nordbrücke über den Dnipro getroffen, Verkehr gesperrt, keine Opfer gemeldet.",
+      "url": "https://www.reuters.com/world/europe/bridge-across-dnipro-river-kyiv-hit-during-russian-attack-mayor-says-2026-10-03/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 3. Okt. 2026: zweiter großer Brückenschlag, zwei Verletzte, Moskau spricht von Truppenwegen.",
+      "url": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko"
+    },
+    {
+      "id": "q3",
+      "text": "Kyiv Independent, 3. Okt. 2026: dritter Tag in Folge, Nordbrücke.",
+      "url": "https://kyivindependent.com/russia-strikes-key-kyiv-bridge-for-3rd-straight-day-as-attacks-intensify/"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 3. Okt. 2026: Nachwahl, Vereinigte Liste 35,6 Prozent, Kulbergs will bleiben.",
+      "url": "https://www.reuters.com/world/latvians-vote-election-shadow-drone-incursions-war-ukraine-2026-10-03/"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 3. Okt. 2026: Irak transportiert zwei Millionen Fass durch Hormus, erste Fahrt seit Jahrzehnten.",
+      "url": "https://www.reuters.com/business/energy/iraq-says-it-transported-2-million-barrels-crude-through-strait-hormuz-2026-10-03/"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 3. Okt. 2026: Huthi beanspruchen Schlag auf Aramco-Anlage in Riad; Zeuge sieht Rauch; keine saudische Bestätigung.",
+      "url": "https://www.reuters.com/business/energy/fire-smoke-seen-near-aramco-facility-riyadh-witness-says-2026-10-03/"
+    },
+    {
+      "id": "q7",
+      "text": "Reuters, 3./4. Okt. 2026: jemenitische Streitkräfte melden Schläge auf Sanaa und Saada.",
+      "url": "https://www.reuters.com/world/middle-east/yemens-armed-forces-say-it-is-conducting-strikes-against-houthis-sanaa-2026-10-03/"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 3. Okt. 2026: Bundesarmee nimmt Flughafen Mekelle; US mahnt zur Zurückhaltung.",
+      "url": "https://www.reuters.com/world/africa/pro-government-forces-say-they-retake-airport-ethiopias-tigray-region-2026-10-03/"
+    },
+    {
+      "id": "q9",
+      "text": "Reuters, 3. Okt. 2026: flydubai-Kopilot, Axt, Versuch eines terroristischen Angriffs.",
+      "url": "https://www.reuters.com/business/aerospace-defense/flydubai-co-pilot-attacked-pilot-with-axe-attempted-terrorist-attack-uae-says-2026-10-03/"
+    },
+    {
+      "id": "q10",
+      "text": "BBC, 3. Okt. 2026: Maschine verliert 17.000 Fuß, Kapitän öffnet die Tür.",
+      "url": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o"
+    },
+    {
+      "id": "q11",
+      "text": "Wikipedia Current Events, 3. Okt. 2026: Gaza-Schlag, Syrien, nach Al Jazeera und Hawar.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_3"
+    },
+    {
+      "id": "q12",
+      "text": "New York Times, 3. Okt. 2026: Frankreich, über 400 Gymnasien am Freitag gestört.",
+      "url": "https://www.nytimes.com/2026/10/03/world/europe/high-school-student-protest-what-to-know.html"
+    },
+    {
+      "id": "q13",
+      "text": "AP, 3. Okt. 2026: Gebeine Zar Samuils treffen in Bulgarien ein.",
+      "url": "https://apnews.com/article/greece-bulgaria-medieval-ruler-remains-czar-samuel-5acf2293fc67336678ad04035a3f0698"
+    },
+    {
+      "id": "q14",
+      "text": "Wikipedia Current Events, 4. Okt. 2026: Wahl in Bosnien und Herzegowina.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_4"
+    },
+    {
+      "id": "q15",
+      "text": "Al Jazeera, 4. Okt. 2026: Lula und Flávio Bolsonaro schließen den Wahlkampf, erster Gang am Sonntag.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/brazils-lula-and-bolsonaro-close-campaigns-ahead-of-critical-election"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-03",
+    "title": "Die Fässer und die halbe Stadt",
+    "teaser": "Ein Keller geht gegen den Hahn auf. Eine Hauptstadt zählt ihre Brücken. Ein zweites Nadelöhr bekommt einen Plan ohne Morgen."
+  },
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Das Horn",
+  "body": "<p>Am vierten Oktober hält eine Stadt am Dnipro nicht mehr nur eine Brücke als Narbe, sondern zwei, und der Fluss, der gestern noch halb benutzbar schien, wird am Morgen zur Rechnung, die man nicht mehr mit Umwegen begleicht. Weiter südlich quert ein irakisches Fass die Enge nicht als Trotz, sondern mit Erlaubnis, während über Sanaa und Saada in der Nacht Schläge beginnen, deren Datum der Plan vom Freitag noch nicht genannt hatte. Am Horn wechselt ein Flughafen die Hand, zehn Kilometer vor einer Stadt, deren Läden am Vortag schon zu waren. Drei Bilder, und keines davon macht aus dem Keller der Sieben eine Straße.</p>\n<h3>I. Die zweite Brücke</h3>\n<p>Was der Donnerstag als Staub in einem Wagen begonnen und der Freitag als gesperrten Piwdennyj fortgesetzt hatte, bekommt am Samstagmorgen eine zweite Adresse. Vitali Klitschko meldet, russische Kräfte hätten die Nordbrücke getroffen, den Piwnytschnyj, eine der großen Straßen über den Dnipro, auf der oben der Verkehr liegt und die Oberleitung der Trolleybusse hängt. Der Verkehr vom linken zum rechten Ufer wird gesperrt, Fahrbahn und Leitungen sind beschädigt, die Einsatzkräfte sind unterwegs. Die BBC spricht von zwei Verletzten und von Stau. Opfer in der Zahl des Vorabends gibt es an dieser Adresse nicht. Was sich ändert, ist die Karte: von den großen Übergängen, die bis zum Donnerstag als Linie galten, sind nun zwei getroffen, und Moskau sagt, die Drohnen hätten Brücken erwischt, über die Truppen und militärische Last gingen, und fordert Ausländer, auch Diplomaten, erneut auf, die Hauptstadt zu verlassen. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Klitschko hatte nach den Schlägen auf die Südbrücke gewarnt, der Gegner reiße Kiew auseinander. Der Satz war am Freitag noch eine Deutung. Am Samstag ist er eine zweite Baustelle. Über ein Drittel der drei Millionen Einwohner lebte vor der großen Invasion auf dem linken Ufer, und die meisten arbeiten auf dem rechten, wo Ämter und Firmen sitzen. Eine Stadt, die zwei ihrer großen Bögen nicht mehr im gewöhnlichen Takt queren kann, zerfällt nicht in einem Morgen. Sie zerfällt in der Gewohnheit, morgens anzukommen. Das Institut und die Stadtverwaltung hatten die wiederholten Treffer auf den Piwdennyj schon als Versuch gelesen, die Statik zu zermürben. Heute kommt dazu ein zweiter Bogen, und die Methode braucht keinen neuen Namen. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<blockquote>Eine Brücke, die man zum ersten Mal trifft, kann noch Überraschung heißen. Die zweite an demselben Fluss ist eine Lehre.</blockquote>\n<p>Neben der Lehre steht die Urne, die der Samstag gefüllt hat, ohne dass eine Drohne die Schlange sprengte. In Riga zeigt eine Nachwahlbefragung des öffentlichen Rundfunks die Vereinigte Liste des Premiers Andris Kulbergs bei 35,6 Prozent, weit vor dem populistischen Lettland zuerst mit 11,3 und der offen prorussischen Souveränen Macht mit 10,8. Kulbergs, der im Mai ins Amt kam, weil die vorige Koalition an unentdeckten Drohnen zerbrach, sagt, er habe ein solches Ergebnis nicht erwartet, wolle Premier bleiben und mit Lettland zuerst nicht regieren. Eine Koalition braucht er trotzdem, weil fünfunddreißig nicht hundert sind. Die Auszählung lief nach Mitternacht noch. Eine Wahl unter dem Himmel, den Berlin mit Eurofightern gedeckt hatte, ist damit kein Feldzug geworden. Sie ist der Beweis, dass die Note vom Mittwoch eine Urne erreicht und die Urne nicht umkippt. <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>II. Die Fahrt, die jemand erlaubt</h3>\n<p>Am Samstagabend sagt die staatliche irakische Tankergesellschaft, sie habe zwei Millionen Fass Rohöl auf einem sehr großen Rohöltanker durch die Straße von Hormus gebracht, die erste solche Fahrt der Gesellschaft seit Jahrzehnten. Generaldirektor Ali Qais Abdul Jabbar liest darin keine Öffnung der Enge, sondern eine Verschiebung des Verkaufs: nicht mehr nur Übergabe in Basra, sondern Transport jenseits der Straße, damit die staatliche Vermarktung SOMO Ort und Preis freier wählen kann. Die Gesellschaft spricht davon, eigene Tanker kaufen zu wollen. Irak hatte zuvor iranische Erlaubnis für die Durchfahrt seiner Schiffe eingeholt, in einer Enge, die Teheran im Krieg mit den Vereinigten Staaten faktisch geschlossen hält und nur nach Liste passieren lässt. <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Zwei Millionen Fass sind kein Tag Weltverbrauch und kein Gegenstück zu den hundert Millionen, die die Sieben am Freitag aus dem Keller gehoben haben. Sie sind ein Rumpf, der fährt, weil jemand die Klausel für ihn geschrieben hat. Wer darin einen Frieden liest, liest eine Genehmigung als Tor. Das Buch tut das nicht. Sichtbare Passagen blieben am Freitag bei einer Handvoll gegen mehr als achtzig am Tag vor dem Krieg, und die Treffer der Woche, deren Namen die Seewache langsamer hergibt als die Reedereien, sind durch eine erlaubte Fahrt nicht ungeschehen. Eine Straße, die den einen durchwinkt und den anderen trifft, ist eine Auswahl. Die Auswahl trifft die Tankstelle früher als die Statistik derer, die eine Erlaubnis vorzeigen können.</p>\n<p>Zur selben Stunde, an der die Erlaubnis eine Fahne sein will, steigt über einer Anlage südlich von Riad Rauch. Die Huthi sagen, sie hätten eine Einrichtung von Aramco in der Hauptstadt mit ballistischen Flugkörpern und Drohnen getroffen, als Antwort auf saudische Schläge gegen Sanaa und andere Provinzen. Ein Zeuge berichtet Reuters von einer großen Rauch- und Feuersäule in der Nähe der Anlage. Riad und Aramco bestätigen den Treffer am Samstag nicht. In der Nacht auf Sonntag sagen die Streitkräfte der international anerkannten jemenitischen Regierung, sie schlügen gegen vitale Ziele der Huthi in Sanaa und in der Hochburg Saada. Der huthikontrollierte Sender Al Masirah hatte zuvor einen Angriff gemeldet, den er Saudi-Arabien zuschreibt. Eine saudische Bestätigung fehlt. Der Waffenstillstand von 2022 ist damit nicht erst seit Juli Papier, als die Bewegung eine Seeblockade gegen Saudi-Arabien erklärte und an der Rotmeerküste Land nahm. Er ist am Sonntagmorgen eine Stadt, die wieder unter Schlägen liegt, während der Plan vom Freitag, Bab al-Mandab mit Boden und Luft zurückzunehmen, noch immer kein Datum trägt und doch schon eine Hauptstadt als Adresse hat. <a class=\"src\" href=\"#q6\">6</a> <a class=\"src\" href=\"#q7\">7</a></p>\n<p>Ein Keller, den man öffnet, dreht den Hahn nicht. Eine Fahrt mit Erlaubnis öffnet ihn auch nicht. Was sich am Wochenende ändert, ist, dass das zweite Nadelöhr nicht mehr nur als Plan auf dem Tisch liegt, sondern als Rauch über einer Raffinerie und als Meldung über Sanaa. Ob der Stoß der kommenden Wochen daraus wird oder eine Reihe von Nächten ohne Morgen, sagt der Sonntag nicht.</p>\n<h3>III. Das Horn, das den Platz zurücknimmt</h3>\n<p>Am Samstag melden drei Quellen Reuters, die äthiopische Bundesarmee habe den Flughafen Alula Aba Nega in Mekelle zurückgenommen, etwa zehn Kilometer östlich der Innenstadt, eines von drei Feldern, die die gegnerische Allianz am dreiundzwanzigsten September zu Beginn der Kämpfe besetzt hatte. Ein Bewohner, der nicht genannt werden will, hört Schüsse außerhalb des Zentrums, sieht Kämpfer der tigrayischen Verteidigung ihre Posten verlassen und nach Hause gehen und spricht von Plünderung staatlicher Einrichtungen. Reuters kann das nicht sofort prüfen. Die Volksbefreiungsfront ist zunächst nicht zu erreichen. Eine ihr nahe Quelle sagt, die Stadt sei von Regierungstruppen und verbündeten Milizen eingeschlossen. Die Einnahme der Hauptstadt wäre ein schwerer Rückschlag für die Allianz und, sagen Beobachter, trotzdem kaum das Ende, weil die Bundeskräfte Mekelle schon 2020 im ersten Monat des zweijährigen Krieges nahmen und die Front die Stadt sieben Monate später zurückholte. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>In Washington mahnt Sprecher Tommy Pigott Äthiopien und Eritrea zu äußerster Zurückhaltung und zur Rückkehr an den Friedensrahmen von 2018. Das Horn, sagt er, könne einen weiteren Krieg und eine weitere humanitäre Krise nicht tragen, und ein Konflikt gefährde die Zusammenarbeit, die Washington mit beiden Ländern noch habe. Addis hatte die Beziehungen gekappt und Eritrea beschuldigt, die Allianz zusammen mit Sudan und Ägypten zu stützen. Die drei Länder bestreiten das. Ein Flughafen, der die Hand wechselt, ist noch keine Schlacht um die Gassen. Er ist der Beweis, dass die Straße auf Mekelle, die am Freitag noch eine Miliz vor der Stadt war, am Samstag eine Landebahn hat. Das Buch nennt das keinen Frieden und keinen Fall. Es nennt es den dritten Tag eines Fadens, der aus der Fußnote nicht mehr zurückwill. <a class=\"src\" href=\"#q8\">8</a></p>\n<h3>IV. Am Rand des Blattes</h3>\n<p>Über dem Golf von Oman, auf einem Flug von Dubai nach Tel Aviv, greift der Kopilot der flydubai-Maschine FZ1073 den Kapitän im Cockpit mit der Notfallaxt an und versucht, die Steuerung zu nehmen. Mehr als hundertsiebzig Menschen sind an Bord, die meisten israelische Staatsbürger. Der Generalstaatsanwalt der Emirate, Hamad Saif Al Shamsi, nennt den Vorgang den Versuch eines terroristischen Angriffs. Die Maschine verliert auf dem Weg etwa siebzehntausend Fuß, Passagiere überwältigen den Angreifer, der Kapitän Smit Machchhar kommt verletzt vom Boden hoch und öffnet die Tür von innen. Die Ermittlung zu Motiv und Namen läuft. Das Buch öffnet daraus keinen Strang. Es merkt den Rand an, weil eine Axt im Cockpit keine Metapher für die Enge ist und trotzdem an demselben Wochenende hängt, an dem Tanker mit und ohne Erlaubnis die Straße suchen. <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<p>In Gaza-Stadt trifft ein israelischer Luftschlag ein Wohnhaus. Al Jazeera spricht von wenigstens fünf Toten, die laufende Übersicht des Tages von acht, darunter Zivilisten, und die Armee sagt, sie habe den faktischen Hamas-Mann Ali al-Amoudi zum Ziel gehabt und prüfe das Ergebnis. Eine Waffenruhe, die ein Haus nicht schützt, ist eine Klausel mit Loch. In Syrien erschießen Unbekannte bei Ras al-Maara drei Menschen in einem Wagen und verletzen sieben. Beides bleibt Fußnote, nicht weil es klein wäre, sondern weil es an diesem Morgen keinen eigenen Faden trägt. <a class=\"src\" href=\"#q11\">11</a></p>\n<p>In Frankreich sind am Freitag noch über vierhundert Gymnasien zu oder gestört, nachdem am Donnerstag mehr als ein Drittel der etwa dreitausendsiebenhundert Häuser betroffen war. Der Bildungsminister nennt einen Teil der Forderungen berechtigt und die Regierung die Gewalt städtisch. Gewerkschaften und einige Politiker stellen sich dazu, und für die kommende Woche sind weitere Proteste angekündigt. Der Rauch hat damit einen vierten Tag, ohne dass das Buch ihn zum Strang erhebt. In Bulgarien kommen die Gebeine des Zaren Samuil an, des Herrschers, der 1014 starb, nachdem Athen und Sofia jahrzehntelang über Knochen verhandelt haben, die älter sind als jede Enge auf dieser Seite. Eine Urne aus dem elften Jahrhundert ist keine Wahl. Sie ist der Beweis, dass auch tote Könige einen Kalender haben. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a></p>\n<p>Am Sonntag, noch bevor dieses Kapitel die Seite wendet, öffnen in Bosnien und Herzegowina die Urnen für das dreiköpfige Präsidium und die Kammern, und in Brasilien stehen Luiz Inácio Lula da Silva und Flávio Bolsonaro vor einem ersten Gang, den die Umfragen eng lesen und der leicht in eine Stichwahl am fünfundzwanzigsten Oktober läuft. Die Stimmen sind um sieben Uhr in Berlin noch nicht geworfen. Das Buch merkt sie an, damit der Abend nicht so tut, als beginne die Urne erst, wenn sie schon voll ist. Die nördliche Zolliste hat einen vierten Tag ohne Satz. Der Hof am Tigris hat keinen Zuwachs über die Pause hinaus, die er sich selbst geschrieben hat. Die Liste schließt das Buch heute, weil ein vierter stiller Tag nach angekündigter Schließung keine Chronik mehr ist. Der Hof ruht. <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Eine Hauptstadt zählt am Morgen nicht mehr eine gesperrte Brücke, sondern zwei, und der Fluss, der die Stadt zusammenhalten sollte, wird zur Stelle, an der man zu spät zur Arbeit kommt. Ein Fass quert die Enge, weil jemand die Erlaubnis erteilt hat, und über einer Anlage bei Riad steht Rauch, den die Huthi als Antwort lesen und Riad am Samstag nicht bestätigt. Am Horn hat eine Landebahn den Besitzer gewechselt, ohne dass die Gassen schon entschieden wären. In Riga hat eine Urne gehalten.</p>\n<p>Offen bleiben Hormus ohne Klausel, das östliche Feld und das Horn. Der Hof am Tigris ruht. Die nördliche Zolliste ist geschlossen, bis jemand eine Quote oder eine Adresse ändert.</p>\n<p>Das Buch legt die Seite heute gegen einen zweiten Bogen aus Beton und gegen eine Bahn, deren Name am Samstag die Hand gewechselt hat. Es wartet, ob aus den Schlägen auf Sanaa der Stoß wird, den Riad noch nicht datiert hat, und ob die erlaubte Fahrt mehr ist als ein Rumpf, den man durchwinkt, während andere brennen.</p>"
+}
