@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-05",
+  "number": 11,
+  "weekday": "Monday",
+  "title": "The siren for the guest",
+  "subtitle": "In which a chancellor enters an academy under alarm, a speaker hangs seven locks on the strait, and a regional capital changes hands.",
+  "lede": "The fifth of October 2026 finds Kyiv with a guest under sirens and Mekelle without the administration that still held it on Saturday.",
+  "readMinutes": 11,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle's eye",
+      "summary": "Ghalibaf: Hormuz stays shut until seven conditions stand; Alimi dates the push on television; Sunday nine crossings, no tanker. No clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Fourth day of bridges, Northern Bridge again, two injured, heating out; Merz under siren, about one billion euros; Moscow claims freighters.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The Horn before the city",
+      "summary": "Federal forces and militias in Mekelle; TPLF moves the administration “somewhere else”. Not an end.",
+      "status": "open"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since 5 Oct.",
+      "title": "The ballot that does not suffice",
+      "summary": "Brazil: Bolsonaro 47.03, Lula 45.16, runoff on 25 October.",
+      "status": "open"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "Fifth day without increment beyond the self-written pause. Closure proposed.",
+      "status": "resting · closure proposed"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern tariff list",
+      "summary": "Closed on 4 October. No increment. Stays shut.",
+      "status": "closed"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The guest under the siren",
+      "name": "Friedrich Merz",
+      "text": "Comes to Kyiv, hears the alarm and calls the strikes daily war crimes."
+    },
+    {
+      "role": "The speaker of the seven locks",
+      "name": "Mohammad Bagher Ghalibaf",
+      "text": "Keeps Hormuz shut until the Islamabad conditions are met, and denies an inspections offer."
+    },
+    {
+      "role": "The man who dates the push",
+      "name": "Rashad al-Alimi",
+      "text": "Gives the offensive that had no date a sentence on television."
+    },
+    {
+      "role": "The son before the deadline",
+      "name": "Flávio Bolsonaro",
+      "text": "Leads the first round and does not yet have the house."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 4. Okt. 2026: Sirenen und Explosionen bei Merz in Kiew; Militärhilfe rund eine Milliarde Euro und Energieprogramm.",
+      "url": "https://www.reuters.com/fr/affaires/des-explosions-entendues-pendant-la-visite-du-chancelier-allemand-kyiv-2026-10-04/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 4. Okt. 2026: vierter Tag Brückenschläge, Nordbrücke erneut, zwei Verletzte, Loch in der Spur.",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
+    },
+    {
+      "id": "q3",
+      "text": "Kyiv Independent, 4. Okt. 2026: Nordbrücke, zwei Verletzte, Fernwärme in Desnjanskyj, Selenskyj zu den Wochensummen.",
+      "url": "https://kyivindependent.com/russia-targets-kyiv-bridges-for-fourth-consecutive-day-hits-northern-bridge/"
+    },
+    {
+      "id": "q4",
+      "text": "RFE/RL, 4. Okt. 2026: Merz an der Akademie, tägliche Kriegsverbrechen, Paket für Abfangdrohnen.",
+      "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 4. Okt. 2026: Moskau beansprucht Nordbrücke und zwei Frachter; Verschärfung nach Selenskyj zu Raffinerien.",
+      "url": "https://www.reuters.com/world/russia-says-it-hit-kyiv-bridge-two-vessels-black-sea-2026-10-04/"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 4. Okt. 2026: Ghalibaf, Hormus bleibt zu, bis sieben Bedingungen des Islamabad-Memorandums erfüllt sind.",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/"
+    },
+    {
+      "id": "q7",
+      "text": "hormuz.now, 4. Okt. 2026: neun sichtbare Passagen, kein Tanker.",
+      "url": "https://hormuz.now/traffic/2026-10-04"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 5. Okt. 2026: Brent 101,90 Dollar; G7-Freigabe und höhere Nahost-Exporte dämpfen den Preis.",
+      "url": "https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/"
+    },
+    {
+      "id": "q9",
+      "text": "Reuters über Defense News, 4. Okt. 2026: Alimi kündigt Offensive zur Rücknahme allen Huthi-Gebiets an; Huthi beanspruchen Aramco Riad und Khurais.",
+      "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/"
+    },
+    {
+      "id": "q10",
+      "text": "BBC, 4. Okt. 2026: Alimi im Fernsehen; AFP: Huthi schneiden die Straße Taizz–Aden.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o"
+    },
+    {
+      "id": "q11",
+      "text": "Reuters, 4. Okt. 2026: Regierungskräfte übernehmen Mekelle; TPLF verlegt die Verwaltung.",
+      "url": "https://www.reuters.com/world/africa/government-forces-seize-capital-ethiopias-tigray-region-rebels-2026-10-04/"
+    },
+    {
+      "id": "q12",
+      "text": "Al Jazeera, 4. Okt. 2026: TPLF zieht sich aus Mekelle zurück, Bundeskräfte in der Stadt.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels"
+    },
+    {
+      "id": "q13",
+      "text": "Al Jazeera, 5. Okt. 2026: Einnahme weckt die Furcht vor einem langen Krieg; Front kämpft von anderen Stellungen.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
+    },
+    {
+      "id": "q14",
+      "text": "BBC, 4. Okt. 2026: Flávio Bolsonaro 47,03 Prozent, Lula 45,16, Stichwahl am 25. Oktober.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
+    },
+    {
+      "id": "q15",
+      "text": "Washington Post, 4. Okt. 2026: erster Gang endet in der Stichwahl, Rechte gewinnt im Kongress an Boden.",
+      "url": "https://www.washingtonpost.com/world/2026/10/04/bolsonaro-lula-head-runoff-5-takeaways-brazils-election/"
+    },
+    {
+      "id": "q16",
+      "text": "The Guardian, 4. Okt. 2026: Dodik erklärt Parteisieg; Cvijanović vorn, Beteiligung 42 Prozent.",
+      "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election"
+    },
+    {
+      "id": "q17",
+      "text": "Al Jazeera, 4. Okt. 2026: Luftschlag auf WFP-Lastwagen im Südkordofan, Fahrer tot.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp"
+    },
+    {
+      "id": "q18",
+      "text": "AP über CNN, 4. Okt. 2026: zwei Tote, 35 Verletzte bei Blockfest in Vienna, Georgia.",
+      "url": "https://www.cnn.com/2026/10/04/us/georgia-vienna-party-shooting"
+    },
+    {
+      "id": "q19",
+      "text": "Wikipedia Current Events, 4. und 5. Okt. 2026: Mekelle, Jemen, Brasilien, Kosovo-Frist.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_4"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-04",
+    "title": "The second bridge and the permitted voyage",
+    "teaser": "A capital counts a second bank. A barrel crosses the strait only with permission. An airport changes hands."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The Horn · The runoff",
+  "body": "<p>There are Mondays when a guest does not enter a hall but a siren. The fifth of October 2026 is such a morning. In Kyiv the German chancellor stands before an academy whose facade the week has already torn open, while a few kilometres to the north a drone strikes the roadway of the Northern Bridge for the second time in two days and the traffic that was still moving ends in a fireball. At the same hour a speaker of parliament in Tehran says the strait stays shut until seven conditions are met, conditions a June memorandum wrote down and an American reply of the past week did not satisfy. On the Horn, Sunday confirms what Saturday began as a runway: the regional capital has been vacated, and the administration that held it writes that it will work from somewhere else. Three pictures, and none of them turns a permission into a road.</p>\n<h3>I. The guest under the siren</h3>\n<p>Friedrich Merz arrives in Kyiv on Sunday with economy minister Katherina Reiche and a delegation from energy and arms, one day after Moscow warned foreigners, diplomats among them, of mortal danger. Barely has the train come in when Mayor Vitali Klitschko reports the next hit: Russian forces had again struck the Northern Bridge, the Pivnichnyi, whose roadway and trolleybus wires Saturday had already damaged. Two people are injured, one taken to hospital, the other treated on the spot. A heating main is hit with it, and in parts of the Desnianskyi district the hot water fails. The air force speaks of one hundred and thirty-five drones in the night and of one hundred and twenty-five shot down. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>The BBC has checked the morning's video. Cars are still crossing the Northern Bridge when the drone strikes the roadway and throws up a fireball; later images show a hole in the middle of a lane. It is the fourth day in a row that Moscow has hit bridges over the Dnipro in the capital, and the second morning in a row at the same northern address. What Saturday could still be read as a second worksite is on Sunday the repetition of an address, until the habit of arriving in the morning becomes the worksite itself. Zelensky sets the week beside it: more than nineteen hundred attack drones, seventeen hundred aerial bombs, twenty-five missiles. A number is not yet a winter, but Friday's method does not take a day off. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<blockquote>A bridge struck a second time on the same morning does not need a new name. It needs a guest who hears the siren.</blockquote>\n<p>Merz stands with Zelensky before the main building of the National Academy of Sciences, badly damaged by a drone during the week, a building in which at least two people died. He calls the strike on the academy, a few hundred metres from the German embassy, and the siren on a quiet Sunday morning what they are to him: daily war crimes. The package he brings is about one billion euros in military aid and an energy programme, including money for the joint production of interceptors against the jet drones, where Berlin speaks of technical breakthroughs in recent weeks. A billion is not a river one crosses again. It is the sentence of a guest who arrives under an alarm and does not pretend the alarm is scenery. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Moscow reads the same morning differently. The defence ministry says it hit the Northern Bridge on Sunday, a route for troops and military cargo, and two dry-cargo vessels that had been carrying equipment to the port of Odesa. An earlier statement adds a freighter east of Odesa, a Nova Poshta centre in Chornomorsk and a data centre in the port city. After Zelensky told Reuters that Kyiv would step up strikes on Russian refineries, Moscow says it will intensify its own and claims five hundred and fifty-nine Ukrainian drones intercepted between Saturday evening and Sunday morning. Reuters cannot independently verify either side. A ship read as military cargo and a bridge on which cars were still driving stand side by side, and the book does not turn one reading into the other. <a class=\"src\" href=\"#q5\">5</a></p>\n<h3>II. Seven locks on the strait</h3>\n<p>On Sunday state media quote parliament speaker Mohammad Bagher Ghalibaf as saying the Strait of Hormuz will not be opened until seven Iranian conditions from a June interim understanding with the United States are met, the Islamabad memorandum. Tehran had tabled a proposal during the General Assembly under which passage could become ordinary again within seven days if the conditions stood. Washington replied last week through mediators in Qatar. Ghalibaf, speaking as chief negotiator, calls the position clear and firm. He denies an offer of inspections in exchange for sanctions relief and says Iran has not entered nuclear talks with Washington. What circulates as a seven-day paper remains a paper. Sunday does not turn it into a signature. It turns Saturday's permitted voyage into a footnote under a lock. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>On the water the visible strait counts nine commercial ships on Sunday, five inbound, four outbound, none of them a tanker. Nine hulls against more than eighty on the day before the war, and no tanker on the day after the Iraqi voyage, are neither an opening nor a refutation. A permission remains a hull so long as the seven conditions count as a gate. Early on Monday Brent stands at one hundred and one dollars and ninety cents, a small ease after the Seven's release took the immediate fear out of the note and shipping data showed Middle Eastern exports above pre-war levels on four of seven days in the last week of September, dearer and by worse routes. A price that eases does not turn the tap. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>At the same hour the plan that on Friday still carried no date acquires a sentence on television. President Rashad al-Alimi, head of the internationally recognised presidential council, announces the start of military operations to retake the republic's remaining territory and to extend the authority of the state across the whole country. A spokesman calls on the Houthis to lay down their arms, and Alimi says every chance of de-escalation is exhausted. At the same time the Houthis report missiles and drones against Aramco in Riyadh and at Khurais, speak of major fires and cite fifty Saudi-led strikes in twelve hours. Saudi confirmation is missing, as it was on Saturday for the smoke south of the capital. AFP, citing three military sources, reports that the movement has cut the road between Taiz and Aden and has in effect encircled Taiz. The push Riyadh had drawn for the coming weeks has on Sunday a voice and a counter-road, and still no hour at which a boot enters the strait. <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<h3>III. The city written somewhere else</h3>\n<p>On Sunday three sources tell Reuters that Ethiopian government forces and allied militias have regained control of Mekelle, the capital of Tigray. The People's Liberation Front, which leads the alliance, writes on Facebook that it has withdrawn from the capital and that the regional government will be temporarily moved out of Mekelle and will operate from somewhere else. A source close to the pro-government Tigray Peace Forces says their fighters entered the centre on Saturday afternoon, the federal army after them. A humanitarian source and a resident who does not wish to be named confirm the control. The prime minister's office does not immediately reply. The taking is a heavy blow to the alliance that began on the twenty-third of September and counted the airport among the three fields it seized on the first day. <a class=\"src\" href=\"#q11\">11</a> <a class=\"src\" href=\"#q12\">12</a></p>\n<p>The pattern of 2020 stands unrefuted: federal forces took Mekelle in the first month, and the front took the city back months later. The front says the withdrawal is meant to prevent further destruction, the fighting continues elsewhere, and residents fear the long bill of a city whose administration packs itself into the sentence \"somewhere else\". An airport changing hands was on Saturday not yet a battle for the alleys. On Sunday the alleys are in the report of those who entered them. The book calls this neither a fall nor a peace, but the fourth day of a thread that will not go back into the footnote. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a></p>\n<h3>IV. The ballot that does not suffice</h3>\n<p>In Brazil, Sunday is enough for neither of the two who dominated it. With more than ninety-nine percent of votes counted, Flávio Bolsonaro stands at 47.03 percent, Luiz Inácio Lula da Silva at 45.16. An absolute majority is missing; the runoff is set for the twenty-fifth of October. Bolsonaro, son of the former president serving a twenty-seven-year sentence, runs ahead of polls that had Lula slightly in front. The Liberals, on the count so far, return the most seats, and third through fifth place came from the right, so the second round has a basin that will not be invented on the twenty-fifth. Four years ago Lula beat the father by the narrowest margin. The son now leads without yet having the house. A ballot that does not suffice is not a defeat. It is a deadline of three weeks. <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<h3>V. At the edge of the page</h3>\n<p>In Bosnia and Herzegovina, Milorad Dodik declares his party's victory, though he himself is not on the ballot and may no longer hold office. Željka Cvijanović stands above fifty-five percent for the Serb seat, Darijana Filipović leads the Croat race clearly, Denis Bećirović the Bosniak seat narrowly, and turnout stays at forty-two percent. A ballot with so much distance and so little attendance is not a reconciliation. It shows that a banned name can fill a chamber even without a line on the paper. <a class=\"src\" href=\"#q16\">16</a></p>\n<p>In South Kordofan an airstrike hits World Food Programme trucks that were carrying food and were marked as humanitarian vehicles. The driver is killed. The programme names no perpetrator, says the convoy was travelling on Saturday between two cities under the control of the Sudanese armed forces, and calls for an investigation. A marked truck that burns anyway stays a footnote, because the morning does not draw a thread of its own out of a single road. <a class=\"src\" href=\"#q17\">17</a></p>\n<p>In Vienna, in the American state of Georgia, two men, twenty and twenty-three, die early on Sunday in a shooting at a block party for a high-school homecoming. More than a thousand people were there; thirty-five are injured, some by bullets, others in the flight. It was not a school event, and the morning reaches the students anyway. The book opens no thread from it and does not make the feast a metaphor for the strait. <a class=\"src\" href=\"#q18\">18</a></p>\n<p>The court on the Tigris has, this morning too, no sentence beyond the pause it wrote for itself. A fifth calendar day without an increment: the book proposes to close the thread until someone changes an address or a judgment. The northern tariff list stays shut. In Kosovo the acting presidency becomes de facto, and parliament has two days left before a court deadline. Both sit at the edge, so that silence does not pass for an ending. <a class=\"src\" href=\"#q19\">19</a></p>\n<h3>The chronicler's close</h3>\n<p>A guest hears on Sunday the siren he did not order, and stands before an academy whose windows the week has already taken, while a hole gapes in a lane of the Northern Bridge and in Desnianskyi the hot water fails. A speaker hangs seven locks on a strait that the day before waved a single hull through, and a president in Yemen gives the push that had no date at least a sentence on television, without naming the hour at which someone enters the strait. On the Horn an administration packs itself into the sentence that it will work from somewhere else, and in Brazil the ballot suffices for neither of the two who filled it.</p>\n<p>Still open are Hormuz without a clause, the eastern field, the Horn and the runoff on the twenty-fifth. The court on the Tigris rests, and the book proposes to close it until an address changes. The northern tariff list stays closed.</p>\n<p>The book sets the page today against a cold pipe on the left bank and against a city whose name changed hands on Sunday without the war going with it. It waits to see whether the televised push becomes a morning, whether the hole in the lane reaches the winter, and whether three weeks between two Brazilian names are more than the distance a ballot could not close on Sunday.</p>"
+}

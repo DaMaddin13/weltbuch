@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-05",
+  "number": 11,
+  "weekday": "Montag",
+  "title": "Die Sirene für den Gast",
+  "subtitle": "In dem ein Kanzler unter Alarm eine Akademie betritt, ein Sprecher sieben Schlösser an die Enge hängt und eine Regionalhauptstadt die Hand wechselt.",
+  "lede": "Der fünfte Oktober 2026 findet Kiew mit einem Gast unter Sirenen und Mekelle ohne die Verwaltung, die sie am Samstag noch hielt.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Ghalibaf: Hormus bleibt zu, bis sieben Bedingungen stehen; Alimi datiert den Stoß im Fernsehen; Sonntag neun Passagen, kein Tanker. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Vierter Tag Brücken, Nordbrücke erneut, zwei Verletzte, Fernwärme aus; Merz unter Sirene, etwa eine Milliarde Euro; Moskau beansprucht Frachter.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Bundeskräfte und Milizen in Mekelle; TPLF verlegt die Verwaltung „irgendwo anders“. Kein Ende.",
+      "status": "offen"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Brasilien: Bolsonaro 47,03, Lula 45,16, Stichwahl am 25. Oktober.",
+      "status": "offen"
+    },
+    {
+      "id": "G",
+      "since": "Strang G · seit 30. Sept.",
+      "title": "Der letzte Posten",
+      "summary": "Fünfter Tag ohne Zuwachs über die selbstgeschriebene Pause. Schließung vorgeschlagen.",
+      "status": "ruhend · Schließung vorgeschlagen"
+    },
+    {
+      "id": "F",
+      "since": "Strang F · seit 29. Sept.",
+      "title": "Die nördliche Zolliste",
+      "summary": "Geschlossen am 4. Oktober. Kein Zuwachs. Bleibt zu.",
+      "status": "geschlossen"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Gast unter der Sirene",
+      "name": "Friedrich Merz",
+      "text": "Kommt nach Kiew, hört den Alarm und nennt die Schläge tägliche Kriegsverbrechen."
+    },
+    {
+      "role": "Der Sprecher der sieben Schlösser",
+      "name": "Mohammad Bagher Ghalibaf",
+      "text": "Hält Hormus zu, bis die Bedingungen von Islamabad erfüllt sind, und bestreitet ein Inspektionsangebot."
+    },
+    {
+      "role": "Der Mann, der den Stoß datiert",
+      "name": "Raschad al-Alimi",
+      "text": "Gibt der Offensive, die kein Datum hatte, einen Satz im Fernsehen."
+    },
+    {
+      "role": "Der Sohn vor der Frist",
+      "name": "Flávio Bolsonaro",
+      "text": "Liegt im ersten Gang vorn und hat das Haus noch nicht."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 4. Okt. 2026: Sirenen und Explosionen bei Merz in Kiew; Militärhilfe rund eine Milliarde Euro und Energieprogramm.",
+      "url": "https://www.reuters.com/fr/affaires/des-explosions-entendues-pendant-la-visite-du-chancelier-allemand-kyiv-2026-10-04/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 4. Okt. 2026: vierter Tag Brückenschläge, Nordbrücke erneut, zwei Verletzte, Loch in der Spur.",
+      "url": "https://www.bbc.co.uk/news/articles/ckreyjzzzywqo"
+    },
+    {
+      "id": "q3",
+      "text": "Kyiv Independent, 4. Okt. 2026: Nordbrücke, zwei Verletzte, Fernwärme in Desnjanskyj, Selenskyj zu den Wochensummen.",
+      "url": "https://kyivindependent.com/russia-targets-kyiv-bridges-for-fourth-consecutive-day-hits-northern-bridge/"
+    },
+    {
+      "id": "q4",
+      "text": "RFE/RL, 4. Okt. 2026: Merz an der Akademie, tägliche Kriegsverbrechen, Paket für Abfangdrohnen.",
+      "url": "https://www.rferl.org/a/putin-zelenskyy-kyiv-russia-ukraine-war-infrastructure/33869793.html"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 4. Okt. 2026: Moskau beansprucht Nordbrücke und zwei Frachter; Verschärfung nach Selenskyj zu Raffinerien.",
+      "url": "https://www.reuters.com/world/russia-says-it-hit-kyiv-bridge-two-vessels-black-sea-2026-10-04/"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 4. Okt. 2026: Ghalibaf, Hormus bleibt zu, bis sieben Bedingungen des Islamabad-Memorandums erfüllt sind.",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-strait-hormuz-will-not-reopen-until-conditions-are-met-2026-10-04/"
+    },
+    {
+      "id": "q7",
+      "text": "hormuz.now, 4. Okt. 2026: neun sichtbare Passagen, kein Tanker.",
+      "url": "https://hormuz.now/traffic/2026-10-04"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 5. Okt. 2026: Brent 101,90 Dollar; G7-Freigabe und höhere Nahost-Exporte dämpfen den Preis.",
+      "url": "https://www.reuters.com/business/energy/oil-climbs-after-yemeni-houthis-attack-saudi-aramco-sites-2026-10-04/"
+    },
+    {
+      "id": "q9",
+      "text": "Reuters über Defense News, 4. Okt. 2026: Alimi kündigt Offensive zur Rücknahme allen Huthi-Gebiets an; Huthi beanspruchen Aramco Riad und Khurais.",
+      "url": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/"
+    },
+    {
+      "id": "q10",
+      "text": "BBC, 4. Okt. 2026: Alimi im Fernsehen; AFP: Huthi schneiden die Straße Taizz–Aden.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o"
+    },
+    {
+      "id": "q11",
+      "text": "Reuters, 4. Okt. 2026: Regierungskräfte übernehmen Mekelle; TPLF verlegt die Verwaltung.",
+      "url": "https://www.reuters.com/world/africa/government-forces-seize-capital-ethiopias-tigray-region-rebels-2026-10-04/"
+    },
+    {
+      "id": "q12",
+      "text": "Al Jazeera, 4. Okt. 2026: TPLF zieht sich aus Mekelle zurück, Bundeskräfte in der Stadt.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/government-forces-seize-capital-of-ethiopias-tigray-region-from-rebels"
+    },
+    {
+      "id": "q13",
+      "text": "Al Jazeera, 5. Okt. 2026: Einnahme weckt die Furcht vor einem langen Krieg; Front kämpft von anderen Stellungen.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/ethiopias-forces-retake-mekelle-amid-renewed-tigray-fighting"
+    },
+    {
+      "id": "q14",
+      "text": "BBC, 4. Okt. 2026: Flávio Bolsonaro 47,03 Prozent, Lula 45,16, Stichwahl am 25. Oktober.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no"
+    },
+    {
+      "id": "q15",
+      "text": "Washington Post, 4. Okt. 2026: erster Gang endet in der Stichwahl, Rechte gewinnt im Kongress an Boden.",
+      "url": "https://www.washingtonpost.com/world/2026/10/04/bolsonaro-lula-head-runoff-5-takeaways-brazils-election/"
+    },
+    {
+      "id": "q16",
+      "text": "The Guardian, 4. Okt. 2026: Dodik erklärt Parteisieg; Cvijanović vorn, Beteiligung 42 Prozent.",
+      "url": "https://www.theguardian.com/world/2026/oct/04/bosnian-serb-nationalist-dodik-declares-party-victory-in-bosnia-election"
+    },
+    {
+      "id": "q17",
+      "text": "Al Jazeera, 4. Okt. 2026: Luftschlag auf WFP-Lastwagen im Südkordofan, Fahrer tot.",
+      "url": "https://www.aljazeera.com/news/2026/10/4/air-strike-in-sudan-kills-un-aid-truck-driver-wfp"
+    },
+    {
+      "id": "q18",
+      "text": "AP über CNN, 4. Okt. 2026: zwei Tote, 35 Verletzte bei Blockfest in Vienna, Georgia.",
+      "url": "https://www.cnn.com/2026/10/04/us/georgia-vienna-party-shooting"
+    },
+    {
+      "id": "q19",
+      "text": "Wikipedia Current Events, 4. und 5. Okt. 2026: Mekelle, Jemen, Brasilien, Kosovo-Frist.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_4"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-04",
+    "title": "Die zweite Brücke und die erlaubte Fahrt",
+    "teaser": "Eine Hauptstadt zählt ein zweites Ufer. Ein Fass quert die Enge nur mit Erlaubnis. Ein Flughafen wechselt die Hand."
+  },
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Das Horn · Die Stichwahl",
+  "body": "<p>Es gibt Montage, an denen ein Gast nicht in einen Saal tritt, sondern in eine Sirene. Der fünfte Oktober 2026 ist so ein Morgen. In Kiew steht der deutsche Kanzler vor einer Akademie, deren Fassade die Woche schon aufgerissen hat, während wenige Kilometer nördlich eine Drohne zum zweiten Mal in zwei Tagen in die Fahrbahn der Nordbrücke schlägt und der Verkehr, der noch rollte, in einem Feuerball endet. Zur selben Stunde sagt in Teheran ein Parlamentspräsident, die Enge bleibe zu, bis sieben Bedingungen erfüllt seien, die ein Memorandum vom Juni aufgeschrieben hat und die ein amerikanischer Satz der letzten Woche nicht erfüllt hat. Am Horn bestätigt der Sonntag, was der Samstag als Landebahn begonnen hatte: die Regionalhauptstadt ist geräumt, und die Verwaltung, die sie hielt, schreibt, sie arbeite von irgendwo anders. Drei Bilder, und keines davon macht aus einer Erlaubnis eine Straße.</p>\n<h3>I. Der Gast unter der Sirene</h3>\n<p>Friedrich Merz kommt am Sonntag nach Kiew, mit Wirtschaftsministerin Katherina Reiche und einer Delegation aus Energie und Rüstung, einen Tag nachdem Moskau Ausländer, auch Diplomaten, vor tödlicher Gefahr gewarnt hatte. Kaum ist der Zug angekommen, meldet Bürgermeister Vitali Klitschko den nächsten Treffer: russische Kräfte hätten am Morgen erneut die Nordbrücke getroffen, den Piwnytschnyj, dessen Fahrbahn und Oberleitung der Samstag schon beschädigt hatte. Zwei Menschen werden verletzt, einer kommt ins Krankenhaus, der andere wird an der Stelle versorgt. Eine Fernwärmeleitung ist mitgetroffen, und in Teilen des Bezirks Desnjanskyj fällt das heiße Wasser aus. Die Luftwaffe spricht von hundertfünfunddreißig Drohnen in der Nacht und von hundertfünfundzwanzig Abschüssen. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Die BBC hat das Video des Morgens geprüft. Autos fahren noch über die Nordbrücke, als die Drohne in die Fahrbahn einschlägt und eine Feuerkugel aufwirft; später zeigen Aufnahmen ein Loch in der Mitte einer Spur. Es ist der vierte Tag in Folge, an dem Moskau Brücken über den Dnipro in der Hauptstadt trifft, und der zweite Morgen in Folge an derselben nördlichen Adresse. Was der Samstag als zweite Baustelle gelesen hatte, ist am Sonntag die Wiederholung einer Adresse, bis die Gewohnheit, morgens anzukommen, selbst zur Baustelle wird. Selenskyj legt die Woche daneben: mehr als neunzehnhundert Angriffsdrohnen, siebzehnhundert Fliegerbomben, fünfundzwanzig Raketen. Eine Zahl ist noch kein Winter, aber die Methode vom Freitag nimmt keinen Ruhetag. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<blockquote>Eine Brücke, die man zum zweiten Mal an demselben Morgen trifft, braucht keinen neuen Namen. Sie braucht einen Gast, der die Sirene hört.</blockquote>\n<p>Merz steht mit Selenskyj vor dem Hauptgebäude der Nationalen Akademie der Wissenschaften, das eine Drohne in der Woche schwer beschädigt hat und in dem wenigstens zwei Menschen starben. Er nennt den Angriff auf die Akademie, wenige hundert Meter von der deutschen Botschaft, und die Sirene an einem ruhigen Sonntagmorgen das, was sie für ihn sind: tägliche Kriegsverbrechen. Das Paket, das er mitbringt, liegt bei etwa einer Milliarde Euro militärischer Hilfe und einem Programm für die Energie, darunter Geld für die gemeinsame Fertigung von Abfangdrohnen gegen die Strahltriebwerke, bei denen Berlin von technischen Durchbrüchen der letzten Wochen spricht. Eine Milliarde ist kein Fluss, den man wieder überquert. Sie ist der Satz eines Gastes, der unter Alarm ankommt und nicht so tut, als sei der Alarm die Kulisse. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Moskau liest denselben Morgen anders. Das Verteidigungsministerium sagt, es habe am Sonntag die Nordbrücke getroffen, eine Route für Truppen und militärische Last, und zwei Trockenfrachter, die Gerät zum Hafen von Odessa gebracht hätten. Eine frühere Meldung nennt dazu einen Frachter östlich von Odessa, ein Logistikzentrum von Nova Poschta in Tschornomorsk und ein Rechenzentrum in der Hafenstadt. Nachdem Selenskyj Reuters gesagt hatte, Kiew werde die Schläge auf russische Raffinerien steigern, kündigt Moskau an, die eigenen Schläge zu verschärfen, und beansprucht zwischen Samstagabend und Sonntagmorgen fünfhundertneunundfünfzig abgeschossene ukrainische Drohnen. Reuters kann die Ansprüche beider Seiten nicht unabhängig prüfen. Ein Schiff, das jemand als militärische Last liest, und eine Brücke, auf der am Morgen noch Autos fuhren, stehen nebeneinander, ohne dass das Buch die eine Lesart zur anderen macht. <a class=\"src\" href=\"#q5\">5</a></p>\n<h3>II. Sieben Schlösser an der Enge</h3>\n<p>Am Sonntag lässt das Staatsmedium den Parlamentspräsidenten Mohammad Bagher Ghalibaf sagen, die Straße von Hormus werde nicht geöffnet, bis sieben iranische Bedingungen aus einem Interimsverständnis mit den Vereinigten Staaten vom Juni erfüllt seien, dem Memorandum von Islamabad. Teheran habe während der Generalversammlung einen Vorschlag vorgelegt, nach dem die Durchfahrt binnen sieben Tagen wieder gewöhnlich werden könne, wenn die Bedingungen stünden. Washington habe in der vergangenen Woche über Vermittler in Katar geantwortet. Ghalibaf, der als oberster Unterhändler spricht, nennt die Lage klar und fest. Er bestreitet ein Angebot von Inspektionen gegen Sanktionserleichterung und sagt, Iran sei in keine Atomgespräche mit Washington eingetreten. Was unter Eingeweihten als Sieben-Tage-Papier kreist, bleibt ein Papier. Der Sonntag macht daraus keine Unterschrift, sondern eine Fußnote unter einem Schloss, hinter dem die erlaubte Fahrt des Samstags kleiner wird. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>Auf dem Wasser zählt die sichtbare Enge am Sonntag neun Handelsschiffe, fünf hinein, vier hinaus, keines davon ein Tanker. Neun Rümpfe gegen mehr als achtzig am Tag vor dem Krieg, und kein Tanker am Tag nach der irakischen Fahrt, sind keine Öffnung und keine Widerlegung. Eine Erlaubnis bleibt ein Rumpf, solange die sieben Bedingungen als Tor gelten. Am frühen Montag steht Brent bei hunderteinem Dollar und neunzig Cent, ein knapper Nachlass, nachdem die Freigabe der Sieben der Notiz die unmittelbare Angst genommen hat und Lieferdaten für die letzte Septemberwoche an vier von sieben Tagen Nahost-Exporte über dem Vorkriegsstand zeigen, teurer und auf schlechteren Wegen. Ein Preis, der nachgibt, dreht den Hahn nicht. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Zur selben Stunde bekommt der Plan, der am Freitag noch kein Datum trug, einen Satz im Fernsehen. Präsident Raschad al-Alimi, Kopf des international anerkannten Präsidialrats, erklärt den Beginn militärischer Operationen, um das verbliebene Gebiet der Republik zurückzunehmen und die Autorität des Staates über das ganze Land zu legen. Ein Sprecher ruft die Huthi auf, die Waffen niederzulegen, und Alimi sagt, jede Chance auf Deeskalation sei erschöpft. Zur gleichen Zeit melden die Huthi Flugkörper und Drohnen gegen Aramco in Riad und bei Khurais, sprechen von großen Feuern und nennen fünfzig saudisch geführte Schläge in zwölf Stunden als Anlass. Eine saudische Bestätigung fehlt, wie sie am Samstag für den Rauch südlich der Hauptstadt gefehlt hat. Die AFP berichtet unter Berufung auf drei militärische Quellen, die Bewegung habe die Straße zwischen Taizz und Aden geschnitten und Taizz damit praktisch eingeschlossen. Der Stoß, den Riad für die kommenden Wochen gezeichnet hatte, hat am Sonntag eine Stimme und eine Gegenstraße, und noch immer keine Stunde, zu der ein Stiefel die Meerenge betritt. <a class=\"src\" href=\"#q9\">9</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<h3>III. Die Stadt, die jemand anderswohin schreibt</h3>\n<p>Am Sonntag sagen drei Quellen der Agentur Reuters, äthiopische Regierungstruppen und verbündete Milizen hätten die Kontrolle über Mekelle zurück, die Hauptstadt von Tigray. Die Volksbefreiungsfront, die das Bündnis anführt, schreibt auf Facebook, sie sei aus der Hauptstadt gewichen und die Regionalregierung werde vorübergehend aus Mekelle verlegt und von irgendwo anders arbeiten. Eine Quelle nahe der regierungsnahen Tigray Peace Forces sagt, deren Kämpfer seien am Samstagnachmittag ins Zentrum eingezogen, das Bundesheer danach. Eine humanitäre Quelle und ein Bewohner, der nicht genannt werden will, bestätigen die Kontrolle. Das Büro des Premiers antwortet zunächst nicht. Die Einnahme ist ein schwerer Schlag für das Bündnis, das am dreiundzwanzigsten September begann und den Flughafen am ersten Tag zu seinen drei Feldern zählte. <a class=\"src\" href=\"#q11\">11</a> <a class=\"src\" href=\"#q12\">12</a></p>\n<p>Das Muster von 2020 bleibt unwidersprochen: die Bundeskräfte nahmen Mekelle im ersten Monat, und die Front holte die Stadt Monate später zurück. Die Front sagt, der Abzug solle weitere Zerstörung verhindern, die Kämpfe gingen anderswo weiter, und Bewohner fürchten die lange Rechnung einer Stadt, deren Verwaltung sich in den Satz „irgendwo anders“ packt. Ein Flughafen, der die Hand wechselt, war am Samstag noch keine Schlacht um die Gassen. Am Sonntag sind die Gassen in der Meldung derer, die sie betreten haben. Das Buch nennt das keinen Fall und keinen Frieden, sondern den vierten Tag eines Fadens, der aus der Fußnote nicht mehr zurückwill. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a></p>\n<h3>IV. Die Urne, die nicht reicht</h3>\n<p>In Brasilien reicht der Sonntag für keinen der beiden, die ihn beherrscht haben. Mit über neunundneunzig Prozent der Stimmen liegt Flávio Bolsonaro bei 47,03 Prozent, Luiz Inácio Lula da Silva bei 45,16. Die absolute Mehrheit fehlt, die Stichwahl ist auf den fünfundzwanzigsten Oktober gelegt. Bolsonaro, Sohn des früheren Präsidenten, der eine Haft von siebenundzwanzig Jahren verbüßt, liegt über den Umfragen, die Lula leicht vorn gesehen hatten. Die Liberalen stellen nach dem bisherigen Stand die meisten Mandate, und die Plätze drei bis fünf kamen von rechts, sodass der zweite Gang ein Becken hat, das nicht erst am fünfundzwanzigsten erfunden wird. Vier Jahre zuvor hatte Lula den Vater mit dem knappsten Abstand geschlagen. Der Sohn steht jetzt vorn, ohne das Haus schon zu haben. Eine Urne, die nicht reicht, ist keine Niederlage, sondern eine Frist von drei Wochen. <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<h3>V. Am Rand des Blattes</h3>\n<p>In Bosnien und Herzegowina erklärt Milorad Dodik den Sieg seiner Partei, obwohl er selbst nicht auf dem Zettel steht und ein Amt nicht mehr bekleiden darf. Željka Cvijanović liegt bei über fünfundfünfzig Prozent für den serbischen Sitz, Darijana Filipović führt das kroatische Rennen deutlich, Denis Bećirović den bosniakischen knapp, und die Beteiligung bleibt bei zweiundvierzig Prozent. Eine Urne mit so viel Abstand und so wenig Andrang ist keine Versöhnung. Sie zeigt, dass ein verbotener Name auch ohne Zeile auf dem Zettel eine Kammer füllen kann. <a class=\"src\" href=\"#q16\">16</a></p>\n<p>Im Südkordofan trifft ein Luftschlag Lastwagen des Welternährungsprogramms, die Lebensmittel trugen und als humanitäre Fahrzeuge gekennzeichnet waren. Der Fahrer stirbt. Das Programm nennt keine Täter, sagt, der Konvoi sei am Samstag zwischen zwei Städten unter Kontrolle der sudanesischen Streitkräfte unterwegs gewesen, und verlangt eine Untersuchung. Ein markierter Wagen, der trotzdem brennt, bleibt Fußnote, weil der Morgen aus einer einzelnen Straße keinen eigenen Faden zieht. <a class=\"src\" href=\"#q17\">17</a></p>\n<p>In Vienna im amerikanischen Bundesstaat Georgia sterben am frühen Sonntag zwei Männer, zwanzig und dreiundzwanzig Jahre alt, bei einer Schießerei auf einem Blockfest zum Homecoming der Highschool. Mehr als tausend Menschen waren da, fünfunddreißig werden verletzt, ein Teil von Kugeln, andere auf der Flucht. Es war keine schulische Veranstaltung, und der Morgen erreicht die Schüler trotzdem. Das Buch öffnet daraus keinen Strang und macht aus dem Fest keine Metapher für die Enge. <a class=\"src\" href=\"#q18\">18</a></p>\n<p>Der Hof am Tigris hat auch an diesem Morgen keinen Satz über die Pause hinaus, die er sich selbst geschrieben hat. Der fünfte Kalendertag ohne Zuwachs: das Buch schlägt vor, den Faden zu schließen, bis jemand eine Adresse oder ein Urteil ändert. Die nördliche Zolliste bleibt zu. In Kosovo wird die geschäftsführende Präsidentschaft faktisch, und dem Parlament bleiben zwei Tage bis zu einer Frist des Gerichts. Beides liegt am Rand, damit Stille nicht als Ende durchgeht. <a class=\"src\" href=\"#q19\">19</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Ein Gast hört am Sonntag die Sirene, die er nicht bestellt hat, und steht vor einer Akademie, deren Fenster die Woche schon genommen hat, während auf der Nordbrücke ein Loch in der Spur klafft und in Desnjanskyj das heiße Wasser ausfällt. Ein Sprecher hängt sieben Schlösser an eine Enge, die am Vortag einen einzelnen Rumpf durchgewinkt hat, und ein Präsident im Jemen gibt dem Stoß, der kein Datum hatte, wenigstens einen Satz im Fernsehen, ohne die Stunde zu nennen, in der jemand die Meerenge betritt. Am Horn packt eine Verwaltung sich in den Satz, sie arbeite von irgendwo anders, und in Brasilien reicht die Urne für keinen der beiden, die sie gefüllt haben.</p>\n<p>Offen bleiben Hormus ohne Klausel, das östliche Feld, das Horn und die Stichwahl am fünfundzwanzigsten. Der Hof am Tigris ruht, und das Buch schlägt vor, ihn zu schließen, bis eine Adresse sich ändert. Die nördliche Zolliste bleibt geschlossen.</p>\n<p>Das Buch stellt die Seite heute gegen ein kaltes Rohr auf dem linken Ufer und gegen eine Stadt, deren Name am Sonntag die Hand gewechselt hat, ohne dass der Krieg mitgegangen wäre. Es wartet, ob aus dem fernsehgegebenen Stoß ein Morgen wird, ob das Loch in der Spur den Winter erreicht, und ob drei Wochen zwischen zwei brasilianischen Namen mehr sind als der Abstand, den eine Urne am Sonntag nicht schließen konnte.</p>"
+}
