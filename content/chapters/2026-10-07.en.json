@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-07",
+  "number": 12,
+  "weekday": "Wednesday",
+  "title": "The raft off Byala",
+  "subtitle": "In which a freighter sinks off a NATO shore, five tankers pass a list, and a city on the Horn yields the road north.",
+  "lede": "October 7, 2026, begins with a search for a crew and with a capital that goes down into the metro again.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle’s eye",
+      "summary": "Tuesday seven passages, five tankers; Brent at times 98.48; Vance: cut enrichment. Mocha and Bab al-Mandab claimed; three wounded in Jazan and Najran. No clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Drones sink a freighter off Bulgaria, crew missing; grain ship rescued. Early Wednesday Kyiv again; bridge in Zaporizhzhia, five injured.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since Oct. 3",
+      "title": "The Horn before the city",
+      "summary": "Mekelle held; advance to Agula and Wukro; drones, phones back on. No end.",
+      "status": "open"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since Oct. 5",
+      "title": "The urn that does not suffice",
+      "summary": "No increment until the runoff on October 25. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since Sept. 30",
+      "title": "The last post",
+      "summary": "Still no increment after proposed closing. Closed.",
+      "status": "closed"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since Sept. 29",
+      "title": "The northern customs list",
+      "summary": "Closed on October 4. Stays shut.",
+      "status": "closed"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The man on the foreign shore",
+      "name": "Rumen Radev",
+      "text": "Calls the drone strike off Byala a breach of international law and searches for a crew."
+    },
+    {
+      "role": "The man with the threshold",
+      "name": "J. D. Vance",
+      "text": "Demands a real cut in enrichment and will not trade words for deeds."
+    },
+    {
+      "role": "The voice after midnight",
+      "name": "Justina Shiroka Pula",
+      "text": "Becomes president one vote over the bar and says the mandate belongs to the citizens."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 6. Okt. 2026: Drohnen versenken Schiff vor Bulgarien, Besatzung vermisst; zweites Getreideschiff, zwei Verletzte.",
+      "url": "https://www.reuters.com/world/drones-strike-two-ships-bulgarias-black-sea-zone-president-2026-10-06/"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 6. Okt. 2026: Alfa Watan gesunken, Able mit Getreide, elf türkische und sieben indische Seeleute gerettet.",
+      "url": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo"
+    },
+    {
+      "id": "q3",
+      "text": "Reuters, 7. Okt. 2026: neue Welle auf Kiew, Häuser und Lager beschädigt; Schlag auf Industrieanlage in Dnipro.",
+      "url": "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-fresh-wave-attacks-2026-10-07/"
+    },
+    {
+      "id": "q4",
+      "text": "RBC-Ukraine, 6. Okt. 2026: Brücke in Saporischschja gesperrt, fünf Verletzte, darunter Rotkreuzhelfer.",
+      "url": "https://newsukraine.rbc.ua/news/russia-strikes-bridge-in-ukraine-s-zaporizhzhia-1791264538.html"
+    },
+    {
+      "id": "q5",
+      "text": "hormuz.now, 6. Okt. 2026: sieben sichtbare Passagen, fünf Tanker, darunter Sponde ausgehend.",
+      "url": "https://hormuz.now/traffic/2026-10-06"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 6. Okt. 2026: Brent zeitweise 98,48 Dollar; Vitol zu Exporten; Ost-West-Pipeline 5,8 Millionen Fass.",
+      "url": "https://finance.yahoo.com/news/oil-prices-slip-traders-weigh-003904233.html"
+    },
+    {
+      "id": "q7",
+      "text": "Bloomberg, 6./7. Okt. 2026: Öl beruhigt sich, Brent nahe 101; UKMTO mindestens neun Angriffe im Monat.",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 6. Okt. 2026: Vance verlangt spürbare Senkung der Anreicherung; Gespräche mit Peseschkian und Araghchi.",
+      "url": "https://www.reuters.com/world/interview-us-vice-president-vance-says-iran-must-cut-enrichment-end-war-2026-10-06/"
+    },
+    {
+      "id": "q9",
+      "text": "Al Jazeera, 6. Okt. 2026: drei Verwundete in Dschisan und Nadschran; Mokka und Bab al-Mandab beansprucht; Koalition mit hundert Jets.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/saudi-arabia-says-three-wounded-in-attacks-on-airports-near-yemen-border"
+    },
+    {
+      "id": "q10",
+      "text": "Critical Threats, 6. Okt. 2026: Vormarsch nach Agula und Wukro, Telefone in Mekelle wieder an.",
+      "url": "https://www.criticalthreats.org/print/brf_6ac55ad4d4154"
+    },
+    {
+      "id": "q11",
+      "text": "India Today / Kommandeursangabe, 6. Okt. 2026: Drohnenschläge, Miliz poliziert Mekelle.",
+      "url": "https://www.indiatoday.in/world/story/tigray-conflict-government-allies-retake-mekelle-drone-strikes-peace-deal-fears-ptag-3011044-2026-10-06"
+    },
+    {
+      "id": "q12",
+      "text": "Reuters, 7. Okt. 2026: Justina Shiroka Pula mit 81 Stimmen zur Präsidentin gewählt.",
+      "url": "https://www.reuters.com/world/kosovo-parliament-elects-new-president-avoiding-snap-election-2026-10-07/"
+    },
+    {
+      "id": "q13",
+      "text": "RFE/RL, 7. Okt. 2026: Wahl beginnt sechs Minuten vor Mitternacht; Gesetz zu den Haager Kammern.",
+      "url": "https://www.rferl.org/a/kosovo-elects-president-opposition-deal-war-crimes/33871583.html"
+    },
+    {
+      "id": "q14",
+      "text": "Reuters, 6. Okt. 2026: Kenia bestätigt ersten importierten Ebola-Fall, Patient tot.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-confirms-first-ebola-case-imported-congo-patient-has-died-2026-10-06/"
+    },
+    {
+      "id": "q15",
+      "text": "AP, 6. Okt. 2026: August Hanning wegen Verdachts des Verrats festgenommen.",
+      "url": "https://apnews.com/article/germany-arrest-espionage-allegation-former-intelligence-chief-47bb15543a3e2404e3f756dbb517d14c"
+    },
+    {
+      "id": "q16",
+      "text": "Wikipedia Current Events, 6. Okt. 2026: Nobel, Haiti, Piraterie, Paramount, Katz.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_6"
+    },
+    {
+      "id": "q17",
+      "text": "AFP über Gulf News / Wikipedia, 6.–7. Okt. 2026: Kosovo-Frist und Randmeldungen.",
+      "url": "https://gulfnews.com/world/europe/kosovo-elects-president-rushes-war-crimes-court-change-to-avoid-snap-poll-1.500701034"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-05",
+    "title": "The siren for the guest",
+    "teaser": "A chancellor hears the alarm. Seven conditions keep the strait shut. A regional capital changes hands."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The Horn · The runoff rests",
+  "body": "<p>There are mornings when a war arrives not at a front but as an empty life jacket on a raft. October 7, 2026, is such a morning, and it also carries the date on which, three years ago, the fence around Gaza broke. Off the Bulgarian coast, boats are searching for a crew that a drone strike in the night before Tuesday took off a freighter. In Kyiv, in the early hours of Wednesday, people go down into the metro again, because the siren has not fallen out of the calendar. Farther south, two Saudi airports count three wounded, and a strait that showed no tanker on Sunday lets five pass on Tuesday without becoming a road.</p>\n<h3>I. The raft off a foreign shore</h3>\n<p>About seventy nautical miles off Byala, in eastern Bulgaria and thus inside the economic zone of a NATO country, air and sea drones strike two merchant ships in the night before Tuesday. Prime Minister Rumen Radev calls the blow a gross breach of international law and says it is not immediately clear from which side the craft came. The Alfa Watan, a general-cargo freighter under the flag of Togo, Turkish-operated and bound for Sulina, sinks. When a Bulgarian vessel reaches the place, an overturned boat, rafts and life jackets are on the water, and the crew is missing. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>The second ship, the Able under the flag of Palau, had been carrying grain. Bulgarian sailors take off the crew, eleven Turks and seven Indians, two of them injured with burns. Shipping sources call it the first of its kind in Bulgarian water. Radev warns that the war will keep widening its geographic circle if it is not ended, and Ursula von der Leyen calls attacks on commercial ships and innocent crews unacceptable. Ukrainian foreign minister Andrii Sybiha reads in it an attempt to make the voyage itself a weapon: whoever makes navigation unsafe drives insurance and freight and, with them, the price of bread. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>A bridge struck in one’s own capital remains a civic wound. A freighter that sinks off a foreign shore is the war changing shores.</blockquote>\n<p>Volodymyr Zelenskyy says in his evening address that a joint examination with the Bulgarian navy showed Russia behind the strike, and that Ukrainian forces were not operating in that part of the sea. Moscow does not comment. A maritime security service considers a Russian origin probable on the first reading, and Marisks speaks of an expansion into the zones of Romania and Bulgaria. The day before, two people had died in a fire at sea off Romania, which Kyiv also attributed to Russian drones. The book does not turn two readings into one. It records that a crew is missing and that the grain meant to feed a winter lay on a damaged deck. <a class=\"src\" href=\"#q1\">1</a></p>\n<p>Early on Wednesday, a fresh wave hits Kyiv. Mayor Vitali Klitschko reports damaged houses and warehouses, a Reuters witness hears explosions. In Dnipro a strike hits an industrial facility. What Sunday read as a guest under the siren is on Wednesday the habit without a guest. In Zaporizhzhia, Tuesday morning had already closed a bridge over the Dnipro and counted five injured, among them two Red Cross workers on their way to work. The method of striking crossings thus has a second city, and Kyiv’s left bank is no longer the only address at which one fails to arrive in the morning. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>II. Five tankers and no clause</h3>\n<p>On the visible strait, Tuesday counts seven merchant ships, five inbound and two outbound, among them five tankers. The Sponde, a crude carrier of more than a hundred and fifty thousand tons deadweight, leaves the Gulf that day. Seven hulls are no opening against the more than eighty passages on the day before the war, and five tankers after a Sunday without a single one do not refute the list. They only show that the selection keeps sorting: whom it waves through, whom it turns back, whom it strikes and names only days later in a warning. <a class=\"src\" href=\"#q5\">5</a></p>\n<p>The price follows hope, not the tap. On Tuesday Brent falls at times by nearly two percent to 98.48 dollars, the lowest band since September 8, because more Middle Eastern crude is at sea and the Group of Seven have released emergency stocks of diesel and crude. Vitol’s chief speaks of about twelve million barrels of crude and two million barrels of products that have left the Middle East on tankers in seven to ten days. The Saudi energy minister says that 5.8 million barrels had run through the east-west pipeline to Yanbu by Tuesday morning, a route that bypasses the strait and makes the Red Sea a substitute tap. Overnight the barrel steadies again near a hundred and one dollars, while the British maritime warning already counts at least nine attacks in the waterway this month, half as many as in the whole of September across strait and Gulf together. A price that yields is not a road. <a class=\"src\" href=\"#q6\">6</a> <a class=\"src\" href=\"#q7\">7</a></p>\n<p>In Fairbanks, after a campaign stop in Alaska, Vice President J. D. Vance tells Reuters that the war ends only if Tehran truly lowers enrichment capacity, not if it promises future drawdowns. Nobody who does not want a bomb needs material enriched to sixty percent. Washington is speaking with President Masoud Pezeshkian and Foreign Minister Abbas Araghchi, but is not sure how Tehran decides in negotiations. Trump has rejected the latest offer and warned that operations could intensify after the midterms. Vance sets down the sentence a chronicle must not prettify: words will not be traded for deeds. What on Sunday stood as seven conditions under a lock receives on Tuesday an American threshold that is not the list from Islamabad. Two papers, and neither carries a signature. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>At the second chokepoint, the thrust announced on television becomes a claimed coast. Forces of the internationally recognized Yemeni government say they have retaken the port of Mocha on the Red Sea and control the Bab al-Mandab strait, the narrows through which the energy bypass would have to run if Hormuz stays shut. The Saudi-led coalition confirms its part, speaks of a hundred fighter jets in the air and of a naval operation in Hodeidah governorate. In Sanaa it reports a destroyed launch platform, in Saada a store of twenty ballistic missiles. Whether Mocha can be held is the real test, a former Security Council adviser says, because the movement still surrounds it on three sides. A claimed port is not yet an open sound. <a class=\"src\" href=\"#q9\">9</a></p>\n<p>The Houthi answer strikes not the battlefield but two airports. On Monday evening missiles hit King Abdullah Airport in Jazan and Najran airport, both close to the Yemeni border. Saudi civil aviation speaks on Tuesday of three wounded and material damage; the Gulf council calls the attack on civilian sites a dangerous escalation; Kuwait condemns it. At the same hour the defense ministers of Saudi Arabia, Turkey and Pakistan say an alliance will activate deterrence and move forces quickly into the kingdom. What that becomes in boots is, on Wednesday morning, still a post and not a map. The thrust thus has a coast, a counter-coast, and three names on an injury list. <a class=\"src\" href=\"#q9\">9</a></p>\n<h3>III. The road north</h3>\n<p>On the Horn, Mekelle remains in the hands of federal forces and the allied Tigray Peace Forces, and the front that on Sunday had packed itself into the phrase somewhere else keeps giving way north. Open-source maps and a conflict reporter place the capture of Agula and Wukro on Sunday, twenty and thirty kilometers north of the regional capital. A commander of the allied militia, Ermiyas Ababu, says on Tuesday that the mission is control of the state of Tigray, that drones are striking other places, and that his men are policing the city so it is not looted. The telephones in Mekelle, which the liberation front had cut on September 25, are back on after the capture. <a class=\"src\" href=\"#q10\">10</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<p>A reconnected telephone is not the peace of 2022. The front had aligned itself with six other groups against Prime Minister Abiy Ahmed, and observers read in the drone strikes the danger that the agreement of November that year becomes paper, while the city once taken and lost months later this time yields the road north. The book does not call that a fall. It calls it the sixth day of a thread that will not go back into the footnote, and whose next address is no longer the airport.</p>\n<h3>IV. At the edge of the page</h3>\n<p>In Pristina, in the first minutes of Wednesday, parliament elects the economist Justina Shiroka Pula president, eighty-one votes, one more than the two-thirds majority requires. The secret ballot begins six minutes before the constitutional midnight, and the country thereby avoids another snap parliamentary election. Before the vote the chamber decides to limit the powers of the specialist chambers in The Hague, eighty-eight votes, a bargain between Albin Kurti’s movement and the Democratic Party. Pula, born in 1953, president of the academy of sciences and a former energy minister, says the mandate belongs to the citizens. A vote that is still in time one minute late closes no war. It prevents an urn. <a class=\"src\" href=\"#q12\">12</a> <a class=\"src\" href=\"#q13\">13</a></p>\n<p>In Nairobi, Kenya confirms the first imported case of Ebola, Bundibugyo strain, in a man who had come from the Democratic Republic of Congo and is already dead. Nairobi Hospital tightens control, tracing and the watching of staff. The book does not yet open a thread from this. It marks the border, because a disease already counted in the thousands next door entered a capital on Tuesday. <a class=\"src\" href=\"#q14\">14</a></p>\n<p>In Germany the federal prosecutor arrests August Hanning, eighty years old, head of the foreign intelligence service from 1998 to 2005, strongly suspected of intelligence treason and attempted treason. A former aide is arrested for aiding and abetting. The charge is that state secrets were passed to a foreign service. A former keeper put in handcuffs by his own country shares the calendar, not the strait. <a class=\"src\" href=\"#q15\">15</a></p>\n<p>The Nobel Prize in Physics goes to Francis Halzen for the ice cube under the South Pole. In Haiti the electoral council postpones the vote of December 13; in Peru three gunmen and a police officer die in an operation against illegal gold; and four Indonesian sailors come home after pirates held them for months on the tanker Honour 25 and killed five of the crew. The market, meanwhile, celebrates Paramount completing the takeover of Warner Bros. Discovery. <a class=\"src\" href=\"#q16\">16</a> <a class=\"src\" href=\"#q17\">17</a></p>\n<p>Israel’s defense minister, Israel Katz, says on the eve of the third anniversary that the military has killed four thousand participants in the attacks of October 7, 2023. A number on the eve is not yet a balance of the years between. The Brazilian runoff has no new sentence and waits for the twenty-fifth. The court on the Tigris has, on this day too, no increment beyond the pause it wrote for itself. The book closes it, because a silent thread after a proposed closing no longer carries a chronicle. The northern customs list stays shut.</p>\n<h3>The chronicler’s decision</h3>\n<p>If this morning had a moral, it would sit too close to the life jacket. It has none. It has a crew that is missing, and a grain ship whose people step ashore in Varna. It has five tankers passing a list, and a vice president trading enrichment against an end, with no one signing. It has a city on the Horn that yields northward, and an academy in Pristina that finds a president one minute after midnight.</p>\n<p>I set the page today against a raft off Byala and against an airport where three people are being bandaged. Still open are the strait without a clause, the eastern field, which has now touched a NATO shore, and the Horn. The urn in Brazil rests until the twenty-fifth. The book waits to see whether a road comes of the claimed coast at Mocha, whether the search off Bulgaria finds names, and whether the third anniversary is more than a number a minister set into the world on the eve.</p>"
+}
