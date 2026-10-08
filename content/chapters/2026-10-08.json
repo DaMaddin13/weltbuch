@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-08",
+  "number": 13,
+  "weekday": "Donnerstag",
+  "title": "Das ausgeschaltete Licht",
+  "subtitle": "In dem eine Suche vor einem NATO-Ufer abbricht, ein Haus in Pryluky fällt und eine Uniform eine Grenze überquert, die das Buch noch nicht gezogen hatte.",
+  "lede": "Der achte Oktober 2026 beginnt mit zwölf Namen, die das Wasser nicht zurückgibt, und mit Lastwagen, die Adigrat nach Süden verlassen.",
+  "readMinutes": 10,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Zwölf Tankerangriffe in einer Woche, Höchstwert seit Februar; Dienstag sieben Passagen, tiefster Stand seit Juli. Brent 101,53. Rubio: Kontrolle verloren; Naqdi: Straße zu. Drei Tote in Abha und Riad. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Suche nach zwölf syrischen Seeleuten abgebrochen. Pryluky: Wohnhaus, 19 Tote, fünf Kinder; landesweit wenigstens 25 Tote. Moskau nennt Fire Point.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Zeugen: eritreische Uniformen in Adigrat, Konvois nach Süden Richtung Edaga Hamus. Eritrea bestreitet. Kein Ende.",
+      "status": "offen"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs bis zur Stichwahl am 25. Oktober. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "G",
+      "since": "Strang G · seit 30. Sept.",
+      "title": "Der letzte Posten",
+      "summary": "Geschlossen am 7. Oktober. Bleibt zu.",
+      "status": "geschlossen"
+    },
+    {
+      "id": "F",
+      "since": "Strang F · seit 29. Sept.",
+      "title": "Die nördliche Zolliste",
+      "summary": "Geschlossen am 4. Oktober. Bleibt zu.",
+      "status": "geschlossen"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Mann, der das Licht ausmacht",
+      "name": "Rumen Nikolow",
+      "text": "Beendet die Suche nach zwölf syrischen Seeleuten und sagt, es werde keine Spur mehr geben."
+    },
+    {
+      "role": "Der Mann mit dem Haus",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Zählt neunzehn Tote in Pryluky, darunter fünf Kinder, und nennt den Schlag einen der niederträchtigsten."
+    },
+    {
+      "role": "Der Mann mit der offenen Enge",
+      "name": "Marco Rubio",
+      "text": "Sagt in Athen, Iran habe die Kontrolle über die Straße verloren, und setzt den Punkt hinter die Bombe."
+    },
+    {
+      "role": "Der Kommandeur an der Gegenstraße",
+      "name": "Gebreigziabher Beyene",
+      "text": "Sieht eritreische Uniformen in Tigray und liest darin einen Krieg, der nicht nach Asmara überschlagen soll."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 7. Okt. 2026: Bulgarien beendet die Suche nach zwölf syrischen Seeleuten der Alfa Watan; keine Spuren, kein Drohnenrest.",
+      "url": "https://www.reuters.com/world/europe/bulgaria-halts-rescue-operation-crew-sunken-ship-2026-10-07/"
+    },
+    {
+      "id": "q2",
+      "text": "Al Jazeera, 7. Okt. 2026: Suche nach der Besatzung des gesunkenen Frachters eingestellt; Täter unbekannt.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship"
+    },
+    {
+      "id": "q3",
+      "text": "Reuters, 7. Okt. 2026: wenigstens 25 Tote, darunter fünf Kinder in Pryluky; 70 Flugkörper, Energie getroffen.",
+      "url": "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-fresh-wave-attacks-2026-10-07/"
+    },
+    {
+      "id": "q4",
+      "text": "Al Jazeera, 7. Okt. 2026: Luftwaffe zählt 130 Drohnen und 48 Marschflugkörper; Klitschko zwei Tote in Darnyzkyj.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 7. Okt. 2026: Moskau nennt massiven Schlag auf Fire Point, Häfen und mehrere Oblasten.",
+      "url": "https://www.reuters.com/world/europe/russia-says-it-launched-massive-strikes-kyiv-other-areas-ukraine-2026-10-07/"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 7. Okt. 2026: wenigstens zwölf Angriffe auf Tanker in einer Woche, Höchstwert seit Kriegsbeginn; IMO neun Vorfälle.",
+      "url": "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/"
+    },
+    {
+      "id": "q7",
+      "text": "Reuters, 8. Okt. 2026: sieben Warenschiffe am Dienstag, tiefster Stand seit dem 23. Juli; Rohöl 27 Prozent unter Kriegshoch.",
+      "url": "https://www.reuters.com/business/energy/hormuz-transits-lowest-over-two-months-after-attacks-data-shows-2026-10-08/"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 8. Okt. 2026: Brent 101,53 Dollar; Geschosse auf Tanker nördlich Katars, Verletzte.",
+      "url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-concerns-persist-amid-shipping-attacks-2026-10-08/"
+    },
+    {
+      "id": "q9",
+      "text": "The National, 7. Okt. 2026: Rubio in Athen, Kontrolle verloren; Naqdi hält die Straße für geschlossen.",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/07/iran-has-lost-complete-control-of-strait-of-hormuz-us-claims/"
+    },
+    {
+      "id": "q10",
+      "text": "AFP, 7. Okt. 2026: drei Tote in Abha und Riad, 36 Verletzte; Huthi beanspruchen die Schläge; 62 tote Kämpfer im Westen.",
+      "url": "https://www.afp.com/en/saudi-arabia-says-three-dead-airports-after-houthis-claim-attacks"
+    },
+    {
+      "id": "q11",
+      "text": "AP, 7. Okt. 2026: saudische Stellen bestätigen drei Tote nach Angriffen, die die Huthi beanspruchen.",
+      "url": "https://apnews.com/article/yemen-houthis-saudi-airport-aden-rebels-f22f20dd78b03b741dfa1279881cedbb"
+    },
+    {
+      "id": "q12",
+      "text": "Al Jazeera / Reuters, 7. Okt. 2026: Zeugen sehen eritreische Soldaten in Adigrat; Eritrea weist den Vorwurf zurück.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare"
+    },
+    {
+      "id": "q13",
+      "text": "BBC, 7. Okt. 2026: Konvois von Adigrat Richtung Edaga Hamus; Armee in Wukro, nicht unabhängig geprüft.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo"
+    },
+    {
+      "id": "q14",
+      "text": "Addis Standard, 7. Okt. 2026: Amtsträger und Augenzeugen zu eritreischen Soldaten in Adigrat, AFP.",
+      "url": "https://addisstandard.com/eritrean-troops-reportedly-deploy-in-tigray-as-tension-with-ethiopia-escalate/"
+    },
+    {
+      "id": "q15",
+      "text": "Al Jazeera, 7. Okt. 2026: Siedlerangriff im Westjordanland, ein Toter, sechzehn Verletzte.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank"
+    },
+    {
+      "id": "q16",
+      "text": "AP, 7. Okt. 2026: Drohnenschlag in Ad-Damazin, vier Frauen getötet.",
+      "url": "https://apnews.com/article/sudan-drone-war-homes-mosque-damazin-56473b19a098470344e54d75d0362092"
+    },
+    {
+      "id": "q17",
+      "text": "Al Jazeera, 6./7. Okt. 2026: malische Kräfte und Afrika-Korps nehmen Kidal zurück.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali"
+    },
+    {
+      "id": "q18",
+      "text": "Reuters, 7. Okt. 2026: Nobelpreis für Chemie an Kagan und Soai.",
+      "url": "https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/"
+    },
+    {
+      "id": "q19",
+      "text": "Wikipedia Current Events, 7. Okt. 2026: Lagebild Hormus, Horn, Sudan, Mali.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_7"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-07",
+    "title": "Das Floß vor Byala",
+    "teaser": "Eine Besatzung fehlt vor einem NATO-Ufer. Fünf Tanker passieren eine Liste. Eine Stadt am Horn gibt die Straße nach Norden ab."
+  },
+  "openTomorrow": "Hormus ohne Klausel · Das östliche Feld · Das Horn mit der zweiten Grenze · Die Stichwahl ruht",
+  "body": "<p>Es gibt Morgen, an denen eine Suche nicht mit einem Fund endet, sondern mit dem Satz, es werde keine Spur mehr geben. Der achte Oktober 2026 ist so ein Morgen. Vor der bulgarischen Küste schaltet die Marine das Licht aus, mit dem sie seit Dienstag nach einer Besatzung gesucht hat, und in Pryluky liegt ein fünfgeschossiges Haus, das ein Flugkörper in der Nacht auf Mittwoch genommen hat, unter den Toten fünf Kinder. Weiter südlich fahren Lastwagen durch Adigrat, deren Insassen Zeugen an der Uniform erkennen, und in Abha und Riad zählen zwei Flughäfen drei Tote, während die Enge, die am Dienstag noch fünf Tanker durchwinkte, in der Woche davor die meisten Stöße auf Tanker seit Kriegsbeginn gezählt hat. Ein Preis, der wieder über hunderteinen Dollar steigt, macht aus keiner dieser Szenen eine Straße.</p>\n<h3>I. Die Suche, die abbricht</h3>\n<p>Vizeadmiral Rumen Nikolow von der Agentur für Seeverwaltung sagt am Mittwoch in Sofia, die Suche nach der Besatzung des gesunkenen Frachters sei beendet und werde nicht wieder aufgenommen. Zwölf Seeleute, alle aus Syrien, gelten als an Bord der Alfa Watan gewesen, jenes Stückgutfrachters unter der Flagge Togos, der in der Nacht auf Dienstag etwa siebzig Seemeilen vor Byala nach einem Drohnenschlag sank. Nikolow sagt, von den Seeleuten gebe es keine Spuren und es werde keine geben; auch Reste einer Drohne seien nicht gefunden worden. Geborgen wurden ein Boot, drei Flöße und Teile der Ausrüstung. Was gestern noch offene Suche war, ist am Donnerstagmorgen ein abgeschlossener Satz, und das Buch macht daraus kein Urteil über die Seite der Flugkörper. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Die Able, das Getreideschiff unter der Flagge Palaus, bleibt beschädigt im Schwarzen Meer zurück, während sechzehn der Geretteten in einem Hotel warten, dessen Rechnung die Reederei trägt, und noch nicht abreisen dürfen, weil die Untersuchung läuft. Der türkische Kapitän, mit einer Kopfwunde, ist entlassen. Der indische Ingenieur, mit Verbrennungen auf fünfundvierzig Prozent des Körpers, liegt auf der Intensivstation der Militärklinik in Warna, stabil und schwer. Eine Besatzung an Land und eine, die das Wasser nicht zurückgibt, stehen nebeneinander, ohne zu erklären, wer die Navigation unsicher macht. Reuters notiert die Täter als unbekannt. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>Eine Suche, die man ausschaltet, ist kein Frieden auf dem Wasser. Sie ist der Punkt, an dem ein Ufer aufhört, Namen zu erwarten.</blockquote>\n<h3>II. Das Haus in Pryluky</h3>\n<p>Was am frühen Mittwoch noch als neue Welle auf Kiew und eine getroffene Industrieanlage in Dnipro in die Chronik ging, hat bis zum Abend ein Maß, das der Morgen nicht trug. Präsident Wolodymyr Selenskyj spricht von wenigstens fünfundzwanzig Toten im Land und von etwa hundert Verletzten, und er nennt den Schlag einen der niederträchtigsten. Die schwerste Zahl liegt nicht in der Hauptstadt, sondern in Pryluky in der nördlichen Oblast Tschernihiw, wo ein Flugkörper ein fünfgeschossiges Wohnhaus auslöscht. Selenskyj zählt dort neunzehn Tote, darunter fünf Kinder, drei von ihnen ein Jahr alt, eines acht. In Kiew meldet Bürgermeister Vitali Klitschko zwei Tote im dicht besiedelten Bezirk Darnyzkyj nach einem Brand, und auch in Oleksandrija und Krementschuk sind Zivilisten unter den Toten. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Selenskyj sagt, Russland habe in der Nacht siebzig Flugkörper abgefeuert, viele davon ballistisch, und dazu Dutzende Schahed-Drohnen, und eines der Ziele sei die Energie gewesen, schmerzhaft und demonstrativ. Die Luftwaffe spricht von hundertdreißig Drohnen, achtundvierzig Marschflugkörpern und einer nicht bezifferten Zahl ballistischer Geschosse, von denen die Abwehr hunderteinundsechzig Ziele gefasst habe. Moskau liest denselben Himmel anders. Das Verteidigungsministerium nennt einen massiven Schlag auf militärisch-industrielle Anlagen in Kiew und in den Oblasten Tschernihiw, Kirowohrad, Dnipropetrowsk, Poltawa und Charkiw, darunter Stätten, an denen die Firma Fire Point die Marschflugkörper Flamingo und Drohnen fertige und lagere, dazu Häfen und Schiffsreparatur in der Oblast Odessa. Reuters kann die Ansprüche nicht unabhängig prüfen. Ein Wohnhaus, in dem Kinder schlafen, und ein Werk, das jemand als Fabrik liest, stehen am selben Morgen, und das Buch macht die eine Lesart nicht zur anderen. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Selenskyj setzt den Schlag auf den vierundsiebzigsten Geburtstag Wladimir Putins und nennt das Haus in Pryluky ein Geschenk der Armee an diesen Tag. Die Chronik übernimmt das Wort nicht als Witz. Sie hält fest, dass Kiew den Schlag erwartet hatte und dass die Erwartung die Stockwerke nicht gehalten hat. Ein Haus, das man nicht überquert, sondern bewohnt, bleibt die Wunde, die der vierte Kriegswinter nicht als Kulisse brauchen darf.</p>\n<h3>III. Die Woche mit den meisten Stößen</h3>\n<p>Maritime Sicherheitsquellen, die Vorfälle aus der Enge auswerten, zählen in der Woche vom achtundzwanzigsten September bis zum fünften Oktober wenigstens zwölf Angriffe auf Tanker für Öl, Flüssigerdgas und Flüssiggas. Das ist die höchste Zahl einer einzelnen Woche, seit der Krieg der Vereinigten Staaten und Israels mit Iran am achtundzwanzigsten Februar begann. Die Seeschifffahrtsorganisation der Vereinten Nationen kommt für dieselbe Woche auf neun Vorfälle mit Schiffen. Das von der amerikanischen Marine geführte Joint Maritime Information Center schreibt, Angriffe, Versuche, Überflüge, Überwachung und Anrufe auf UKW durch die Revolutionsgarden hielten an und zeigten die Absicht, entlang der Fahrwasser präsent zu bleiben und Druck auf die durchfahrenden Rümpfe zu halten. Was der Dienstag als fünf Tanker gelesen hatte, steht damit unter einer Woche, die nicht die Öffnung widerlegt, sondern den Preis der Durchfahrt neu setzt. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>Am Donnerstagmorgen meldet Reuters aus Singapur, die Zahl der Passagen sei auf den tiefsten Stand seit mehr als zwei Monaten gefallen. Nach Kpler querten am Dienstag sieben Warenschiffe die Enge, der niedrigste Wert seit dem dreiundzwanzigsten Juli; LSEG zählt acht. Das Rohöl, das die Straße querte, lag in der Vorwoche um siebenundzwanzig Prozent unter dem Kriegshoch, bei wenigstens 10,1 Millionen Fass am Tag, zurück beim Septembermittel und bei vierundsiebzig Prozent des Vorkriegsstands. Der Ausfall sitzt vor allem in Umladungen im Golf von Oman, während Ausfuhren von jener Küste und über das Rote Meer auf 6,7 Millionen Fass am Tag stiegen, mehr als das Doppelte der Vorkriegsmenge. Im jüngsten Vorfall schlugen am Mittwoch mehrere Geschosse in einen Tanker einundfünfzig Seemeilen nördlich der katarischen Stadt Madinat asch-Schamal, mit Verletzten, so die britische Seewarnung. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Der Preis folgt der Sorge und nicht dem Hahn. Am frühen Donnerstag steht Brent bei 101,53 Dollar, West Texas bei 89,39, nachdem die Notierungen am Mittwoch nachgegeben hatten, weil die Internationale Energieagentur die Freigabe der Vorräte beschleunigen und Diesel bevorzugen will. Daniel Hynes von der ANZ schreibt, die Förderer schienen diesmal das Risiko beschädigter Schiffe zu nehmen, weil es keinen anderen Weg auf den Weltmarkt gebe. Ein Fass, das steigt, während mehr Öl auf schlechteren Wegen läuft, ist keine Klausel. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>In Athen sagt Außenminister Marco Rubio am Mittwoch, Iran habe die vollständige Kontrolle über die Straße verloren. Die Enge sei offen, es fließe fast so viel Öl hinaus wie vor dem Konflikt. Die Wirtschaft sei im freien Fall, die Sanktionen lähmend, und eine Nuklearwaffe komme nicht in Frage, Punkt. Zur selben Stunde hält Brigadegeneral Mohammad Reza Naqdi, Berater des Gardekommandeurs, gegenüber Fars daran fest, die Straße sei geschlossen und die Streitkräfte hätten die volle Kontrolle, bis die legitimen Forderungen erfüllt seien. Zwei Sätze über denselben Sund, und keiner trägt eine Unterschrift. <a class=\"src\" href=\"#q9\">9</a></p>\n<p>Am zweiten Nadelöhr wird aus der beanspruchten Küste bei Mokka eine Verletztenliste in zwei saudischen Städten. Die Zivilluftfahrt sagt, am Dienstag und Mittwoch seien der Flughafen Abha und der König-Chalid-Flughafen in Riad angegriffen worden. In Abha sterben ein Ägypter und ein Algerier, in Riad ein Sudanese, sechsunddreißig Menschen werden verletzt. Die Huthi beanspruchen über Jahja Saree einen ballistischen Flugkörper auf den Flughafen der Hauptstadt und sprechen von getroffenen Zielen; die saudisch geführte Koalition sagt, sie habe die Abschussplattform zerstört, und hatte den Flugkörper zuvor als abgefangen gemeldet. In Aden muss eine Maschine aus Kairo nach Dschidda ausweichen, weil ein Geschoss nahe der Bahn einschlägt. Im Westen Jemens zählen Quellen beider Seiten wenigstens zweiundsechzig tote Kämpfer, und die Vereinten Nationen sprechen von mehr als zweihunderttausend Vertriebenen. Ein beanspruchter Hafen und drei Namen auf einer Flughafenliste sind noch kein offener Sund. <a class=\"src\" href=\"#q10\">10</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<h3>IV. Die Uniform südlich der Grenze</h3>\n<p>Am Horn bekommt die Straße, die Mekelle nach Norden abgegeben hatte, eine Gegenrichtung. Wenigstens zwei Zeugen sagen der Agentur Reuters, sie hätten am Mittwoch Dutzende eritreische Soldaten in zwei Lastwagen durch Adigrat fahren sehen, fünfundzwanzig Kilometer südlich der Grenze, erkennbar an der hellen Tarnuniform. Ein Kommandeur der regierungsnahen Tigray Peace Force, Gebreigziabher Beyene, sagt, die eritreische Armee sei uniformiert und mit schwerem Gerät eingetreten und werde von Drohnen getroffen; Asmara verlege die Kämpfe absichtlich nach Tigray, damit sie nicht auf das eigene Gebiet überschlügen. Eritrea weist den Vorwurf als Vorwand für weiteren Krieg zurück. Wenn die Sichtung trägt, wäre es das erste Mal seit der Wiederaufnahme der Kämpfe am dreiundzwanzigsten September, dass eritreische Kräfte innerhalb Äthiopiens gesehen werden. <a class=\"src\" href=\"#q12\">12</a></p>\n<p>Die BBC hört von einem Bewohner etwa vierzig Lastwagen, die nach Süden rollen, und von Verwandten die Schätzung von bis zu sechzig, später bei Edaga Hamus. Quellen in Wukro sagen, Soldaten der nationalen Armee seien am Mittwoch eingezogen, nach einem Feuerwechsel fünfzehn Kilometer südlich. Die Bilder sind nicht unabhängig geprüft. Addis Standard hört einen Amtsträger, die Soldaten seien seit etwa vier Tagen in Adigrat. Ein wiederangeschlossenes Telefon in Mekelle ist damit nicht mehr die nächste Adresse. Die nächste Adresse ist eine Grenze, die das Buch bisher als Nachbarschaft gelesen hatte und die am Mittwoch als Fahrbahn auftaucht. Das Abkommen vom November 2022 bekommt damit einen zweiten Staat im Satz. Das Buch nennt das keinen Einmarsch und keinen Beweis, sondern den achten Tag eines Fadens, dessen Straße nach Norden nun eine Straße von Norden her kreuzt. <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a></p>\n<h3>V. Am Rand des Blattes</h3>\n<p>Am dritten Jahrestag des Tages, an dem die Mauer um Gaza brach, greifen israelische Siedler im besetzten Westjordanland Palästinenser an. Ein Mann wird getötet, sechzehn Menschen verletzt. Das Buch öffnet daraus keinen Strang, weil der Tag die Gewalt nicht erfindet, sondern an ein Datum heftet, das die Chronik schon kannte. <a class=\"src\" href=\"#q15\">15</a></p>\n<p>Im sudanesischen Ad-Damazin, Bundesstaat Blauer Nil, tötet ein Drohnenschlag der Rapid Support Forces vier Frauen in Häusern und einer Moschee. In Nordmali nehmen die malischen Streitkräfte und das russische Afrika-Korps Kidal zurück, das die Befreiungsfront von Azawad vor fünf Monaten genommen hatte. Zwei Kriege, die das Blatt am Rand tragen, ohne dass der Donnerstag schon wüsste, ob sie Tage oder nur diese Meldung tragen. <a class=\"src\" href=\"#q16\">16</a> <a class=\"src\" href=\"#q17\">17</a></p>\n<p>Der Nobelpreis für Chemie geht an den Franzosen Henri B. Kagan und den Japaner Kensō Soai für nichtlineare Effekte und Autokatalyse in der asymmetrischen Synthese. Die brasilianische Stichwahl hat auch an diesem Morgen keinen neuen Satz und wartet auf den fünfundzwanzigsten. Der Hof am Tigris bleibt geschlossen, die nördliche Zolliste bleibt zu. Nicht jeder Rand will ein Kapitel. <a class=\"src\" href=\"#q18\">18</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn dieser Morgen eine Moral hätte, läge sie zu nah an einem ausgeschalteten Scheinwerfer. Er hat keine. Er hat zwölf Namen, die das Wasser nicht zurückgibt, und ein Haus in Pryluky, dessen Stockwerke eine Erwartung nicht gehalten hat. Er hat eine Woche, in der die Stöße auf Tanker so dicht stehen wie seit Februar nicht, und einen Außenminister, der die Enge für offen erklärt, während ein General sie für geschlossen hält. Er hat drei Tote auf zwei Flughäfen und eine Uniform, die durch eine Stadt fährt, ohne dass Asmara sie zugegeben hätte.</p>\n<p>Ich lege die Seite heute gegen das ausgeschaltete Licht vor Byala und gegen einen Lastwagen, der Adigrat nach Süden verlässt. Offen bleiben die Enge ohne Klausel, das östliche Feld, das nun ein Wohnhaus und nicht nur eine Brücke getroffen hat, und das Horn, das eine zweite Grenze im Satz trägt. Die Urne in Brasilien ruht bis zum fünfundzwanzigsten. Das Buch wartet, ob die sieben Rümpfe des Dienstags eine Delle bleiben oder eine neue Enge, ob die Namen vor Bulgarien doch noch eine Liste bekommen, und ob die Uniform in Adigrat eine Sichtung bleibt oder der Anfang eines zweiten Staates in einem Krieg, der schon einen hatte.</p>"
+}

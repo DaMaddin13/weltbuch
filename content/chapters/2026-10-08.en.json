@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-08",
+  "number": 13,
+  "weekday": "Thursday",
+  "title": "The light switched off",
+  "subtitle": "In which a search off a NATO shore is called off, a house in Pryluky falls, and a uniform crosses a border the book had not yet drawn.",
+  "lede": "The eighth of October 2026 begins with twelve names the water does not return, and with trucks that leave Adigrat heading south.",
+  "readMinutes": 11,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle’s eye",
+      "summary": "Twelve tanker attacks in a week, the highest since February; seven transits on Tuesday, the lowest since July. Brent 101.53. Rubio: control lost; Naqdi: strait shut. Three dead in Abha and Riyadh. No clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Search for twelve Syrian seafarers called off. Pryluky: a house, 19 dead, five children; at least 25 dead nationwide. Moscow names Fire Point.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The Horn before the city",
+      "summary": "Witnesses: Eritrean uniforms in Adigrat, convoys south toward Edaga Hamus. Eritrea denies. No end.",
+      "status": "open"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since 5 Oct.",
+      "title": "The urn that does not suffice",
+      "summary": "No increment until the runoff on 25 October. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "Closed on 7 October. Stays shut.",
+      "status": "closed"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern customs list",
+      "summary": "Closed on 4 October. Stays shut.",
+      "status": "closed"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The man who switches off the light",
+      "name": "Rumen Nikolov",
+      "text": "Ends the search for twelve Syrian seafarers and says there will be no further trace."
+    },
+    {
+      "role": "The man with the house",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Counts nineteen dead in Pryluky, five of them children, and calls the strike one of the vilest."
+    },
+    {
+      "role": "The man with the open strait",
+      "name": "Marco Rubio",
+      "text": "Says in Athens that Iran has lost control of the strait, and puts a full stop after the bomb."
+    },
+    {
+      "role": "The commander on the counter-road",
+      "name": "Gebreigziabher Beyene",
+      "text": "Sees Eritrean uniforms in Tigray and reads a war that is not meant to spill into Asmara."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 7 Oct. 2026: Bulgaria ends the search for twelve Syrian seafarers of the Alfa Watan; no traces, no drone remains.",
+      "url": "https://www.reuters.com/world/europe/bulgaria-halts-rescue-operation-crew-sunken-ship-2026-10-07/"
+    },
+    {
+      "id": "q2",
+      "text": "Al Jazeera, 7 Oct. 2026: search for the crew of the sunken freighter called off; perpetrators unknown.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/bulgaria-ends-search-for-missing-crew-after-drone-strike-sinks-cargo-ship"
+    },
+    {
+      "id": "q3",
+      "text": "Reuters, 7 Oct. 2026: at least 25 dead, including five children in Pryluky; 70 missiles, energy struck.",
+      "url": "https://www.reuters.com/world/europe/russia-strikes-ukraines-kyiv-fresh-wave-attacks-2026-10-07/"
+    },
+    {
+      "id": "q4",
+      "text": "Al Jazeera, 7 Oct. 2026: air force counts 130 drones and 48 cruise missiles; Klitschko two dead in Darnytskyi.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine"
+    },
+    {
+      "id": "q5",
+      "text": "Reuters, 7 Oct. 2026: Moscow calls a massive strike on Fire Point, ports and several regions.",
+      "url": "https://www.reuters.com/world/europe/russia-says-it-launched-massive-strikes-kyiv-other-areas-ukraine-2026-10-07/"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 7 Oct. 2026: at least twelve attacks on tankers in one week, the highest since the war began; IMO nine incidents.",
+      "url": "https://www.reuters.com/world/middle-east/attacks-tankers-hormuz-hit-highest-any-week-since-start-iran-war-sources-say-2026-10-07/"
+    },
+    {
+      "id": "q7",
+      "text": "Reuters, 8 Oct. 2026: seven commodity vessels on Tuesday, the lowest since 23 July; crude 27 percent below the wartime high.",
+      "url": "https://www.reuters.com/business/energy/hormuz-transits-lowest-over-two-months-after-attacks-data-shows-2026-10-08/"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 8 Oct. 2026: Brent at 101.53 dollars; projectiles hit a tanker north of Qatar, casualties.",
+      "url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-concerns-persist-amid-shipping-attacks-2026-10-08/"
+    },
+    {
+      "id": "q9",
+      "text": "The National, 7 Oct. 2026: Rubio in Athens, control lost; Naqdi holds the strait closed.",
+      "url": "https://www.thenationalnews.com/news/mena/2026/10/07/iran-has-lost-complete-control-of-strait-of-hormuz-us-claims/"
+    },
+    {
+      "id": "q10",
+      "text": "AFP, 7 Oct. 2026: three dead in Abha and Riyadh, 36 wounded; Houthis claim the strikes; 62 fighters dead in the west.",
+      "url": "https://www.afp.com/en/saudi-arabia-says-three-dead-airports-after-houthis-claim-attacks"
+    },
+    {
+      "id": "q11",
+      "text": "AP, 7 Oct. 2026: Saudi officials confirm three dead after attacks the Houthis claim.",
+      "url": "https://apnews.com/article/yemen-houthis-saudi-airport-aden-rebels-f22f20dd78b03b741dfa1279881cedbb"
+    },
+    {
+      "id": "q12",
+      "text": "Al Jazeera / Reuters, 7 Oct. 2026: witnesses see Eritrean soldiers in Adigrat; Eritrea rejects the charge.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/witnesses-spot-eritrean-troops-inside-northern-ethiopia-as-tensions-flare"
+    },
+    {
+      "id": "q13",
+      "text": "BBC, 7 Oct. 2026: convoys from Adigrat toward Edaga Hamus; army in Wukro, not independently verified.",
+      "url": "https://www.bbc.co.uk/news/articles/ckvgd63rj92lo"
+    },
+    {
+      "id": "q14",
+      "text": "Addis Standard, 7 Oct. 2026: official and witnesses on Eritrean soldiers in Adigrat, via AFP.",
+      "url": "https://addisstandard.com/eritrean-troops-reportedly-deploy-in-tigray-as-tension-with-ethiopia-escalate/"
+    },
+    {
+      "id": "q15",
+      "text": "Al Jazeera, 7 Oct. 2026: settler attack in the West Bank, one dead, sixteen wounded.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank"
+    },
+    {
+      "id": "q16",
+      "text": "AP, 7 Oct. 2026: drone strike in Ad-Damazin, four women killed.",
+      "url": "https://apnews.com/article/sudan-drone-war-homes-mosque-damazin-56473b19a098470344e54d75d0362092"
+    },
+    {
+      "id": "q17",
+      "text": "Al Jazeera, 6/7 Oct. 2026: Malian forces and the Africa Corps retake Kidal.",
+      "url": "https://www.aljazeera.com/news/2026/10/6/tuareg-rebels-withdraw-from-strategic-town-of-kidal-in-northern-mali"
+    },
+    {
+      "id": "q18",
+      "text": "Reuters, 7 Oct. 2026: Nobel Prize in Chemistry to Kagan and Soai.",
+      "url": "https://www.reuters.com/world/kagan-soai-win-2026-nobel-chemistry-prize-2026-10-07/"
+    },
+    {
+      "id": "q19",
+      "text": "Wikipedia Current Events, 7 Oct. 2026: Hormuz, the Horn, Sudan, Mali.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_7"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-07",
+    "title": "The raft off Byala",
+    "teaser": "A crew is missing off a NATO shore. Five tankers pass a list. A city on the Horn gives up the road north."
+  },
+  "openTomorrow": "Hormuz without a clause · The eastern field · The Horn with a second border · The runoff rests",
+  "body": "<p>There are mornings when a search ends not with a find but with the sentence that there will be no further trace. The eighth of October 2026 is such a morning. Off the Bulgarian coast the navy switches off the light it has kept on the water since Tuesday, and in Pryluky a five-storey house that a missile took in the night into Wednesday lies among the dead, five of them children. Farther south, trucks pass through Adigrat whose occupants witnesses name by the uniform, and in Abha and Riyadh two airports count three dead, while the strait that on Tuesday still waved five tankers through has, in the week before, logged the most strikes on tankers since the war began. A price that climbs again above a hundred and one dollars does not turn any of these scenes into a road.</p>\n<h3>I. The search that stops</h3>\n<p>Vice-Admiral Rumen Nikolov of the Maritime Administration says in Sofia on Wednesday that the search for the crew of the sunken freighter is over and will not be resumed. Twelve seafarers, all of them Syrian, are believed to have been aboard the Alfa Watan, the general-cargo ship under the Togolese flag that sank about seventy nautical miles off Byala after a drone strike in the night into Tuesday. Nikolov says there are no traces of the sailors and there will be none; no remains of a drone have been found either. A boat, three rafts and pieces of the ship’s gear were recovered. What yesterday still read as an open search is, by Thursday morning, a closed sentence, and the book does not turn it into a verdict on the side of the craft. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>The Able, the grain ship under the Palau flag, remains damaged in the Black Sea, while sixteen of the rescued wait in a hotel whose bill the company pays, and may not yet leave because the inquiry is still running. The Turkish captain, with a head wound, has been discharged. The Indian engineer, with burns over forty-five percent of his body, lies in intensive care at the military hospital in Varna, stable and serious. A crew ashore and a crew the water does not return stand side by side, and neither explains who is making the passage unsafe. Reuters records the perpetrators as unknown. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>A search one switches off is not peace on the water. It is the point at which a shore stops expecting names.</blockquote>\n<h3>II. The house in Pryluky</h3>\n<p>What early Wednesday still entered the chronicle as a fresh wave on Kyiv and a struck industrial plant in Dnipro has, by evening, a measure the morning did not carry. President Volodymyr Zelenskyy speaks of at least twenty-five dead across the country and about a hundred wounded, and he calls the strike one of the vilest. The heaviest number is not in the capital but in Pryluky, in the northern Chernihiv region, where a missile obliterates a five-storey residential building. Zelenskyy counts nineteen dead there, among them five children, three of them a year old, one of them eight. In Kyiv, Mayor Vitali Klitschko reports two dead in the densely populated Darnytskyi district after a fire, and civilians are among the dead in Oleksandriia and Kremenchuk as well. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Zelenskyy says Russia fired seventy missiles in the night, many of them ballistic, and dozens of Shahed drones with them, and that one of the aims was energy, painful and demonstrative. The air force speaks of one hundred and thirty drones, forty-eight cruise missiles and an uncounted number of ballistic missiles, of which the defence engaged one hundred and sixty-one targets. Moscow reads the same sky otherwise. The defence ministry calls it a massive strike on military-industrial sites in Kyiv and in the Chernihiv, Kirovohrad, Dnipropetrovsk, Poltava and Kharkiv regions, including places where the firm Fire Point makes and stores Flamingo cruise missiles and drones, and on ports and ship repair in the Odesa region. Reuters cannot independently verify the claims. A house in which children sleep and a works that someone reads as a factory stand on the same morning, and the book does not make one reading into the other. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Zelenskyy sets the strike against Vladimir Putin’s seventy-fourth birthday and calls the house in Pryluky a gift from the army to that day. The chronicle does not take the word as a jest. It notes that Kyiv had expected the blow, and that the expectation did not hold the floors. A house one does not cross but inhabits remains the wound that a fourth winter of war must not use as scenery.</p>\n<h3>III. The week with the most strikes</h3>\n<p>Maritime security sources who log incidents in the strait count at least twelve attacks, in the week from the twenty-eighth of September to the fifth of October, on tankers carrying oil, liquefied natural gas and liquefied petroleum gas. That is the highest number in a single week since the war of the United States and Israel with Iran began on the twenty-eighth of February. The International Maritime Organization, for the same week, comes to nine incidents involving vessels. The US Navy-led Joint Maritime Information Center writes that attacks, attempts, overflights, surveillance and VHF hailing by the Revolutionary Guards have persisted, and that they show an intent to remain present along the transit lanes and to keep pressure on the hulls that pass. What Tuesday read as five tankers now stands under a week that does not refute the opening, but resets the price of the passage. <a class=\"src\" href=\"#q6\">6</a></p>\n<p>On Thursday morning Reuters reports from Singapore that the number of transits has fallen to the lowest in more than two months. According to Kpler, seven commodity vessels crossed the strait on Tuesday, the lowest figure since the twenty-third of July; LSEG counts eight. Crude crossing the strait in the previous week sat twenty-seven percent below the wartime high, at least 10.1 million barrels a day, back at the September average and at seventy-four percent of the pre-war level. The shortfall sits above all in ship-to-ship transfers in the Gulf of Oman, while exports from that coast and across the Red Sea rose to 6.7 million barrels a day, more than twice the pre-war volume. In the latest incident, on Wednesday, several projectiles struck a tanker fifty-one nautical miles north of Qatar’s Madinat ash Shamal, with casualties, the British maritime warning said. <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<p>The price follows the worry, not the tap. Early Thursday, Brent stands at 101.53 dollars, West Texas at 89.39, after the contracts eased on Wednesday because the International Energy Agency means to accelerate the release of stocks and to prefer diesel. Daniel Hynes of ANZ writes that producers appear willing this time to take the risk of damaged ships, because there is no other way onto the world market. A barrel that rises while more oil moves on worse roads is not a clause. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>In Athens on Wednesday, Secretary of State Marco Rubio says Iran has lost complete control of the strait. The strait is open, he says, and almost as much oil is flowing out as before the conflict. The economy is in free fall, the sanctions crippling, and a nuclear weapon is out of the question, full stop. At the same hour Brigadier General Mohammad Reza Naqdi, an adviser to the Guards commander, tells Fars that the strait is closed and that the forces have full control until the legitimate demands are met. Two sentences about the same sound, and neither carries a signature. <a class=\"src\" href=\"#q9\">9</a></p>\n<p>At the second chokepoint the claimed coast at Mocha becomes a casualty list in two Saudi cities. Civil aviation says that on Tuesday and Wednesday Abha airport and King Khalid airport in Riyadh were attacked. In Abha an Egyptian and an Algerian are killed, in Riyadh a Sudanese, and thirty-six people are wounded. The Houthis, through Yahya Saree, claim a ballistic missile on the capital’s airport and speak of targets hit; the Saudi-led coalition says it destroyed the launch platform, and had earlier reported the missile intercepted. In Aden a flight from Cairo has to divert to Jeddah because a projectile lands near the runway. In western Yemen, sources on both sides count at least sixty-two dead fighters, and the United Nations speaks of more than two hundred thousand displaced. A claimed port and three names on an airport list are still not an open sound. <a class=\"src\" href=\"#q10\">10</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<h3>IV. The uniform south of the border</h3>\n<p>On the Horn, the road that Mekelle had given up to the north acquires a counter-direction. At least two witnesses tell Reuters they saw dozens of Eritrean soldiers drive through Adigrat on Wednesday in two trucks, twenty-five kilometres south of the border, known by the pale camouflage. A commander of the pro-government Tigray Peace Force, Gebreigziabher Beyene, says the Eritrean army has entered in uniform and with heavy equipment and is being struck by drones; Asmara, he says, is deliberately placing the fighting inside Tigray so that it does not spill onto its own ground. Eritrea dismisses the charge as a pretext for further war. If the sighting holds, it would be the first time since fighting resumed on the twenty-third of September that Eritrean forces have been seen inside Ethiopia. <a class=\"src\" href=\"#q12\">12</a></p>\n<p>The BBC hears from one resident of about forty trucks rolling south, and from relatives an estimate of up to sixty, later near Edaga Hamus. Sources in Wukro say soldiers of the national army entered on Wednesday after an exchange fifteen kilometres to the south. The images are not independently verified. Addis Standard hears an official that the soldiers have been in Adigrat for about four days. A reconnected telephone in Mekelle is no longer the next address. The next address is a border the book had so far read as a neighbourhood, and that on Wednesday appears as a carriageway. The agreement of November 2022 thereby acquires a second state in the sentence. The book does not call this an invasion or a proof, but the eighth day of a thread whose road north is now crossed by a road from the north. <a class=\"src\" href=\"#q13\">13</a> <a class=\"src\" href=\"#q14\">14</a></p>\n<h3>V. At the edge of the page</h3>\n<p>On the third anniversary of the day the wall around Gaza broke, Israeli settlers attack Palestinians in the occupied West Bank. A man is killed, sixteen people are wounded. The book opens no thread from it, because the day does not invent the violence but pins it to a date the chronicle already knew. <a class=\"src\" href=\"#q15\">15</a></p>\n<p>In Ad-Damazin, in Sudan’s Blue Nile state, a drone strike by the Rapid Support Forces kills four women in homes and a mosque. In northern Mali the Malian armed forces and the Russian Africa Corps retake Kidal, which the Azawad Liberation Front had taken five months earlier. Two wars that the page carries at the edge, without Thursday yet knowing whether they will carry days or only this report. <a class=\"src\" href=\"#q16\">16</a> <a class=\"src\" href=\"#q17\">17</a></p>\n<p>The Nobel Prize in Chemistry goes to the Frenchman Henri B. Kagan and the Japanese Kensō Soai for non-linear effects and autocatalysis in asymmetric synthesis. The Brazilian runoff has no new sentence this morning either, and waits for the twenty-fifth. The court on the Tigris stays closed, the northern customs list stays shut. Not every margin wants a chapter. <a class=\"src\" href=\"#q18\">18</a></p>\n<h3>The chronicler’s decision</h3>\n<p>If this morning had a moral, it would sit too close to a searchlight switched off. It has none. It has twelve names the water does not return, and a house in Pryluky whose floors an expectation did not hold. It has a week in which the strikes on tankers stand as thick as they have not since February, and a secretary of state who declares the strait open while a general holds it closed. It has three dead at two airports and a uniform that drives through a town without Asmara having admitted it.</p>\n<p>I set the page today against the extinguished light off Byala and against a truck that leaves Adigrat heading south. Still open are the strait without a clause, the eastern field, which has now struck a house and not only a bridge, and the Horn, which carries a second border in the sentence. The urn in Brazil rests until the twenty-fifth. The book waits to see whether Tuesday’s seven hulls remain a dent or become a new narrows, whether the names off Bulgaria yet acquire a list, and whether the uniform in Adigrat remains a sighting or the beginning of a second state in a war that already had one.</p>"
+}
