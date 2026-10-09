@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-09",
+  "number": 14,
+  "weekday": "Friday",
+  "title": "The Calendar Leaf Over the Bomb",
+  "subtitle": "In which a date shifts a strike onto election day, two buses in Kramatorsk do not finish the street, and drones turn a uniform north of Adigrat.",
+  "lede": "The ninth of October 2026 begins with a calendar that moves a bomb, and with a stop where two buses no longer halt.",
+  "readMinutes": 11,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle’s eye",
+      "summary": "Trump: no strike before 3 November, talks productive, blockade stays. Araghchi: a reply within days. Brent 104.28. Sanctions on a shadow fleet. Lincoln home in San Diego. Mine claim against CENTCOM. Oman coordinates, no signature.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Kramatorsk: two buses, 35 dead in the city. Two days: 78 dead, 215 wounded. Zelenskyy calls it unwillingness, Rubio a stalemate. Nord Stream talks denied. Seoul recalls its ambassador.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The Horn before the city",
+      "summary": "ACLED: drones on Eritrean vehicles near Adigrat as they pull off. Three blasts north of the town. Timothewos demands withdrawal. No end.",
+      "status": "open"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since 5 Oct.",
+      "title": "The urn that is not enough",
+      "summary": "No increment until the runoff on 25 October. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "G",
+      "since": "Thread G · since 30 Sept.",
+      "title": "The last post",
+      "summary": "Closed on 7 October. Stays shut.",
+      "status": "closed"
+    },
+    {
+      "id": "F",
+      "since": "Thread F · since 29 Sept.",
+      "title": "The northern customs list",
+      "summary": "Closed on 4 October. Stays shut.",
+      "status": "closed"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The man with the calendar",
+      "name": "Donald Trump",
+      "text": "Pushes a strike onto the third of November, calls the talks productive, and leaves the blockade in force."
+    },
+    {
+      "role": "The man at the stop",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Counts seventy-eight dead in two days and calls what he hears from Washington unwillingness."
+    },
+    {
+      "role": "The man with the stalemate",
+      "name": "Marco Rubio",
+      "text": "In Lisbon calls the war a dangerous stalemate and will not invest in processes without progress."
+    },
+    {
+      "role": "The minister with the withdrawal sentence",
+      "name": "Gedion Timothewos",
+      "text": "Demands the immediate withdrawal of Eritrean forces and restates the right to the country’s own ground."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "AP, 8. Okt. 2026: Trump sagt, die USA nähmen die Schläge auf Iran vor den Zwischenwahlen am 3. November nicht wieder auf; Gespräche ergiebig; Araghchi Antwort in Tagen.",
+      "url": "https://apnews.com/article/trump-iran-war-midterms-attack-422b1799a1a06466279ac265f560e014"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 8. Okt. 2026: Brent schließt bei 104,28 Dollar, plus 4,1 Prozent; Hurrikan Isaias, Golf-Förderung gedrosselt; Araghchi prüft Antwort auf Sieben-Tage-Vorschlag.",
+      "url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-concerns-persist-amid-shipping-attacks-2026-10-08/"
+    },
+    {
+      "id": "q3",
+      "text": "Al Jazeera, 8. Okt. 2026: Bessent zu Sanktionen auf Firmen, Personen und Schiffe; iranische Medien zu Explosionen und möglichen Minen; Lincoln zurück.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/10/8/yemen-war-live-yemeni-forces-claim-key-heights-as-houthi-attacks-go-on"
+    },
+    {
+      "id": "q4",
+      "text": "AP, 8. Okt. 2026: Hurrikan Isaias wird Kategorie zwei, Kurs auf die Golfküste.",
+      "url": "https://apnews.com/article/hurricane-isaias-gulf-atlantic-alabama-florida-mississippi-8244ca45b8d4c292350f00adfabb0967"
+    },
+    {
+      "id": "q5",
+      "text": "AP, 8. Okt. 2026: USS Lincoln kehrt nach 265 Tagen auf See nach San Diego zurück.",
+      "url": "https://apnews.com/article/uss-lincoln-san-diego-iran-war-6ddd8cc3f634f9863bd718683df21ba7"
+    },
+    {
+      "id": "q6",
+      "text": "The Guardian, 8. Okt. 2026: Abraham Lincoln beendet den Einsatz im Nahen Osten in San Diego.",
+      "url": "https://www.theguardian.com/us-news/2026/oct/08/uss-abraham-lincoln-return-san-diego"
+    },
+    {
+      "id": "q7",
+      "text": "Gulf News, 8. Okt. 2026: Baghaei zu Oman-Koordinaten sicherer Hormus-Routen; CENTCOM: Verkehr fließt, Straße nicht geschlossen.",
+      "url": "https://gulfnews.com/uae/us-iran-standoff-what-uae-residents-need-to-know-today-oct-8-2026-1.500702714"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 8. Okt. 2026: Selenskyj 78 Tote und 215 Verletzte in zwei Tagen; Kramatorsk 35 Tote, zwei Busse; Starlink und Unwillen.",
+      "url": "https://www.reuters.com/world/europe/russian-bomb-kills-12-street-east-ukraine-stronghold-2026-10-08/"
+    },
+    {
+      "id": "q9",
+      "text": "Reuters, 8. Okt. 2026: Rubio in Lissabon, gefährliche Pattsituation, keine Prozesse ohne Fortschritt.",
+      "url": "https://www.reuters.com/world/europe/rubio-says-war-ukraine-is-dangerous-stalemate-2026-10-08/"
+    },
+    {
+      "id": "q10",
+      "text": "Reuters, 8. Okt. 2026: Quellen zu Gesprächen über einen US-Investor für Nord Stream; Weißes Haus bestreitet jüngste Gespräche.",
+      "url": "https://www.reuters.com/business/energy/us-russia-explore-gas-sale-europe-amid-ukraine-war-say-sources-2026-10-08/"
+    },
+    {
+      "id": "q11",
+      "text": "BBC, 8. Okt. 2026: Südkorea ruft Botschafter aus der Ukraine zurück, Streit um zwei nordkoreanische Gefangene.",
+      "url": "https://www.bbc.co.uk/news/articles/ckwy48rrz95vo"
+    },
+    {
+      "id": "q12",
+      "text": "Reuters, 8. Okt. 2026: ACLED, Drohnen auf eritreische Fahrzeuge nahe Adigrat; Timothewos fordert Abzug.",
+      "url": "https://www.reuters.com/world/africa/drones-target-eritrean-troops-inside-ethiopia-conflict-monitor-says-2026-10-08/"
+    },
+    {
+      "id": "q13",
+      "text": "BBC, 8. Okt. 2026: Nobelpreis für Literatur an Anne Carson.",
+      "url": "https://www.bbc.com/news/articles/cq4g1j54nepyo"
+    },
+    {
+      "id": "q14",
+      "text": "Reuters, 8. Okt. 2026: Taiwans September-Ausfuhren Rekord, Nachfrage nach KI-Hardware.",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwan-september-exports-hit-fresh-monthly-record-ai-demand-us-leads-2026-10-08/"
+    },
+    {
+      "id": "q15",
+      "text": "Reuters, 9. Okt. 2026: übergroße Taiwan-Flagge unter einem Hubschrauber zum Nationalfeiertag.",
+      "url": "https://www.reuters.com/world/china/giant-taiwan-flag-flies-helicopter-national-day-defying-beijing-2026-10-09/"
+    },
+    {
+      "id": "q16",
+      "text": "Reuters, 8. Okt. 2026: Kenia, Test eines verdächtigen Ebola-Falls negativ.",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenya-says-tests-suspected-ebola-case-come-back-negative-2026-10-08/"
+    },
+    {
+      "id": "q17",
+      "text": "BBC, 8. Okt. 2026: Bank of England, Tiere auf den nächsten Pfundnoten.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe8ld517ry3o"
+    },
+    {
+      "id": "q18",
+      "text": "Wikipedia Current Events, 8. Okt. 2026: Lagebild Iran, Lincoln, Nobel, Seoul.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_8"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-08",
+    "title": "The Light Switched Off",
+    "teaser": "A search off a NATO shore is ended. A house in Pryluky falls. A uniform crosses a border the book had not yet drawn."
+  },
+  "openTomorrow": "Hormuz without a signature · The eastern field · The Horn under the drones · The runoff rests",
+  "body": "<p>There are mornings when a war does not arrive at a front but as a date written across a bomb. The ninth of October 2026 is one of those mornings. In Washington the president says the United States will not strike Iran before the midterm elections on the third of November, and calls the talks productive, while the same day puts ships on a sanctions list. In Kramatorsk a guided bomb and a later drone tear into two buses, and in Kyiv the count for two days stands at seventy-eight dead. A carrier that has spent nearly seven months in the war ties up in San Diego, as if coming home were already a strait. The barrel settles near one hundred and four dollars, and north of Adigrat a resident hears three blasts while a uniform turns back under drones, without anyone saying whether it is leaving the country.</p>\n<h3>I. The date laid over the bomb</h3>\n<p>Donald Trump writes on Thursday that the United States will not attack Iran at any time before the midterm elections on the third of November. The discussions with the Islamic Republic are productive, the aim remains that the country obtain no nuclear weapon, and the blockade of Iranian ports stays in full force. For weeks he had left a sharpening after the vote open, and reports of fresh strike plans sat on the table when he set the sentence. A calendar that postpones a blow is the margin a campaign gives a war, and the book does not read it as peace. <a class=\"src\" href=\"#q1\">1</a></p>\n<p>In the same hour Tehran is reading what Washington answered to the proposal that would reopen the Strait of Hormuz within seven days. Foreign minister Abbas Araghchi says a formal reply is expected within days. Tasnim speaks of a review and an answer soon. What yesterday stood as two sentences over the same water gets a calendar and a promised reply, and neither carries a signature. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>A date that pushes a bomb aside is not a clause. It is the edge of a leaf, and edges do not hold a strait.</blockquote>\n<p>The price follows the worry, not the postponement. Brent settles four point one percent higher at 104.28 dollars, West Texas at 91.49, after both contracts had been up more than five dollars and Brent had touched its highest since the twenty-ninth of September. The worry sits in possible American strikes and in a hurricane running toward the United States Gulf Coast on Friday. After the president’s sentence the quotes give back part of the spike. The same day the Treasury sets new sanctions on people, networks and vessels said to carry Iranian crude, products and petrochemicals. The department speaks of seventeen ships of a shadow fleet. Another account counts twenty-two tankers, twenty-seven firms and six individuals, and Treasury secretary Scott Bessent says Washington will keep hitting the enablers of Iranian oil sales. Two lists, one pressure, no opening. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Hurricane Isaias, the first of the Atlantic in this quiet season, becomes a category two, and Georgia declares a state of emergency. In the Gulf of Mexico about 1.3 million barrels a day are shut in on Thursday, nearly sixty-three percent of current output. Shell and Chevron curtail platforms, BP has pulled the crews from Na Kika and Thunder Horse. A storm that closes a tap in one’s own gulf, while another tap is being sorted in a foreign strait, gives the barrel only a second reason to stay expensive. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>In San Diego the USS Abraham Lincoln returns to North Island after nearly seven months and two hundred and sixty-five days at sea. The homecoming of a hull is built for pomp, and the book leaves the pomp on the pier. A carrier that comes home does not open a strait. <a class=\"src\" href=\"#q5\">5</a> <a class=\"src\" href=\"#q6\">6</a></p>\n<p>Iranian outlets report heavy explosions in the southern strait and let it be said that tankers on routes they have not authorised may have struck sea mines. The book does not turn one side’s bulletin into a finding. United States Central Command says in the same hour that lanes remain open to ships that are not violating the American blockade, that its forces have cleared mines from the primary channels, and that traffic is moving, goods and energy, including twenty million barrels of crude. Two maps of the same water, and neither is a signature. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q7\">7</a></p>\n<p>Between them lies an agreement that is not yet a road. Foreign ministry spokesman Esmail Baghaei says Iran and Oman have settled the coordinates of safe transits and the procedure for lodging them with the relevant authorities. A coordinate is a line on a chart, not the signature a hull needs in order to sail without a premium. What Tuesday had read as seven commodity ships stands on Thursday under a higher barrel, a promised answer, and a calendar that runs to the third of November. <a class=\"src\" href=\"#q7\">7</a></p>\n<h3>II. The stop that no longer holds</h3>\n<p>What Wednesday had given the chronicle as a house receives on Thursday a second measure, and it does not lie in the north. In Kramatorsk a guided aerial bomb strikes two buses. Vadym Filashkin, governor of Donetsk region, says a bus full of passengers is a target precisely because a single blow can kill as many people as possible. Official images show a street of debris and the charred shell of a bus. In the evening a further drone strike lifts the city’s dead to thirty-five. Twenty people were wounded in the strike on the buses. Moscow denies that it aims at civilians, and keeps striking cities. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>President Volodymyr Zelenskyy says in the early evening that seventy-eight people were killed and two hundred and fifteen wounded by strikes over the last two days across the country. A guided bomb kills two people in a village in southeastern Dnipropetrovsk, and one person dies in Ivano-Frankivsk in the west. In Kyiv mayor Vitali Klitschko counts four dead and nineteen wounded after the morning attacks, with water and power interrupted. In Pryluky, where yesterday’s page held nineteen dead in a five-storey house, a Reuters caption on Thursday puts the figure at twenty-two, and British foreign secretary Ed Miliband stands with Zelenskyy in front of what remains. The book does not retell the house. It notes only that the search under the rubble has lifted the number once more. <a class=\"src\" href=\"#q8\">8</a></p>\n<p>Speaking to reporters, Zelenskyy asks Washington to open Starlink to Ukraine the way it was opened when the answer was Iran: give it to us, help hold the sky, and then Putin will sit at the table. He names what he hears in a word a chronicle must not prettify. That is unwillingness. The sentence is aimed at Marco Rubio, who the same Thursday in Lisbon calls the war a dangerous stalemate and promises work toward a settlement that would be lasting and fair. An escalation could become sabotage in neighbouring NATO countries. They have tried, he says, and will keep trying, but will not invest in processes that make no progress. <a class=\"src\" href=\"#q8\">8</a> <a class=\"src\" href=\"#q9\">9</a></p>\n<p>Zelenskyy sets against that the claim that one cannot negotiate future economic projects with the Russians and in the same breath speak of a diplomatic stalemate. Sources tell Reuters that senior officials, among them Jared Kushner and Kirill Dmitriev, have discussed bringing an American investor into the Nord Stream lines that carried gas to Germany before the invasion. The White House says any such arrangement would need approval and that no recent talks on Nord Stream have taken place. One source thinks a deal unlikely in the medium term. Two readings of a pipe, and neither fills a bus. <a class=\"src\" href=\"#q8\">8</a> <a class=\"src\" href=\"#q10\">10</a></p>\n<p>Ukrainian negotiators travel to the United States on Friday and Saturday with air defence in the bag, and Zelenskyy presses Trump to raise the sanctions pressure. In the same hour Seoul recalls its ambassador from Kyiv. The quarrel began when Zelenskyy disclosed the transfer of two captured North Korean soldiers to South Korea. Seoul says Ukraine broke an understanding that the transfer would stay secret. Kyiv denies that any such understanding existed. Spokesman Heorhii Tykhyi says diplomacy should prevail over emotion, and that Ukraine remains open to a conversation even if it takes time. Two soldiers who have changed wars become an empty chair, and the eastern field acquires a second capital that is not Moscow. <a class=\"src\" href=\"#q8\">8</a> <a class=\"src\" href=\"#q11\">11</a></p>\n<h3>III. Three blasts north of the town</h3>\n<p>On the Horn the uniform that drove south through Adigrat on Wednesday acquires a counter-direction that is not yet a withdrawal. The conflict monitor ACLED says drone strikes, believed to be Ethiopian, hit Eritrean vehicles near Adigrat as they left positions. The soldiers had advanced dozens of kilometres into Tigray and then fallen back under the fire. A diplomat and a specialist in touch with both sides will not say whether the column is leaving Ethiopia or only redeploying inside it. <a class=\"src\" href=\"#q12\">12</a></p>\n<p>In Adigrat a resident hears three explosions in the night to the north of the town. A senior Ethiopian official, unnamed, speaks of one mechanised division and three infantry divisions in Tigray, about fifteen hundred soldiers each. Reuters cannot check the figure. Yemane Gebremeskel does not answer on Thursday. On Wednesday he had called the reports a pretext for a war of aggression. A sighting under drones a night later is not an ending, and not a proof the book may close as an invasion. <a class=\"src\" href=\"#q12\">12</a></p>\n<p>What one voice does say, it says to the United Nations. Foreign minister Gedion Timothewos, meeting deputy secretary-general Amina J. Mohammed, calls for the immediate withdrawal of Eritrean forces and restates the right to defend the country’s own ground. Relations were cut because Addis Ababa accuses Asmara of backing the rebels. Eritrea rejects the charge and reads in Abiy Ahmed’s sentences on access to the sea the intent of an invasion. Abiy says the access should come peacefully. The agreement of November 2022 thus acquires a sentence that demands a withdrawal, while the road has not yet said where it leads. <a class=\"src\" href=\"#q12\">12</a></p>\n<h3>IV. At the edge of the leaf</h3>\n<p>In Stockholm the Swedish Academy gives the Nobel Prize in Literature to the Canadian poet Anne Carson, for a body of work that, in playful dialogue with the classical tradition, has made new forms for the present. Carson, in Iceland, tells the radio the judges are crazy. The sentence is good against the pomp of a prize, and against nothing else. A poet who smiles at her own laurel closes no strait. <a class=\"src\" href=\"#q13\">13</a></p>\n<p>In Taipei the finance ministry reports September exports of 87.2 billion dollars, a record, carried by demand for the hardware of artificial intelligence, and on national day a giant flag hangs under a helicopter over the city, against Beijing’s objection. A cloth on a rotor and a bill made of chips are not yet a great-power clause. <a class=\"src\" href=\"#q14\">14</a> <a class=\"src\" href=\"#q15\">15</a></p>\n<p>In Nairobi Kenya says tests on a suspected Ebola case have come back negative. The Bank of England intends to put a puffin, a barn owl, a bumblebee and a hedgehog on the next notes, animals instead of people for the first time. The Brazilian runoff still has no new sentence this morning and waits for the twenty-fifth. The court on the Tigris stays shut, the northern customs list stays closed. Not every margin wants a chapter. <a class=\"src\" href=\"#q16\">16</a> <a class=\"src\" href=\"#q17\">17</a></p>\n<h3>The chronicler’s decision</h3>\n<p>If this morning had a moral, it would sit too close to a calendar leaf. It has none. It has a president who pushes a strike onto the third of November and the same day sets ships on a list, two buses in Kramatorsk that do not finish a street, and three blasts north of Adigrat that turn a column without saying where.</p>\n<p>I lay the page today against a calendar leaf that shifts a bomb onto election day, and against a stop where two buses no longer halt. Still open are the strait without a signature, the eastern field, which has now struck a street and not only a house, and the Horn, whose uniform falls back north under drones without it being clear whether it is leaving the country. The urn in Brazil rests until the twenty-fifth. The book waits to see whether the third of November remains a pause or only the edge of a leaf, whether the negotiators flying to America on Friday bring a cover or a list, and whether the three blasts north of Adigrat are a withdrawal or only the place where a column changes direction.</p>\n"
+}
