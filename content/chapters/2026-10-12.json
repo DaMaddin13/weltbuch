@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-12",
+  "number": 15,
+  "weekday": "Montag",
+  "title": "Die Post und der Terminal",
+  "subtitle": "In dem eine Pause als Satz ankommt, ein Flughafen brennt und eine Stadt zurückkommt.",
+  "lede": "Der zwölfte Oktober 2026 beginnt mit einer Post, die eine Pause ausruft, und mit einem Terminal, der nicht aufmacht.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Houthi-Schläge auf Riad-Flughafen: 13 Tote, 300+ Verletzte. Tankerangriffe Hormus/Sohar. Brent ~105. Trump erwägt Beitritt zu saudischen Schlägen. Iran: Antwort unzureichend. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Trump: Energiepause sofort. Selenskyj überrascht, bereit wenn Russland zustimmt; Schläge gehen weiter. Moskau still. Diesel-Deal vom Freitag.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Äthiopische Kräfte in Adigrat nach eritreischem Rückzug. UN-Briefe: Invasion vs. Kriegserklärung. Kein Ende.",
+      "status": "offen"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs bis zur Stichwahl am 25. Oktober. Ruht.",
+      "status": "ruhend"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Mann mit der Post",
+      "name": "Donald Trump",
+      "text": "Ruft eine Energiepause aus, die sofort gelte, und erwägt, sich saudischen Schlägen gegen die Huthi anzuschließen."
+    },
+    {
+      "role": "Der Mann an der Haltestelle",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Nennt die Pause eine Neuigkeit, sagt ja wenn Russland zustimmt, und meldet weitergehende Schläge."
+    },
+    {
+      "role": "Der Minister mit dem Abzugssatz",
+      "name": "Gedion Timothewos",
+      "text": "Schreibt an den Rat von einer Invasion und dem Recht auf Selbstverteidigung."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 12. Okt. 2026: Öl steigt auf Mideast-Konflikt und Tankerangriffe, Brent 105,48.",
+      "url": "https://www.reuters.com/business/energy/oil-climbs-mideast-conflict-tanker-attacks-persist-2026-10-11/"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 11. Okt. 2026: Trump kündigt Energiepause an, Selenskyj überrascht, bereit bei Zustimmung.",
+      "url": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11/"
+    },
+    {
+      "id": "q3",
+      "text": "AP, 10. Okt. 2026: Äthiopien an UN, Selbstverteidigung gegen Eritrea-Einmarsch.",
+      "url": "https://apnews.com/article/ethiopia-eritrea-tigray-conflict-mekelle-un-abiy-9386a16a06e537a29ffe2de273267c8b"
+    },
+    {
+      "id": "q4",
+      "text": "Wikipedia Current Events, 11. Okt. 2026: Riad-Flughafen, Hormus-Tanker, Dschibuti-Wrack, Ägypten-Sudan.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_11"
+    },
+    {
+      "id": "q5",
+      "text": "BBC, 11. Okt. 2026: Trump-Energiepause, Selenskyj unterstützt bei Zustimmung, Schläge weiter.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 10. Okt. 2026: Eritrea bittet UN um Maßnahmen, Äthiopien in Adigrat.",
+      "url": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10/"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-09",
+    "title": "Das Kalenderblatt über der Bombe",
+    "teaser": "Ein Datum schiebt einen Schlag auf den Wahltag. Zwei Busse in Kramatorsk fahren nicht zu Ende."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift · Das östliche Feld · Das Horn vor der Stadt · Die Stichwahl ruht",
+  "body": "<p>Es gibt Morgen, an denen eine angekündigte Pause als Satz auf einem Bildschirm ankommt. An einem Flughafen brennt die Decke schon, und in einer Enge trifft ein Projektil einen Rumpf, der keine Unterschrift trägt. Der zwölfte Oktober 2026 ist so ein Morgen. In Washington schreibt der Präsident, Russland und die Ukraine hätten sich auf eine Energiepause geeinigt, die sofort gelte. In Kiew wartet man auf die Einzelheiten, während Drohnen weiter auf Kraftwerke zielen. In Riad zählt man nach einem zweiten Schlag auf denselben Flughafen einen weiteren Toten. Nördlich von Adigrat stehen äthiopische Fahrzeuge in einer Stadt, die Zeugen am Vortag noch unter einer anderen Uniform gesehen hatten. Das Fass liegt bei über hundertfünf Dollar. Die Straße, die niemand unterschreibt, bleibt das Nadelöhr, an dem die Industriegesellschaft merkt, dass sie aus einem Schlauch trinkt, der nicht offen ist, weil die Klauseln leise bleiben und die Schläge laut.</p>\n<h3>I. Der Terminal, der nicht aufmacht</h3>\n<p>Was der zehnte Oktober als totenreichster Schlag auf saudischen Boden seit mehr als einem Jahrzehnt in die Chronik gegeben hatte, bekommt am Sonntag ein zweites Maß. Die Huthi feuern erneut auf den König-Chalid-Flughafen in Riad, diesmal auf Terminal vier. Die saudische Zivilluftfahrt spricht von Verletzten und einem Brand. Die Zahl der Toten vom Samstag steigt auf dreizehn, weil ein indischer Staatsbürger seinen Verletzungen erliegt. Am Samstag waren zwölf Menschen gestorben und mehr als dreihundert verletzt, manche davon schwer, und der Betrieb des Flughafens wurde ausgesetzt, sodass Maschinen umgeleitet werden mussten. Darunter waren vier Saudis und Menschen aus Bangladesch, den Vereinigten Staaten, Ägypten, Jordanien, Syrien, Palästina und dem Sudan. Krankenhäuser riefen Ärzte auf, die man sonst nur bei großen Katastrophen holt. Der Saudi-geführte Verbund nennt den Angriff ein Kriegsverbrechen und verspricht eine entschiedene Antwort. Der Präsident der Vereinigten Staaten sagt am Samstag, man erwäge, sich den saudischen Schlägen gegen die Huthi anzuschließen. Ein Flughafen, der zweimal in zwei Tagen getroffen wird und dessen Betrieb man aussetzt, ist keine Randnotiz der Enge. Er ist der Beweis, dass der Krieg seine Fronten weiterlegt, bis sie in Terminals und auf Passagierlisten ankommen, und dass die Enge nicht nur Schiffe, sondern auch Städte trifft, die weit von ihr entfernt liegen. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>Zur selben Stunde meldet die britische Seewarnung UKMTO, ein Tanker sei beim Durchqueren der Straße von Hormus von einem unbekannten Projektil getroffen worden. Eine Drohne hat den Tanker Petro Dolphin nahe der Ankerplatz von Sohar in Oman getroffen. Zwei indische Seeleute gelten als vermisst, neun andere wurden gerettet. Iranische Stellen finden die jüngste amerikanische Antwort auf den Vorschlag, die Straße innerhalb von sieben Tagen wieder zu öffnen, unzureichend. Sie drohen mit Schlägen auf Kabel, Datenleitungen, Rechenzentren und Anlagen für künstliche Intelligenz, falls die Kämpfe wieder aufflammen, und warnen, dass Schiffe auf nicht genehmigten Wegen als feindlich gelten könnten. Der Preis folgt der Sorge und nicht dem Aufschub. Brent steht am Montagmorgen bei etwa 105,48 Dollar, West Texas bei 92,44. Analysten schätzen die Risikoprämie auf mehr als zwanzig Dollar. Ein Fass, das steigt, während mehr Öl auf schlechteren Wegen läuft und Flughäfen brennen, ist keine Klausel. Es ist der Rand eines Kalenderblatts, das niemand unterschreibt. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<blockquote>Ein Terminal, der brennt, und ein Rumpf, der ein Projektil bekommt, teilen denselben Krieg. Das Buch macht aus der einen Meldung keinen Frieden auf dem Wasser.</blockquote>\n<p>In den Tagen zuvor hatte das amerikanische Zentralkommando einen Frachter im Golf von Oman lahmgelegt, der die Blockade zu durchbrechen versucht hatte, und die Zahl der Durchfahrten durch die Enge war auf den tiefsten Stand seit Monaten gefallen. Die Chronik wiederholt die Knappheit nicht als Neuigkeit. Sie merkt nur an, dass ein Kalender, der Schläge aufschiebt, und eine Post, die eine Pause ausruft, denselben Druck auf dem Fass lassen, während die Schiffe seltener werden und die Terminals brennen.</p>\n<h3>II. Die Post, die keine Pause hält</h3>\n<p>Donald Trump schreibt am Sonntag auf Truth Social, es gebe sofort eine Energiepause im Krieg zwischen Russland und der Ukraine. Beide Seiten hätten zugestimmt. Brechen Sie sie nicht. Der Satz kommt ohne Einzelheiten. Wolodymyr Selenskyj sagt zuerst gegenüber Axios, die Ankündigung sei eine Neuigkeit für ihn gewesen. Wenn Russland zustimme, werde Kiew zustimmen. Er bittet, man solle ihm sagen, wann die Pause beginne. Später schreibt er auf Telegram, die Ukraine unterstütze die Pause und erwarte Einzelheiten aus Washington. Er hat mit dem Generalsekretär der Nato, dem kanadischen Premierminister und dem finnischen Präsidenten gesprochen. Er meldet, dass Drohnen und Bomben nach der Post weiter auf Kraftwerke in Kiew und Charkiw zielten. Moskau bleibt still. Eine Pause, die als Post ankommt und von der anderen Seite nicht bestätigt wird, während die Schläge weitergehen, ist kein Waffenstillstand. Sie ist der Rand eines Bildschirms, der keine Straße öffnet und den vierten Kriegswinter nicht wärmer macht, während mehr als zweihundert Treffer auf die Erzeugungskapazität in der vergangenen Woche gezählt werden. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Der Satz folgt einem Deal, den Trump am Freitag mit Putin verkündet hatte. Russland liefere sofort mehr als dreihunderttausend Tonnen Diesel in die Vereinigten Staaten und auf den Weltmarkt. Weitere Mengen sollten im November folgen. Selenskyj hatte den Deal als Schwäche gelesen und als Geschenk an Putin. Er bestand darauf, dass jede Pause auf Energie gegenseitig sein müsse und von echten Garantien begleitet werde. Am Sonntag sagt er erneut, Kiew sei bereit, die Schläge auf russische Raffinerien einzustellen, wenn Moskau die Angriffe auf die ukrainische Energie stoppe. Die Chronik übernimmt den Satz nicht als Witz. Sie hält fest, dass eine angekündigte Stille, die von Drohnen unterbrochen wird, denselben Krieg ist, der seit Februar 2022 Bücher und Häuser nimmt. Der vierte Winter braucht keine Kulisse für Posten, die niemand unterschreibt, und die Chronik hält fest, dass die Schläge auf Energie nach der Ankündigung weitergingen, wie Selenskyj es meldete. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Ukrainische Unterhändler hatten in die Vereinigten Staaten reisen sollen, die Luftabwehr im Gepäck. Nun verschiebt Washington das Treffen, weil die Aufmerksamkeit auf dem Iran liegt. Selenskyj schreibt, Russland versuche, den Konflikt im Golf zu nutzen, um seine eigene Position zu verbessern. Zwei Kriege, die sich dieselben Drohnen teilen, und keiner endet, weil ein Bildschirm eine Pause ausruft.</p>\n<h3>III. Die Stadt, die zurückkommt</h3>\n<p>Am Horn bekommt die Uniform, die am Mittwoch durch Adigrat nach Süden fuhr, eine Gegenrichtung. Sie ist noch kein Abzug, aber am Samstag steht eine Stadt da, in der äthiopische Fahrzeuge stehen. Drei Bewohner sagen Reuters, sie hätten am Samstagmorgen Soldaten und eine verbündete Miliz in Adigrat gesehen, dreißig Kilometer südlich der Grenze. Äthiopien schreibt an den Sicherheitsrat, eritreische Kräfte seien bis zu sechzig Kilometer in Tigray vorgedrungen. Addis Abeba habe keine andere Wahl, als sich zu verteidigen. Eritrea nennt die Anschuldigung eine Kriegserklärung und bestreitet den Einmarsch. Ein Diplomat sagt nicht, ob die Kolonne das Land verlässt oder sich nur neu aufstellt. Was der Mittwoch als drei Schläge nördlich der Stadt und als Drohnen auf eritreische Fahrzeuge gelesen hatte, steht am Wochenende unter einer Stadt, die zurückkommt, unter Feiern mancher Bewohner und unter zwei Briefen, die denselben Sund nicht öffnen und denselben Krieg nicht beenden. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q6\">6</a></p>\n<p>In Adigrat feiern manche Bewohner die Ankunft der eigenen Kräfte. Die Chronik übernimmt die Freude nicht als Ende. Sie merkt an, dass die Kämpfe im Norden weitergehen. Die beiden Staaten tragen ihre Anschuldigungen vor denselben Rat, der im Februar keine Straße offen gehalten hat. Ein Horn, das seine Uniformen wechselt, ohne dass jemand eine Unterschrift setzt, bleibt der offene Faden, der keinen stillen Tag als Schluss braucht.</p>\n<p>Die Kämpfe im Norden dauern an, und die Chronik macht aus der Rückkehr der eigenen Kräfte kein Ende. Sie hält fest, dass Äthiopien und Eritrea ihre Anschuldigungen vor dem Sicherheitsrat ausgetauscht haben und dass die Sorge vor einem größeren Krieg am Horn bleibt, während anderswo die Energiepause als Satz auf einem Bildschirm steht.</p>\n<h3>IV. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu überlesen, sterben wenigstens hundertneununddreißig Menschen, als ein Boot mit Migranten vor der Küste Dschibutis kentert. Vierundachtzig gelten als vermisst. Mehr als achtzig wurden gerettet. Ägyptische Luftschläge treffen eine handwerkliche Goldmine an der Grenze zum Sudan und töten wenigstens zweiundsiebzig. In Nepal reißt ein Sturzflut Brücken und Häuser fort, zehn Menschen gelten als vermisst. In der Türkei sterben elf Menschen bei einem Busunfall. In Chile stirbt einer, als ein Bus einen Hang hinunterstürzt. Die große Politik liebt die Bühne. Das Leben selbst verteilt sich auf die Fußnoten, und keine von ihnen füllt einen Bus oder öffnet eine Enge. <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral hätte, wäre sie billig. Sie hat keine. Sie hat einen Terminal, der brennt, während eine Post eine Pause ausruft, die niemand bestätigt. Sie hat eine Stadt, die zurückkommt, und ein Fass, das steigt, weil die Straße keine Unterschrift trägt. Sie hat Seeleute, die das Wasser nicht zurückgibt, und Bewohner, die Explosionen nördlich der Stadt hören.</p>\n<p>Das Weltbuch hält den Kalender aufgeschlagen, auf dem ein Datum eine Bombe verschiebt und eine Post eine Stille ankündigt, die die Nacht nicht hält. Es wartet, ob die Enge ein Tor bleibt oder eine Waffe wird, ob die Pause eine Straße wird oder nur ein weiteres Blatt, das niemand aufschlägt, und ob die Stadt am Horn die Uniformen wechselt, ohne dass der Krieg den nächsten Brief braucht.</p>"
+}
