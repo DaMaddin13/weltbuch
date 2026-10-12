@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-12",
+  "number": 15,
+  "weekday": "Monday",
+  "title": "The Post and the Terminal",
+  "subtitle": "In which a pause arrives as a sentence, an airport burns and a city returns.",
+  "lede": "The twelfth of October 2026 begins with a post that proclaims a pause, and with a terminal that does not open.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran War and the Needle's Eye",
+      "summary": "Houthi strikes on Riyadh airport: 13 dead, 300+ injured. Tanker attacks Hormuz/Sohar. Brent ~105. Trump considers joining Saudi strikes. Iran: response insufficient. No clause.",
+      "status": "open · sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The Eastern Field",
+      "summary": "Trump: energy pause immediate. Zelenskyy surprised, ready if Russia agrees; strikes continue. Moscow silent. Diesel deal from Friday.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The Horn before the City",
+      "summary": "Ethiopian forces in Adigrat after reported Eritrean withdrawal. UN letters: invasion vs declaration of war. No end.",
+      "status": "open"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since 5 Oct.",
+      "title": "The Urn that is not enough",
+      "summary": "No growth until the runoff on 25 October. Resting.",
+      "status": "resting"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The man with the post",
+      "name": "Donald Trump",
+      "text": "Proclaims an energy pause that takes effect at once, and considers joining Saudi strikes against the Houthis."
+    },
+    {
+      "role": "The man at the stop",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Calls the pause news, says yes if Russia agrees, and reports continuing strikes."
+    },
+    {
+      "role": "The minister with the withdrawal sentence",
+      "name": "Gedion Timothewos",
+      "text": "Writes to the Council of an invasion and the right to self-defence."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 12 Oct. 2026: Oil rises on Mideast conflict and tanker attacks, Brent 105.48.",
+      "url": "https://www.reuters.com/business/energy/oil-climbs-mideast-conflict-tanker-attacks-persist-2026-10-11/"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 11 Oct. 2026: Trump announces energy pause, Zelenskyy surprised, ready if agreed.",
+      "url": "https://www.reuters.com/world/europe/ukraine-will-halt-strikes-refineries-if-russia-stops-energy-attacks-zelenskiy-2026-10-11/"
+    },
+    {
+      "id": "q3",
+      "text": "AP, 10 Oct. 2026: Ethiopia to UN, self-defence against Eritrea incursion.",
+      "url": "https://apnews.com/article/ethiopia-eritrea-tigray-conflict-mekelle-un-abiy-9386a16a06e537a29ffe2de273267c8b"
+    },
+    {
+      "id": "q4",
+      "text": "Wikipedia Current Events, 11 Oct. 2026: Riyadh airport, Hormuz tanker, Djibouti wreck, Egypt-Sudan.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_11"
+    },
+    {
+      "id": "q5",
+      "text": "BBC, 11 Oct. 2026: Trump energy pause, Zelenskyy supports if agreed, strikes continue.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pvg4jyz1m0o"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 10 Oct. 2026: Eritrea asks UN for measures, Ethiopia in Adigrat.",
+      "url": "https://www.reuters.com/world/africa/ethiopian-forces-regain-control-border-city-after-reported-eritrean-incursion-2026-10-10/"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-09",
+    "title": "The Calendar Leaf over the Bomb",
+    "teaser": "A date shifts a strike onto election day. Two buses in Kramatorsk do not finish the road."
+  },
+  "openTomorrow": "Hormuz without signature · The eastern field · The Horn before the city · The runoff rests",
+  "body": "<p>There are mornings when an announced pause arrives as a sentence on a screen. At an airport the ceiling is already burning, and in a strait a projectile strikes a hull that carries no signature. The twelfth of October 2026 is such a morning. In Washington the president writes that Russia and Ukraine have agreed to an energy pause that takes effect at once. In Kyiv people wait for the details while drones continue to aim at power plants. In Riyadh they count one more dead after a second strike on the same airport. North of Adigrat Ethiopian vehicles stand in a city that witnesses the day before had still seen under a different uniform. The barrel sits above one hundred and five dollars. The road that no one signs remains the needle’s eye at which industrial society notices that it drinks from a hose that is not open, because the clauses stay quiet and the strikes stay loud.</p>\n<h3>I. The terminal that does not open</h3>\n<p>What the tenth of October had given the chronicle as the deadliest strike on Saudi soil in more than a decade receives on Sunday a second measure. The Houthis fire again at King Khalid Airport in Riyadh, this time at terminal four. Saudi civil aviation speaks of injuries and a fire. The death toll from Saturday rises to thirteen because an Indian citizen succumbs to his wounds. On Saturday twelve people had died and more than three hundred were injured, some of them seriously, and airport operations were suspended so that aircraft had to be diverted. Among them were four Saudis and people from Bangladesh, the United States, Egypt, Jordan, Syria, Palestine and Sudan. Hospitals called in doctors whom one otherwise summons only for major disasters. The Saudi-led coalition calls the attack a war crime and promises a decisive response. The president of the United States says on Saturday that one is considering joining the Saudi strikes against the Houthis. An airport that is hit twice in two days and whose operations are suspended is no marginal note of the strait. It is the proof that the war moves its fronts until they arrive in terminals and on passenger lists, and that the strait strikes not only ships but also cities that lie far from it. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<p>At the same hour the British maritime warning UKMTO reports that a tanker transiting the Strait of Hormuz has been struck by an unknown projectile. A drone has hit the tanker Petro Dolphin near the anchorage of Sohar in Oman. Two Indian sailors are missing, nine others have been rescued. Iranian officials find the latest American response to the proposal to reopen the strait within seven days insufficient. They threaten strikes on cables, data lines, data centres and facilities for artificial intelligence should the fighting flare again, and warn that ships on unauthorised routes could be regarded as hostile. The price follows the worry and not the postponement. Brent stands on Monday morning at about 105.48 dollars, West Texas at 92.44. Analysts estimate the risk premium at more than twenty dollars. A barrel that rises while more oil travels on worse routes and airports burn is no clause. It is the edge of a calendar page that no one signs. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<blockquote>A terminal that burns and a hull that receives a projectile share the same war. The book makes of the one report no peace on the water.</blockquote>\n<p>In the days before the American Central Command had disabled a freighter in the Gulf of Oman that had tried to break the blockade, and the number of transits through the strait had fallen to the lowest level in months. The chronicle does not repeat the scarcity as news. It merely notes that a calendar which postpones strikes and a post which proclaims a pause leave the same pressure on the barrel, while the ships become rarer and the terminals burn.</p>\n<h3>II. The post that holds no pause</h3>\n<p>Donald Trump writes on Sunday on Truth Social that there is immediately an energy pause in the war between Russia and Ukraine. Both sides have agreed. Do not break it. The sentence arrives without details. Volodymyr Zelenskyy first tells Axios that the announcement was news to him. If Russia agrees, Kyiv will agree. He asks that one should tell him when the pause begins. Later he writes on Telegram that Ukraine supports the pause and awaits details from Washington. He has spoken with the secretary-general of Nato, the Canadian prime minister and the Finnish president. He reports that drones and bombs after the post continued to aim at power plants in Kyiv and Kharkiv. Moscow stays silent. A pause that arrives as a post and is not confirmed by the other side while the strikes continue is no ceasefire. It is the edge of a screen that opens no road and does not make the fourth winter of war warmer, while more than two hundred hits on generating capacity in the past week are counted. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>The sentence follows a deal that Trump had announced on Friday with Putin. Russia would immediately deliver more than three hundred thousand tons of diesel to the United States and the world market. Further quantities were to follow in November. Zelenskyy had read the deal as weakness and as a gift to Putin. He insisted that any pause on energy must be mutual and accompanied by real guarantees. On Sunday he says again that Kyiv is ready to stop the strikes on Russian refineries if Moscow stops the attacks on Ukrainian energy. The chronicle does not take the sentence as a joke. It holds that an announced silence which is interrupted by drones is the same war that since February 2022 has taken books and houses. The fourth winter needs no backdrop for posts that no one signs, and the chronicle holds that the strikes on energy continued after the announcement, as Zelenskyy reported. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>Ukrainian negotiators had been due to travel to the United States, air defence in their luggage. Now Washington postpones the meeting because attention lies on Iran. Zelenskyy writes that Russia is trying to use the conflict in the Gulf to improve its own position. Two wars that share the same drones, and neither ends because a screen proclaims a pause.</p>\n<h3>III. The city that returns</h3>\n<p>On the Horn the uniform that on Wednesday drove south through Adigrat receives a counter-direction. It is not yet a withdrawal, but on Saturday there stands a city in which Ethiopian vehicles stand. Three residents tell Reuters that on Saturday morning they saw soldiers and an allied militia in Adigrat, thirty kilometres south of the border. Ethiopia writes to the Security Council that Eritrean forces have advanced up to sixty kilometres into Tigray. Addis Ababa has no other choice but to defend itself. Eritrea calls the accusation a declaration of war and denies the incursion. A diplomat does not say whether the column leaves the country or only repositions. What Wednesday had read as three strikes north of the city and as drones on Eritrean vehicles stands at the weekend under a city that returns, under celebrations by some residents and under two letters that do not open the same strait and do not end the same war. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q6\">6</a></p>\n<p>In Adigrat some residents celebrate the arrival of their own forces. The chronicle does not take the joy as an end. It notes that the fighting in the north continues. The two states carry their accusations before the same council that in February held no road open. A Horn that changes its uniforms without anyone setting a signature remains the open thread that needs no quiet day as a close.</p>\n<p>The fighting in the north continues, and the chronicle makes of the return of its own forces no end. It holds that Ethiopia and Eritrea have exchanged their accusations before the Security Council and that the worry of a larger war on the Horn remains, while elsewhere the energy pause stands as a sentence on a screen.</p>\n<h3>IV. What the book must not conceal</h3>\n<p>At the margin, and therefore easy to overlook, at least one hundred and thirty-nine people die when a boat with migrants capsizes off the coast of Djibouti. Eighty-four are missing. More than eighty were rescued. Egyptian air strikes hit an artisanal gold mine on the border with Sudan and kill at least seventy-two. In Nepal a flash flood tears away bridges and houses, ten people are missing. In Turkey eleven people die in a bus accident. In Chile one dies when a bus plunges down a slope. Great politics loves the stage. Life itself distributes itself onto the footnotes, and none of them fills a bus or opens a strait. <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>Decision of the chronicler</h3>\n<p>If this story had a moral it would be cheap. It has none. It has a terminal that burns while a post proclaims a pause that no one confirms. It has a city that returns, and a barrel that rises because the road carries no signature. It has sailors whom the water does not give back, and residents who hear explosions north of the city.</p>\n<p>The world book keeps the calendar open on which a date postpones a bomb and a post announces a silence that the night does not hold. It waits whether the strait remains a gate or becomes a weapon, whether the pause becomes a road or only another leaf that no one opens, and whether the city on the Horn changes its uniforms without the war needing the next letter.</p>"
+}
