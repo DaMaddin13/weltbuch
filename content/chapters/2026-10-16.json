@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-16",
+  "number": 16,
+  "weekday": "Freitag",
+  "title": "Der Satz, der nicht h\u00e4lt",
+  "subtitle": "In dem eine angek\u00fcndigte Stille endet, w\u00e4hrend R\u00fcmpfe sinken und ein Dach f\u00e4llt.",
+  "lede": "Der sechzehnte Oktober 2026 beginnt mit einem Pr\u00e4sidenten, der sagt, man sei fertig, und mit einer Enge, in der sechs Schiffe den Tag \u00fcberqueren.",
+  "readMinutes": 9,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A \u00b7 seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadel\u00f6hr",
+      "summary": "Houthis treffen Aden-Palast (5 Tote). 20 Angriffe auf King Khalid diesen Monat (17 Tote, 333+ Verletzte). Schiffe sinken in Hormus, nur 6 Durchfahrten am 15. Brent ~105. Keine Klausel.",
+      "status": "offen \u00b7 versch\u00e4rft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C \u00b7 seit 2022",
+      "title": "Das \u00f6stliche Feld",
+      "summary": "Energiepause beendet. Selenskyj: Block raus, wieder Raffinerie-Schl\u00e4ge (Ryazan). Russland schl\u00e4gt weiter. Schwarzes Meer: Tanker vor Rum\u00e4nien, 7 vermisst.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H \u00b7 seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Kein neuer Zuwachs seit Adigrat/Zalambessa. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "I",
+      "since": "Strang I \u00b7 seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs bis zur Stichwahl am 25. Oktober. Ruht.",
+      "status": "ruhend"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Mann, der fertig ist",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Sagt, der Block auf Raffinerien sei raus, man sei fertig, und nimmt die Schl\u00e4ge wieder auf."
+    },
+    {
+      "role": "Der Mann mit der Post",
+      "name": "Donald Trump",
+      "text": "Hat die Pause ausgerufen, die die Nacht nicht h\u00e4lt."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 15. Okt. 2026: Houthis treffen Palast in Aden, Koalition z\u00e4hlt Angriffe auf saudische Infrastruktur.",
+      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 15. Okt. 2026: Selenskyj beendet Pause, Ukraine trifft russische Raffinerie.",
+      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/"
+    },
+    {
+      "id": "q3",
+      "text": "The Guardian, 15. Okt. 2026: Energie-Waffenstillstand bricht zusammen, Schläge gehen weiter.",
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+    },
+    {
+      "id": "q4",
+      "text": "New York Times, 15. Okt. 2026: Hormus, mehr Angriffe, \u00d6l flie\u00dft weiter.",
+      "url": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html"
+    },
+    {
+      "id": "q5",
+      "text": "hormuz.now, 15. Okt. 2026: 6 Durchfahrten.",
+      "url": "https://hormuz.now/traffic/2026-10-15"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 15. Okt. 2026: Tanker vor Rum\u00e4nien brennen, Seeleute vermisst.",
+      "url": "https://www.reuters.com/world/two-ships-ablaze-romanian-black-sea-waters-8-sailors-missing-2026-10-15/"
+    },
+    {
+      "id": "q7",
+      "text": "BBC, 15. Okt. 2026: Schuldach in Peshawar st\u00fcrzt ein, 34 Kinder und Lehrerin tot.",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 15. Okt. 2026: Neue Yalu-Br\u00fccke \u00f6ffnet.",
+      "url": "https://www.reuters.com/world/asia-pacific/trucks-line-up-long-delayed-china-north-korea-bridge-officially-opens-2026-10-15/"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-12",
+    "title": "Die Post und der Terminal",
+    "teaser": "Eine Pause kommt als Satz an. Ein Terminal brennt. Eine Stadt kommt zur\u00fcck."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift \u00b7 Das \u00f6stliche Feld \u00b7 Das Horn ruht \u00b7 Die Stichwahl ruht",
+  "body": "<p>Es gibt Morgen, an denen ein Satz auf einem Bildschirm endet, bevor die Nacht ihn best\u00e4tigt hat. Der sechzehnte Oktober 2026 ist so ein Morgen. In Kiew sagt der Pr\u00e4sident, die Blockade auf Raffinerien sei aufgehoben, man sei fertig. In der Stra\u00dfe von Hormus \u00fcberqueren nur sechs sichtbare Handelsschiffe den Tag, w\u00e4hrend andere R\u00fcmpfe brennen oder sinken. \u00dcber Riad z\u00e4hlt die Koalition die Angriffe dieses Monats auf denselben Flughafen, und in Aden trifft eine Rakete den Palast, in dem der Pr\u00e4sident der anerkannten Regierung sitzt. Das Fass bleibt \u00fcber hundertf\u00fcnf Dollar, weil die Klauseln leise bleiben und die Schl\u00e4ge laut. N\u00f6rdlich von Adigrat steht die Stadt noch unter der eigenen Uniform, ohne dass ein neuer Brief den Sund \u00f6ffnet.</p>\n<h3>I. Der Satz, der nicht h\u00e4lt</h3>\n<p>Was der zw\u00f6lfte Oktober als Post gelesen hatte, die eine Energiepause sofort ausrief, bekommt am Donnerstag ein Ende, das niemand unterschreibt. Wolodymyr Selenskyj sagt dem Financial Times, die Ukraine habe drei Tage lang keine russischen Raffinerien getroffen, weil Washington es verlangt habe. Russland habe weiter auf Kraftwerke und H\u00e4user geschlagen. Der Block sei raus. Man sei fertig. In der Region Rjasan brennt die Raffinerie von Rosneft, die fast f\u00fcnf Prozent der russischen Kapazit\u00e4t tr\u00e4gt und Moskau versorgt. Der Gouverneur meldet Drohnen und Flamingo-Marschflugk\u00f6rper. Putin spielt die Wirkung herunter und nennt sie nichts Besonderes. Eine Pause, die als Satz auf einem Bildschirm ankommt und von der anderen Seite nicht gehalten wird, ist kein Waffenstillstand. Sie ist der Rand eines Kalenders, der den vierten Winter nicht w\u00e4rmer macht. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Selenskyj kritisiert die Bereitschaft Washingtons, mit Moskau Gesch\u00e4fte zu machen, und nennt die Einschr\u00e4nkung von Starlink und die L\u00fccken bei der Fr\u00fchwarnung gef\u00e4hrlich. Drei Tage Pause auf der einen Seite, fortgesetzte Schl\u00e4ge auf der anderen, und die Chronik macht daraus keinen Witz. Sie h\u00e4lt fest, dass der Krieg weiter B\u00fccher und D\u00e4cher nimmt, w\u00e4hrend der Bildschirm die Stille ank\u00fcndigt, die die Nacht nicht h\u00e4lt. Ukrainische Unterh\u00e4ndler hatten die Luftabwehr im Gep\u00e4ck nach Amerika bringen sollen. Die Aufmerksamkeit liegt anderswo.</p>\n<h3>II. Die Enge, die z\u00e4hlt</h3>\n<p>Im Golf und \u00fcber der arabischen Halbinsel ist die Sprache k\u00fcrzer. Die Huthi feuern auf den Al-Maashiq-Palast in Aden, Sitz des Pr\u00e4sidialrats und Residenz von Pr\u00e4sident Raschad al-Alimi. F\u00fcnf Menschen sterben, sechzehn werden verletzt. Kein Mitglied des Rates kommt zu Schaden. Zur selben Stunde listet die saudisch gef\u00fchrte Koalition die Angriffe dieses Monats auf den K\u00f6nig-Chalid-Flughafen in Riad: zwanzig St\u00fcck, siebzehn Tote, mehr als dreihundert Verletzte. Die Serie ist die t\u00f6dlichste auf saudischem Boden seit mehr als einem Jahrzehnt. Der Sprecher der Huthi warnt erneut, saudischer Luftraum und Flugh\u00e4fen seien unsicher, und nimmt die heiligen St\u00e4dte aus. Ein Terminal, der brennt, und ein Palast, der getroffen wird, teilen denselben Krieg, der seine Fronten weiterlegt, bis sie in Passagierlisten und auf Wohnsitzen ankommen. <a class=\"src\" href=\"#q1\">1</a></p>\n<p>Auf dem Wasser sinken Schiffe. Am Mittwoch geht ein singapur-flagged Containerfrachter nach einem Treffer unter. Weitere Projektile treffen Tanker und Frachter in der Enge und nahe Sohar. Am Donnerstag \u00fcberqueren nur sechs AIS-sichtbare Handelsschiffe die Stra\u00dfe, drei davon Tanker. Der Verkehr liegt bei etwa einem Zehntel des Vorkriegsstands. Iranische Stellen finden die amerikanische Antwort auf den Sieben-Tage-Vorschlag unzureichend und warnen, Schiffe auf nicht genehmigten Wegen k\u00f6nnten als feindlich gelten. Brent schlie\u00dft um hundertf\u00fcnf Dollar, nachdem es zeitweise h\u00f6her stand. Ein Fass, das steigt, w\u00e4hrend mehr \u00d6l auf schlechteren Wegen l\u00e4uft und Terminals brennen, ist keine Klausel. Es ist der Rand eines Kalenderblatts, das niemand unterschreibt. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<blockquote>Ein Satz, der nicht h\u00e4lt, und ein Rumpf, der untergeht, teilen denselben Druck. Das Buch macht aus der einen Meldung keinen Frieden auf dem Wasser.</blockquote>\n<h3>III. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu \u00fcberlesen, st\u00fcrzt in Peschawar das Dach einer Privatschule ein. Vierunddrei\u00dfig Kinder und eine Lehrerin sterben, die meisten unter dreizehn. Das Geb\u00e4ude war schwach, die Decke \u00fcberlastet. In der Enge vor Rum\u00e4nien brennen zwei Chemikalientanker, einer unter der Flagge San Marinos, einer unter der von Komoren. Sieben Seeleute gelten als vermisst. Drohnen aus russischer Richtung wurden gemeldet, und der Weg \u00fcber den Sulina-Kanal ist eine der wenigen Routen, die der Ukraine bleiben, w\u00e4hrend ihre eigenen H\u00e4fen getroffen werden. An der Yalu \u00f6ffnet sich nach zw\u00f6lf Jahren die neue Br\u00fccke zwischen Dandong und Sinuiju. Lastwagen mit Flaggen \u00fcberqueren sie. Die gro\u00dfe Politik liebt die B\u00fchne. Das Leben selbst verteilt sich auf die Fu\u00dfnoten, und keine von ihnen f\u00fcllt einen Bus oder \u00f6ffnet eine Enge. <a class=\"src\" href=\"#q6\">6</a> <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral h\u00e4tte, w\u00e4re sie billig. Sie hat keine. Sie hat einen Satz, der nicht h\u00e4lt, w\u00e4hrend Raffinerien brennen und Drohnen weiterfliegen. Sie hat eine Enge, in der sechs Schiffe den Tag z\u00e4hlen, und ein Dach, das f\u00e4llt, bevor die Kinder den Unterricht beenden. Sie hat Seeleute, die das Wasser nicht zur\u00fcckgibt, und eine Br\u00fccke, die nach einem Jahrzehnt aufmacht, w\u00e4hrend anderswo die Klauseln leise bleiben.</p>\n<p>Das Weltbuch legt den Finger auf die Seite, auf der eine Post eine Stille ank\u00fcndigt, die die Nacht nicht h\u00e4lt, und auf der ein Rumpf untergeht, ohne dass jemand die Stra\u00dfe unterschreibt. Es wartet, ob die Enge ein Tor bleibt oder eine Waffe wird, ob die Pause eine Stra\u00dfe wird oder nur ein weiteres Blatt, das niemand aufschl\u00e4gt, und ob die Stadt am Horn die Uniformen wechselt, ohne dass der Krieg den n\u00e4chsten Brief braucht.</p>"
+}

@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-16",
+  "number": 16,
+  "weekday": "Friday",
+  "title": "The Sentence That Does Not Hold",
+  "subtitle": "In which an announced quiet ends while hulls sink and a roof falls.",
+  "lede": "The sixteenth of October 2026 begins with a president who says we are done and with a strait where six ships cross the day.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strand A \u00b7 since Feb. 2026",
+      "title": "The Iran War and the Bottleneck",
+      "summary": "Houthis hit Aden palace (5 dead). 20 attacks on King Khalid this month (17 dead, 333+ injured). Ships sink in Hormuz, only 6 crossings on the 15th. Brent ~105. No clause.",
+      "status": "open \u00b7 intensified"
+    },
+    {
+      "id": "C",
+      "since": "Strand C \u00b7 since 2022",
+      "title": "The Eastern Field",
+      "summary": "Energy pause ended. Zelenskyy: block out, refinery strikes resume (Ryazan). Russia continues. Black Sea: tankers off Romania, 7 missing.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Strand H \u00b7 since 3 Oct.",
+      "title": "The Horn before the City",
+      "summary": "No new growth since Adigrat/Zalambessa. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "I",
+      "since": "Strand I \u00b7 since 5 Oct.",
+      "title": "The Urn That Does Not Suffice",
+      "summary": "No growth until runoff on 25 October. Resting.",
+      "status": "resting"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The Man Who Is Done",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Says the block on refineries is out, that they are done, and resumes the strikes."
+    },
+    {
+      "role": "The Man with the Post",
+      "name": "Donald Trump",
+      "text": "Called the pause that the night does not hold."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "Reuters, 15 Oct. 2026: Houthis hit palace in Aden, coalition lists attacks on Saudi infrastructure.",
+      "url": "https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 15 Oct. 2026: Zelenskyy ends pause, Ukraine hits Russian refinery.",
+      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/"
+    },
+    {
+      "id": "q3",
+      "text": "The Guardian, 15 Oct. 2026: energy ceasefire collapses, strikes continue.",
+      "url": "https://www.theguardian.com/world/2026/oct/15/us-effort-to-get-russia-ukraine-energy-ceasefire-collapses"
+    },
+    {
+      "id": "q4",
+      "text": "New York Times, 15 Oct. 2026: Hormuz, more attacks, oil still flowing.",
+      "url": "https://www.nytimes.com/2026/10/15/business/hormuz-oil-tanker-attacks.html"
+    },
+    {
+      "id": "q5",
+      "text": "hormuz.now, 15 Oct. 2026: 6 crossings.",
+      "url": "https://hormuz.now/traffic/2026-10-15"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 15 Oct. 2026: tankers off Romania ablaze, sailors missing.",
+      "url": "https://www.reuters.com/world/two-ships-ablaze-romanian-black-sea-waters-8-sailors-missing-2026-10-15/"
+    },
+    {
+      "id": "q7",
+      "text": "BBC, 15 Oct. 2026: school roof collapses in Peshawar, 34 children and teacher dead.",
+      "url": "https://www.bbc.co.uk/news/articles/cked326llddgo"
+    },
+    {
+      "id": "q8",
+      "text": "Reuters, 15 Oct. 2026: New Yalu Bridge opens.",
+      "url": "https://www.reuters.com/world/asia-pacific/trucks-line-up-long-delayed-china-north-korea-bridge-officially-opens-2026-10-15/"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-12",
+    "title": "The Post and the Terminal",
+    "teaser": "A pause arrives as a sentence. A terminal burns. A city returns."
+  },
+  "openTomorrow": "Hormuz without signature \u00b7 The eastern field \u00b7 The Horn rests \u00b7 The runoff rests",
+  "body": "<p>There are mornings when a sentence on a screen ends before the night has confirmed it. The sixteenth of October 2026 is such a morning. In Kyiv the president says the block on refineries is out, that they are done. In the Strait of Hormuz only six visible merchant ships cross the day while other hulls burn or sink. Over Riyadh the coalition counts the month\u2019s attacks on the same airport, and in Aden a missile hits the palace where the recognized president sits. The barrel stays above one hundred and five dollars because the clauses stay quiet and the strikes stay loud. North of Adigrat the city still stands under its own uniform, without a new letter opening the sound.</p>\n<h3>I. The Sentence That Does Not Hold</h3>\n<p>What the twelfth of October had read as a post declaring an energy pause effective immediately receives on Thursday an end that no one signs. Volodymyr Zelenskyy tells the Financial Times that Ukraine had not struck Russian refineries for three days because Washington asked it. Russia had continued to hit power plants and houses. The block is out. They are done. In the Ryazan region the Rosneft refinery burns, the one that carries nearly five percent of Russian capacity and supplies Moscow. The governor reports drones and Flamingo cruise missiles. Putin plays down the effect and calls it nothing particular. A pause that arrives as a sentence on a screen and is not held by the other side is not a ceasefire. It is the edge of a calendar that does not warm the fourth winter. <a class=\"src\" href=\"#q2\">2</a> <a class=\"src\" href=\"#q3\">3</a></p>\n<p>Zelenskyy criticizes Washington\u2019s readiness to make deals with Moscow and calls the restriction of Starlink and the gaps in early warning dangerous. Three days of pause on one side, continued strikes on the other, and the chronicle makes no joke of it. It notes that the war continues to take books and roofs while the screen announces a quiet that the night does not hold. Ukrainian negotiators had been meant to bring air defense in their luggage to America. Attention lies elsewhere.</p>\n<h3>II. The Strait That Counts</h3>\n<p>In the Gulf and over the Arabian Peninsula the language is shorter. The Houthis fire on the Al-Maashiq Palace in Aden, seat of the Presidential Leadership Council and residence of President Rashad al-Alimi. Five people die, sixteen are injured. No member of the council is harmed. At the same hour the Saudi-led coalition lists the month\u2019s attacks on King Khalid International Airport in Riyadh: twenty of them, seventeen dead, more than three hundred injured. The series is the deadliest on Saudi soil in more than a decade. The Houthi spokesman again warns that Saudi airspace and airports are unsafe, and exempts the holy cities. A terminal that burns and a palace that is hit share the same war that moves its fronts until they arrive on passenger lists and residences. <a class=\"src\" href=\"#q1\">1</a></p>\n<p>On the water ships sink. On Wednesday a Singapore-flagged container ship goes under after a hit. Further projectiles strike tankers and freighters in the strait and near Sohar. On Thursday only six AIS-visible merchant ships cross the strait, three of them tankers. Traffic sits at roughly a tenth of pre-war levels. Iranian officials find the American answer to the seven-day proposal insufficient and warn that ships on unauthorized routes may be treated as hostile. Brent closes around one hundred and five dollars after standing higher for a time. A barrel that rises while more oil runs on worse routes and terminals burn is not a clause. It is the edge of a calendar page that no one signs. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<blockquote>A sentence that does not hold and a hull that goes under share the same pressure. The book does not make peace on the water from one report.</blockquote>\n<h3>III. What the Book Must Not Conceal</h3>\n<p>On the margin, and therefore easy to overlook, a private school roof collapses in Peshawar. Thirty-four children and a teacher die, most of them under thirteen. The building was weak, the ceiling overloaded. Off Romania two chemical tankers burn, one under the San Marino flag, one under the Comoros flag. Seven sailors are missing. Drones from the Russian direction were reported, and the route via the Sulina Canal is one of the few that remain to Ukraine while its own ports are hit. On the Yalu the new bridge between Dandong and Sinuiju opens after twelve years. Trucks with flags cross it. Great politics loves the stage. Life itself distributes itself across the footnotes, and none of them fills a bus or opens a strait. <a class=\"src\" href=\"#q6\">6</a> <a class=\"src\" href=\"#q7\">7</a> <a class=\"src\" href=\"#q8\">8</a></p>\n<h3>Decision of the Chronicler</h3>\n<p>If this story had a moral it would be cheap. It has none. It has a sentence that does not hold while refineries burn and drones keep flying. It has a strait where six ships count the day, and a roof that falls before the children finish the lesson. It has sailors the water does not return, and a bridge that opens after a decade while elsewhere the clauses stay quiet.</p>\n<p>The World Book places its finger on the page where a post announces a quiet that the night does not hold, and on the page where a hull goes under without anyone signing the road. It waits to see whether the strait remains a gate or becomes a weapon, whether the pause becomes a road or only another leaf that no one turns, and whether the city at the Horn changes its uniforms without the war needing the next letter.</p>"
+}
