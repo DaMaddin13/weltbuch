@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-17",
+  "number": 17,
+  "weekday": "Samstag",
+  "title": "Der Preis und die Mine",
+  "subtitle": "In dem ein Fass die alte Marke ber\u00fchrt, eine Stimme die Pause beendet und ein Nachbar die T\u00fcr \u00f6ffnet.",
+  "lede": "Der siebzehnte Oktober 2026 beginnt mit einem Preis, der die Hundertzehn ber\u00fchrt, w\u00e4hrend in der Enge eine Mine einen Rumpf nimmt und in Br\u00fcssel eine T\u00fcr aufgeht.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A \u00b7 seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadel\u00f6hr",
+      "summary": "Angriffe auf Rekord: 12 Schiffe in einer Woche. GFS Pride gesunken. IRGC: Mine auf Supertanker. Brent 109,86. Keine Klausel.",
+      "status": "offen \u00b7 versch\u00e4rft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C \u00b7 seit 2022",
+      "title": "Das \u00f6stliche Feld",
+      "summary": "Selenskyj: fertig, Rjasan getroffen. Trump: Schande. Magyar-Selenskyj: Neustart, EU-Kapitel offen.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H \u00b7 seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Kein neuer Zuwachs. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "I",
+      "since": "Strang I \u00b7 seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs bis zur Stichwahl am 25. Oktober. Ruht.",
+      "status": "ruhend"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Mann, der fertig ist",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Beendet die Pause, l\u00e4sst Rjasan treffen und trifft den Nachbarn, der die T\u00fcr \u00f6ffnet."
+    },
+    {
+      "role": "Der Mann mit der Post",
+      "name": "Donald Trump",
+      "text": "Nennt die Wiederaufnahme eine Schande, w\u00e4hrend das Fass die Marke ber\u00fchrt."
+    },
+    {
+      "role": "Der Nachbar, der die T\u00fcr \u00f6ffnet",
+      "name": "P\u00e9ter Magyar",
+      "text": "Hebt die Blockade nach dem Schulgesetz und spricht von einem neuen Fundament."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "BBC, 16. Okt. 2026: Rekordzahl Angriffe auf Schiffe nahe Hormus, \u00d6lexporte verlangsamen.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 16. Okt. 2026: Brent ber\u00fchrt 110 Dollar, schlie\u00dft bei 109,86 auf Mideast- und Russland-Sorgen.",
+      "url": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/"
+    },
+    {
+      "id": "q3",
+      "text": "Khaleej Times / AFP, 16. Okt. 2026: Koalition f\u00e4ngt Raketen und Drohnen \u00fcber Riad und Yanbu ab.",
+      "url": "https://www.khaleejtimes.com/world/gulf/saudi-coalition-intercept-missiles-drones-riyadh-oct-16-2026"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 15. Okt. 2026: Selenskyj beendet Pause, Ukraine trifft russische Raffinerie in Rjasan.",
+      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/"
+    },
+    {
+      "id": "q5",
+      "text": "The Independent / Reuters, 16. Okt. 2026: Trump nennt Wiederaufnahme der Schl\u00e4ge eine Schande.",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-oil-refinery-starlink-b3067841.html"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 16. Okt. 2026: Magyar und Selenskyj vereinbaren Neustart der Beziehungen, Ungarn hebt EU-Blockade.",
+      "url": "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"
+    },
+    {
+      "id": "q7",
+      "text": "Wikipedia Current Events / AFP, 16. Okt. 2026: Amazonas-Abholzung auf Tiefstand, Australien-Fidschi-Drohnen.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_16"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-16",
+    "title": "Der Satz, der nicht h\u00e4lt",
+    "teaser": "Eine angek\u00fcndigte Stille endet, w\u00e4hrend R\u00fcmpfe sinken und ein Dach f\u00e4llt."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift \u00b7 Das \u00f6stliche Feld \u00b7 Das Horn ruht \u00b7 Die Stichwahl ruht",
+  "body": "<p>Es gibt Morgen, an denen der Preis eines Fasses die H\u00f6he einer Marke ber\u00fchrt, die man zuletzt im Mai gesehen hatte, w\u00e4hrend in einer Enge eine Garde eine Mine unter einem Rumpf meldet, den niemand mit einem Namen versieht, und w\u00e4hrend in einer Hauptstadt ein Nachbar die Blockade hebt, die Jahre \u00fcber Schulen gelegt hatte. Der siebzehnte Oktober 2026 ist so ein Morgen. In der Stra\u00dfe von Hormus bleibt der Verkehr bei einem Bruchteil des alten Stands, und die Berichte \u00fcber Angriffe erreichen eine H\u00f6he, die die britische Seewarnung seit dem Beginn des Krieges nicht gemessen hatte. In Kiew steht der Satz, der die Pause beendete, und in Br\u00fcssel spricht der ungarische Premierminister von einem neuen Fundament, nachdem das Gesetz \u00fcber Minderheitenschulen die Einw\u00e4nde gehoben hat. Das Fass schlie\u00dft bei hundertneun Dollar und sechsundachtzig Cent, weil die Klauseln leise bleiben und die Schl\u00e4ge laut, und weil die Raffinerie in Rjasan eine Einheit stilllegt, nachdem die Drohnen kamen. \u00dcber dem Roten Meer f\u00e4ngt die Koalition weiter Geschosse ab, und am Horn steht die Stadt noch unter der eigenen Uniform, ohne dass ein neuer Brief den Sund \u00f6ffnet. Die Chronik liest den Tag nicht als einzelne Meldung, sondern als den Druck, der auf dem Fass und auf den D\u00e4chern liegt.</p>\n<h3>I. Die Mine, die keiner best\u00e4tigt</h3>\n<p>Was der sechzehnte Oktober als Enge gelesen hatte, in der sechs Schiffe den Tag z\u00e4hlten und R\u00fcmpfe sanken oder brannten, bekommt am Freitag ein Ma\u00df, das die Woche \u00fcbersteigt und die Chronik nicht als einzelne Meldung liest, sondern als die Fortsetzung einer Serie, die seit dem Ende September anh\u00e4lt. Die britische Seewarnung UKMTO und die Analyse der BBC z\u00e4hlen zw\u00f6lf Schiffe, die zwischen dem f\u00fcnften und dem elften Oktober Angriffe meldeten, die h\u00f6chste Wochenzahl seit dem Beginn des Krieges im Februar, und sechs davon fielen auf einen einzigen Tag. Der Containerfrachter GFS Pride, der unter singapurischer Flagge fuhr und mehr als zweitausendachthundert Container trug, sank nach einem Treffer durch ein unbekanntes Projektil am Dienstag, die einundzwanzigk\u00f6pfige Besatzung wurde ohne Verletzungen evakuiert, und Container trieben auf dem Wasser. Weitere Frachter und Tanker nahmen Sch\u00e4den an Rumpf und Steuerung, und iranische Stellen sprechen von Minen, die Schiffe auf nicht genehmigten Wegen treffen, w\u00e4hrend die Revolutionsgarden Aufnahmen eines Supertankers ver\u00f6ffentlichen, der Feuer f\u00e4ngt, nachdem er eine Mine getroffen haben soll. Die amerikanische Seite sagt, die Fahrspur sei von Minen ger\u00e4umt und der Verkehr unter Begleitung steige, doch die unabh\u00e4ngigen Z\u00e4hlungen von Kpler und anderen zeigen, dass die \u00d6lexporte durch die Enge auf etwa neun bis zw\u00f6lf Millionen Barrel am Tag gefallen sind, weit unter dem Vorkriegsstand von siebzehn Millionen, und dass nur ein Zehntel der alten Durchfahrten sichtbar bleibt. Viele Angriffe werden gar nicht gemeldet, weil die Berichte freiwillig sind und die meisten getroffenen Schiffe sie nicht abgeben. Brent ber\u00fchrt w\u00e4hrend des Handels die Hundertzehn und schlie\u00dft bei hundertneun Dollar und sechsundachtzig Cent, dem h\u00f6chsten Stand seit dem neunzehnten Mai, w\u00e4hrend West Texas \u00fcber hundert steigt und die Woche mit einem Gewinn von mehr als zehn Prozent beendet. Ein Fass, das die alte Marke ber\u00fchrt, w\u00e4hrend mehr \u00d6l auf schlechteren Wegen l\u00e4uft, Terminals weiter brennen und die Risikopr\u00e4mie \u00fcber zwanzig Dollar liegt, ist keine Klausel. Es ist der Rand eines Kalenderblatts, das niemand unterschreibt, und die Chronik macht aus der einen Meldung keinen Frieden auf dem Wasser, sondern h\u00e4lt fest, dass die Enge den Preis tr\u00e4gt, solange die Klauseln leise bleiben. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>Die saudisch gef\u00fchrte Koalition f\u00e4ngt am Freitag Raketen und Drohnen ab, darunter eine ballistische Rakete \u00fcber Yanbu, dem Hafen an der Roten-Meer-K\u00fcste, der den Umweg um die Enge tragen soll und an dem eine gro\u00dfe Pipeline endet, und weitere \u00fcber Riad und im S\u00fcden, wo drei Drohnen und zwei Marschflugk\u00f6rper zerst\u00f6rt wurden. Die Serie auf den K\u00f6nig-Chalid-Flughafen in Riad bleibt die t\u00f6dlichste auf saudischem Boden seit mehr als einem Jahrzehnt, mit zwanzig Angriffen in diesem Monat, siebzehn Toten und mehr als dreihundert Verletzten, und der Betrieb war zeitweise ausgesetzt, sodass Maschinen umgeleitet werden mussten. Der Sprecher der Huthi warnt erneut, dass der saudische Luftraum und die Flugh\u00e4fen unsicher seien, und nimmt die heiligen St\u00e4dte aus, w\u00e4hrend die Koalition die Angriffe als Kriegsverbrechen bezeichnet und eine entschiedene Antwort verspricht. Ein Terminal, der brennt, und ein Palast, der am Vortag getroffen wurde und f\u00fcnf Menschen das Leben kostete, darunter W\u00e4chter und zivile Angestellte, teilen denselben Krieg, der seine Fronten weiterlegt, bis sie in Passagierlisten und auf Wohnsitzen ankommen, und der den Preis tr\u00e4gt, w\u00e4hrend die Klauseln leise bleiben und die Drohnen weiterfliegen. <a class=\"src\" href=\"#q3\">3</a></p>\n<blockquote>Ein Fass, das die alte Marke ber\u00fchrt, und ein Rumpf, der untergeht, teilen denselben Druck. Das Buch macht aus der einen Meldung keinen Frieden auf dem Wasser.</blockquote>\n<h3>II. Die Stimme, die fertig ist</h3>\n<p>Was der zw\u00f6lfte Oktober als Post gelesen hatte, die eine Energiepause sofort ausrief und ohne Einzelheiten ankam, und was der sechzehnte als Satz las, der nicht hielt, weil die andere Seite weiter schlug, steht am Freitag als abgeschlossene Geste, die niemand zur\u00fccknimmt und die die Chronik als den Rand eines Bildschirms liest. Wolodymyr Selenskyj sagt dem Financial Times, die Ukraine habe drei Tage lang keine russischen Raffinerien getroffen, weil Washington es verlangt habe, und Russland habe weiter auf Kraftwerke und H\u00e4user geschlagen und mehr als hundert Zivilisten in der vergangenen Woche get\u00f6tet. Der Block sei raus. Man sei fertig. In der Region Rjasan brennt die Raffinerie von Rosneft, die fast f\u00fcnf Prozent der russischen Kapazit\u00e4t tr\u00e4gt und Moskau versorgt, und eine prim\u00e4re Destillationseinheit wird stillgelegt, nachdem Drohnen und Flamingo-Marschflugk\u00f6rper kamen, und der Gouverneur meldet den Brand. Der amerikanische Pr\u00e4sident nennt die Wiederaufnahme der Schl\u00e4ge eine Schande, die die Preise hoch halte, und sagt, er sei kein gro\u00dfer Freund des ukrainischen Pr\u00e4sidenten, w\u00e4hrend er Gesch\u00e4fte mit Moskau macht und Diesel aus Russland holt, und w\u00e4hrend die Aufmerksamkeit auf dem Golf liegt. Eine Pause, die als Satz auf einem Bildschirm ankam und von der anderen Seite nicht gehalten wurde, endet als offene Front, die den vierten Winter nicht w\u00e4rmer macht und die Chronik nicht als Witz liest, sondern als den Krieg, der seit Februar 2022 B\u00fccher und D\u00e4cher nimmt, w\u00e4hrend die Unterh\u00e4ndler die Luftabwehr im Gep\u00e4ck hatten und das Treffen verschoben wurde. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>In Br\u00fcssel trifft Selenskyj den ungarischen Premierminister P\u00e9ter Magyar am Rande des europ\u00e4ischen Gipfels zu ihrem ersten offiziellen bilateralen Gespr\u00e4ch, das Jahre der Spannung hinter sich l\u00e4sst und den Weg f\u00fcr weitere Beitrittsgespr\u00e4che \u00f6ffnet. Nachdem das ukrainische Parlament am Montag ein Gesetz \u00fcber die Bildung in Minderheitensprachen verabschiedet und der Pr\u00e4sident es am selben Tag unterzeichnet hat, hebt Ungarn seine Einw\u00e4nde gegen zwei weitere Verhandlungskapitel des Beitrittsprozesses, den Binnenmarkt und die Wettbewerbsf\u00e4higkeit und das inklusive Wachstum. Magyar spricht auf Facebook von einem neuen Fundament f\u00fcr die politischen und wirtschaftlichen Beziehungen, von Solidarit\u00e4t mit der Ukraine gegen die unmenschliche Aggression und von der Bereitschaft, diplomatisch f\u00fcr einen Waffenstillstand und einen dauerhaften Frieden zu helfen. Selenskyj nennt das Treffen sehr gut, dankt f\u00fcr die \u00d6ffnung der Kapitel und sagt, er habe nichts dagegen, Budapest zu besuchen, und die Teams sollen die Daten f\u00fcr gegenseitige Besuche ausarbeiten. Eine T\u00fcr, die Jahre verschlossen war, weil ein Gesetz \u00fcber Schulen die Blockade hob und die Minderheitenrechte st\u00e4rkte, ist kein Frieden. Sie ist der Rand eines Kalenders, der die Beitrittsgespr\u00e4che weitertr\u00e4gt, w\u00e4hrend die Drohnen weiterfliegen und der Winter kommt, und die Chronik h\u00e4lt fest, dass vier von sechs Kapiteln nun offen sind, w\u00e4hrend der Krieg weitergeht und die Raffinerien brennen. <a class=\"src\" href=\"#q6\">6</a></p>\n<h3>III. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu \u00fcberlesen, f\u00e4llt die Abholzung im brasilianischen Amazonas auf den niedrigsten Stand seit 1988 mit Ausnahme des Jahres 2012. Der Umweltminister Jo\u00e3o Paulo Capobianco berichtet von f\u00fcnftausendsiebenhundertsechsundneunzig Quadratkilometern im Jahr bis Juli, und die Zahl steht als Fu\u00dfnote neben den Kriegen, die \u00d6l und D\u00e4cher nehmen. Australien sagt Fidschi maritime Drohnen zu, die mit Sonne, Wind und Wellen betrieben werden und 2027 kommen sollen, f\u00fcr die \u00dcberwachung gegen Drogenhandel und andere grenz\u00fcberschreitende Verbrechen, und die Ausbildung soll folgen. In Peschawar stehen die Familien der Kinder, die unter dem eingest\u00fcrzten Schuldach starben, vor den Beh\u00f6rden und verlangen Gerechtigkeit f\u00fcr die vierunddrei\u00dfig Toten, die meisten unter dreizehn, und f\u00fcr die Lehrerin, die mit ihnen starb. Die gro\u00dfe Politik liebt die B\u00fchne. Das Leben selbst verteilt sich auf die Fu\u00dfnoten, und keine von ihnen f\u00fcllt einen Bus oder \u00f6ffnet eine Enge oder w\u00e4rmt den Winter, und die Chronik h\u00e4lt sie fest, damit sie nicht verloren gehen. <a class=\"src\" href=\"#q7\">7</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral h\u00e4tte, w\u00e4re sie billig. Sie hat keine. Sie hat ein Fass, das die alte Marke ber\u00fchrt, w\u00e4hrend eine Mine einen Rumpf nimmt, den niemand mit einem Namen versieht, und w\u00e4hrend Terminals brennen und Drohnen weiterfliegen. Sie hat eine Stimme, die fertig ist, und eine T\u00fcr, die aufgeht, weil ein Gesetz \u00fcber Schulen die Einw\u00e4nde hob. Sie hat Seeleute, die das Wasser nicht zur\u00fcckgibt, und Kinder, deren Dach fiel, bevor der Unterricht endete, und einen Nachbarn, der die Blockade wechselt, ohne dass der Krieg endet.</p>\n<p>Das Weltbuch legt den Finger zwischen die Seiten, auf denen der Preis die H\u00f6he einer Marke ber\u00fchrt, die man zuletzt im Mai gesehen hatte, und auf denen eine T\u00fcr aufgeht, die Jahre verschlossen war, weil ein Gesetz die Schulen \u00f6ffnete. Es wartet, ob die Enge ein Tor bleibt oder eine Waffe wird, ob die Stimme eine Stra\u00dfe findet oder nur ein weiteres Blatt, das niemand aufschl\u00e4gt, und ob der Nachbar die Uniformen der Blockade wechselt, ohne dass der Krieg den n\u00e4chsten Brief braucht.</p>"
+}
