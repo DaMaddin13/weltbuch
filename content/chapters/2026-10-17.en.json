@@ -1,0 +1,100 @@
+{
+  "date": "2026-10-17",
+  "number": 17,
+  "weekday": "Saturday",
+  "title": "The Price and the Mine",
+  "subtitle": "In which a barrel touches an old mark, a voice ends the pause, and a neighbour opens the door.",
+  "lede": "The seventeenth of October 2026 begins with a price that touches one hundred and ten, while a mine takes a hull in the strait and a door opens in Brussels.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strand A \u00b7 since Feb. 2026",
+      "title": "The Iran War and the Needle\u2019s Eye",
+      "summary": "Attacks at record: 12 ships in a week. GFS Pride sunk. IRGC: mine on supertanker. Brent 109.86. No clause.",
+      "status": "open \u00b7 sharpened"
+    },
+    {
+      "id": "C",
+      "since": "Strand C \u00b7 since 2022",
+      "title": "The Eastern Field",
+      "summary": "Zelenskyy: done, Ryazan hit. Trump: disgrace. Magyar-Zelenskyy: reset, EU chapters open.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Strand H \u00b7 since 3 Oct.",
+      "title": "The Horn Before the City",
+      "summary": "No new growth. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "I",
+      "since": "Strand I \u00b7 since 5 Oct.",
+      "title": "The Urn That Does Not Suffice",
+      "summary": "No growth until the runoff on 25 October. Resting.",
+      "status": "resting"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The man who is done",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Ends the pause, lets Ryazan be struck, and meets the neighbour who opens the door."
+    },
+    {
+      "role": "The man with the post",
+      "name": "Donald Trump",
+      "text": "Calls the resumption a disgrace while the barrel touches the mark."
+    },
+    {
+      "role": "The neighbour who opens the door",
+      "name": "P\u00e9ter Magyar",
+      "text": "Lifts the block after the school law and speaks of a new foundation."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "BBC, 16 Oct. 2026: Record number of ship attacks near Hormuz, oil exports slow.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 16 Oct. 2026: Brent touches $110, closes at 109.86 on Middle East and Russia concerns.",
+      "url": "https://www.reuters.com/business/autos-transportation/oil-edges-down-investors-weigh-possible-us-sanctions-shadow-fleet-2026-10-16/"
+    },
+    {
+      "id": "q3",
+      "text": "Khaleej Times / AFP, 16 Oct. 2026: Coalition intercepts missiles and drones over Riyadh and Yanbu.",
+      "url": "https://www.khaleejtimes.com/world/gulf/saudi-coalition-intercept-missiles-drones-riyadh-oct-16-2026"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 15 Oct. 2026: Zelenskyy ends pause, Ukraine hits Russian refinery in Ryazan.",
+      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-resume-strikes-russian-refineries-ft-reports-2026-10-15/"
+    },
+    {
+      "id": "q5",
+      "text": "The Independent / Reuters, 16 Oct. 2026: Trump calls resumption of strikes a disgrace.",
+      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-trump-putin-zelensky-oil-refinery-starlink-b3067841.html"
+    },
+    {
+      "id": "q6",
+      "text": "Reuters, 16 Oct. 2026: Magyar and Zelenskyy agree to reset ties, Hungary lifts EU block.",
+      "url": "https://www.reuters.com/world/hungary-ukraine-agree-reset-ties-magyar-says-2026-10-16/"
+    },
+    {
+      "id": "q7",
+      "text": "Wikipedia Current Events / AFP, 16 Oct. 2026: Amazon deforestation at low, Australia-Fiji drones.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_16"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-16",
+    "title": "The Sentence That Does Not Hold",
+    "teaser": "An announced silence ends while hulls sink and a roof falls."
+  },
+  "openTomorrow": "Hormuz without signature \u00b7 The eastern field \u00b7 The Horn rests \u00b7 The runoff rests",
+  "body": "<p>There are mornings when the price of a barrel touches the height of a mark last seen in May, while in a strait a guard reports a mine under a hull that no one gives a name, and while in a capital a neighbour lifts the blockade that years had laid over schools. The seventeenth of October 2026 is such a morning. In the Strait of Hormuz traffic remains a fraction of the old level, and reports of attacks reach a height that the British maritime warning has not measured since the war began. In Kyiv the sentence that ended the pause stands, and in Brussels the Hungarian prime minister speaks of a new foundation after the law on minority schools has lifted the objections. The barrel closes at one hundred and nine dollars and eighty-six cents because the clauses remain quiet and the strikes loud, and because the refinery in Ryazan shuts a unit after the drones came. Over the Red Sea the coalition continues to intercept projectiles, and at the Horn the city still stands under its own uniform without a new letter opening the sound. The chronicle does not read the day as a single dispatch but as the pressure that lies on the barrel and on the roofs.</p>\n<h3>I. The Mine That No One Confirms</h3>\n<p>What the sixteenth of October had read as a strait in which six ships counted the day and hulls sank or burned receives on Friday a measure that exceeds the week and that the chronicle does not read as a single report but as the continuation of a series that has held since the end of September. The British maritime warning UKMTO and the BBC analysis count twelve ships that reported attacks between the fifth and the eleventh of October, the highest weekly number since the war began in February, and six of them fell on a single day. The container ship GFS Pride, which sailed under the Singapore flag and carried more than two thousand eight hundred containers, sank after a hit by an unknown projectile on Tuesday, the twenty-one-member crew was evacuated without injury, and containers drifted on the water. Further freighters and tankers took damage to hull and steering, and Iranian places speak of mines that strike ships on unauthorised routes, while the Revolutionary Guards publish footage of a supertanker that catches fire after it is said to have struck a mine. The American side says the shipping lane has been cleared of mines and traffic under escort is rising, yet the independent counts of Kpler and others show that oil exports through the strait have fallen to about nine to twelve million barrels a day, far below the pre-war level of seventeen million, and that only a tenth of the old transits remain visible. Many attacks are not reported at all because the reports are voluntary and most struck ships do not submit them. Brent touches one hundred and ten during trading and closes at one hundred and nine dollars and eighty-six cents, the highest level since the nineteenth of May, while West Texas rises above one hundred and the week ends with a gain of more than ten percent. A barrel that touches the old mark while more oil runs on worse routes, terminals continue to burn and the risk premium lies above twenty dollars is no clause. It is the edge of a calendar leaf that no one signs, and the chronicle does not make a peace on the water from the one report but holds that the strait carries the price as long as the clauses remain quiet. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<p>The Saudi-led coalition intercepts missiles and drones on Friday, among them a ballistic missile over Yanbu, the port on the Red Sea coast that is meant to carry the detour around the strait and at which a large pipeline ends, and further ones over Riyadh and in the south, where three drones and two cruise missiles were destroyed. The series on King Khalid Airport in Riyadh remains the deadliest on Saudi soil in more than a decade, with twenty attacks this month, seventeen dead and more than three hundred wounded, and operations were temporarily suspended so that aircraft had to be diverted. The Houthi spokesman warns again that Saudi airspace and airports are unsafe and excepts the holy cities, while the coalition calls the attacks war crimes and promises a decisive response. A terminal that burns and a palace that was struck the day before and cost five people their lives, among them guards and civilian employees, share the same war that moves its fronts onward until they arrive in passenger lists and on residences, and that carries the price while the clauses remain quiet and the drones continue to fly. <a class=\"src\" href=\"#q3\">3</a></p>\n<blockquote>A barrel that touches the old mark and a hull that goes under share the same pressure. The book does not make a peace on the water from the one report.</blockquote>\n<h3>II. The Voice That Is Done</h3>\n<p>What the twelfth of October had read as a post that called an energy pause at once and arrived without details, and what the sixteenth read as a sentence that did not hold because the other side continued to strike, stands on Friday as a completed gesture that no one takes back and that the chronicle reads as the edge of a screen. Volodymyr Zelenskyy tells the Financial Times that Ukraine had not struck Russian refineries for three days because Washington demanded it, and Russia had continued to strike power plants and houses and had killed more than a hundred civilians in the past week. The block is out. We are done. In the Ryazan region the Rosneft refinery burns, which carries almost five percent of Russian capacity and supplies Moscow, and a primary distillation unit is shut down after drones and Flamingo cruise missiles came, and the governor reports the fire. The American president calls the resumption of the strikes a disgrace that keeps prices high and says he is not a great friend of the Ukrainian president, while he does business with Moscow and fetches diesel from Russia, and while attention lies on the Gulf. A pause that arrived as a sentence on a screen and was not held by the other side ends as an open front that does not make the fourth winter warmer and that the chronicle does not read as a joke but as the war that has taken books and roofs since February 2022, while the negotiators had the air defence in their luggage and the meeting was postponed. <a class=\"src\" href=\"#q4\">4</a> <a class=\"src\" href=\"#q5\">5</a></p>\n<p>In Brussels Zelenskyy meets the Hungarian prime minister P\u00e9ter Magyar on the sidelines of the European summit for their first official bilateral conversation, which leaves years of tension behind and opens the way for further accession talks. After the Ukrainian parliament adopted a law on education in minority languages on Monday and the president signed it the same day, Hungary lifts its objections to two further negotiating chapters of the accession process, the internal market and competitiveness and inclusive growth. Magyar writes on Facebook of a new foundation for the political and economic relations, of solidarity with Ukraine against the inhuman aggression and of the readiness to help diplomatically for a ceasefire and a lasting peace. Zelenskyy calls the meeting very good, thanks for the opening of the chapters and says he has nothing against visiting Budapest, and the teams shall work out the dates for mutual visits. A door that was locked for years because a law on schools lifted the blockade and strengthened minority rights is no peace. It is the edge of a calendar that carries the accession talks onward while the drones continue to fly and the winter comes, and the chronicle holds that four of six chapters are now open while the war continues and the refineries burn. <a class=\"src\" href=\"#q6\">6</a></p>\n<h3>III. What the Book Must Not Conceal</h3>\n<p>At the edge, and therefore easy to overlook, deforestation in the Brazilian Amazon falls to the lowest level since 1988 with the exception of the year 2012. Environment minister Jo\u00e3o Paulo Capobianco reports five thousand seven hundred and ninety-six square kilometres in the year to July, and the number stands as a footnote beside the wars that take oil and roofs. Australia promises Fiji maritime drones that are powered by sun, wind and waves and are to come in 2027, for surveillance against drug trafficking and other cross-border crime, and the training is to follow. In Peshawar the families of the children who died under the collapsed school roof stand before the authorities and demand justice for the thirty-four dead, most of them under thirteen, and for the teacher who died with them. Great politics loves the stage. Life itself distributes itself onto the footnotes, and none of them fills a bus or opens a strait or warms the winter, and the chronicle holds them so that they are not lost. <a class=\"src\" href=\"#q7\">7</a></p>\n<h3>The Chronicler\u2019s Resolution</h3>\n<p>If this story had a moral it would be cheap. It has none. It has a barrel that touches the old mark while a mine takes a hull that no one gives a name and while terminals burn and drones continue to fly. It has a voice that is done and a door that opens because a law on schools lifted the objections. It has sailors whom the water does not return, and children whose roof fell before the lesson ended, and a neighbour who changes the uniforms of the blockade without the war ending.</p>\n<p>The World Book lays the finger between the pages on which the price touches the height of a mark last seen in May and on which a door opens that was locked for years because a law opened the schools. It waits whether the strait remains a gate or becomes a weapon, whether the voice finds a road or only another leaf that no one turns, and whether the neighbour changes the uniforms of the blockade without the war needing the next letter.</p>"
+}
