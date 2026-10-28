@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-28",
+  "number": 18,
+  "weekday": "Mittwoch",
+  "title": "Die Enge, die zählt, und die Urne, die nicht entscheidet",
+  "subtitle": "In dem Schiffe den Atem anhalten, während Stimmen zurückkehren und eine Wahl die Mehrheit verfehlt.",
+  "lede": "Der achtundzwanzigste Oktober 2026 beginnt mit einem Wasser, das nur einen Bruchteil des alten Verkehrs trägt, und mit einer Urne, die keine Seite zur Regierung trägt.",
+  "readMinutes": 9,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Verkehr weiter ~8 % des Normalen. Katar drängt auf Wiedereröffnung und Ende der Drohungen. Vermittlung in Teheran und Moskau. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Selenskyj meldet Rückgewinnung (Op Veles Pipelines). Nordische Anrufe an Putin. Russische Schläge auf Südbrücke Kiew.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Kein neuer Zuwachs. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs nach Stichwahl. Ruht. Schließen vorschlagen.",
+      "status": "ruhend"
+    },
+    {
+      "id": "J",
+      "since": "Strang J · neu",
+      "title": "Die Urne in Jerusalem",
+      "summary": "Wahl 27.10.: Exit-Polls Patt ~51-51. Rekordbeteiligung. Arab-Parteien potenzielle Kingmaker. Auszählung läuft.",
+      "status": "offen · Kapitelanfang"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Vermittler mit der Bedingung",
+      "name": "Ibrahim Al-Hashmi (Katar)",
+      "text": "Verlangt von Iran gute Absichten: Enge öffnen, Drohungen beenden."
+    },
+    {
+      "role": "Der Mann, der zurückholt",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Meldet Stärkung der Front durch Operation Veles und weitere Offensiven."
+    },
+    {
+      "role": "Der Mann mit der knappen Urne",
+      "name": "Benjamin Netanjahu",
+      "text": "Behauptet Anspruch auf Regierung, während die Blöcke die Mehrheit verfehlen."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "hormuz.now, 27./28. Okt. 2026: 5 AIS-sichtbare kommerzielle Durchfahrten am 27., Status Restricted ~8 % des Normalen.",
+      "url": "https://hormuz.now/traffic/2026-10-27"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters, 27. Okt. 2026: Katar sagt, Iran muss gute Absichten zeigen, Enge öffnen und Drohungen stoppen.",
+      "url": "https://www.reuters.com/world/asia-pacific/qatar-says-iran-needs-show-good-intentions-mediation-efforts-succeed-2026-10-27/"
+    },
+    {
+      "id": "q3",
+      "text": "The Guardian, 28. Okt. 2026: Selenskyj meldet Gebietsrückgewinnung, Operation Veles; Nordische Anrufe an Putin; Schläge auf Brücke.",
+      "url": "https://www.theguardian.com/world/2026/oct/28/ukraine-war-briefing-kyiv-retaking-territory-zelenskyy-says-as-nordic-leaders-urge-putin-to-end-the-conflict"
+    },
+    {
+      "id": "q4",
+      "text": "Reuters, 28. Okt. 2026: Israel-Wahl Exit-Polls Patt, Netanjahu vs. Eisenkot, hohe Beteiligung.",
+      "url": "https://www.reuters.com/world/middle-east/netanyahu-eisenkot-stake-rival-claims-lead-israel-after-deadlocked-vote-2026-10-28/"
+    },
+    {
+      "id": "q5",
+      "text": "India Today / IMD, 28. Okt. 2026: Zyklon Arnab Landfall Andhra Pradesh, Böen bis 150 km/h.",
+      "url": "https://www.indiatoday.in/science/story/satellite-spots-cyclone-arnab-covering-half-of-india-as-it-makes-landfall-3026647-2026-10-28"
+    },
+    {
+      "id": "q6",
+      "text": "Al Jazeera / BBC, 27. Okt. 2026: Mindestens 60 orthodoxe Christen in Oromia getötet.",
+      "url": "https://www.aljazeera.com/news/2026/10/27/sixty-christians-killed-in-ethiopias-oromia-region"
+    },
+    {
+      "id": "q7",
+      "text": "Wikipedia Current Events, 27./28. Okt. 2026: Jio IPO, US-Schlag Karibik, Nigeria, China STAR, Haiti-Fluten, Antalya-Tornado.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_October_27"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-17",
+    "title": "Der Preis und die Mine",
+    "teaser": "Ein Fass berührt die alte Marke, während eine Mine einen Rumpf nimmt und eine Tür aufgeht."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift · Das östliche Feld · Das Horn ruht · Die alte Urne ruht · Die Urne in Jerusalem",
+  "body": "<p>Es gibt Morgen, an denen das Wasser einer Enge den Atem anhalten lässt, weil nur noch ein Bruchteil der alten Schiffe den Weg findet, während in einer anderen Stadt die Stimmen, die man gezählt hat, keine Seite über die Schwelle zur Regierung tragen und in einem östlichen Feld die, die den Boden zurückholen wollen, von Pipelines und Luftangriffen sprechen. Der achtundzwanzigste Oktober 2026 ist so ein Morgen. In der Straße von Hormus bleiben die AIS-sichtbaren Durchfahrten bei fünf am Vortag und einem Bruchteil des Vorkriegsstands, und die Vermittler aus Doha fordern, dass Teheran die Enge öffnet und die Drohungen gegen die Golfstaaten beendet, bevor weitere Gespräche tragen können. In Kiew meldet der Präsident, die Front stehe stärker als seit langem, weil Operationen wie Veles die unterirdischen Leitungen gegen die andere Seite gewendet haben, während finnische und norwegische Stimmen den russischen Präsidenten anrufen und über Nacht Iskander die Südbrücke und einen Campus treffen. In Jerusalem zählen die Sender die Urnen und finden die Blöcke bei etwa einundfünfzig Sitzen, weit unter der Zahl, die eine Regierung braucht, und die Beteiligung liegt so hoch wie seit mehr als zwei Jahrzehnten nicht. Am Horn steht die Stadt noch unter der eigenen Uniform ohne neuen Brief, und die alte Urne, die die Stichwahl trug, schweigt. Die Chronik liest den Tag nicht als einzelne Depesche, sondern als den Druck, der auf dem Wasser und auf den Zählungen liegt.</p>\n<h3>I. Die Enge, die weiter zählt</h3>\n<p>Was der siebzehnte Oktober als Preis gelesen hatte, der die Hundertzehn berührte, und als Mine, die einen Rumpf nahm, den niemand mit einem Namen versah, steht am Mittwoch als fortgesetzte Enge, in der die sichtbaren Schiffe den Atem anhalten. Fünf AIS-sichtbare kommerzielle Durchfahrten zählt die unabhängige Aufzeichnung am Dienstag, zwei einwärts, drei auswärts, keine davon Tanker in der Kernzahl, und der Verkehr der vergangenen Woche liegt bei etwa sechs bis sieben pro Tag gegen die vierundachtzig vor der Krise, ein Bruchteil, den die Begleitung der amerikanischen Marine nicht auf den alten Stand hebt. Iranische Stellen sprechen weiter von Genehmigungen und von Minen auf nicht freigegebenen Wegen, während die Bedrohung als schwer gilt und dunkle Fahrten die Zählung unterlaufen. Katar, das mit Pakistan zwischen Washington und Teheran vermittelt, sagt am Dienstag durch seinen Sprecher, dass Iran gute Absichten zeigen müsse: die Drohungen gegen die arabischen Golfstaaten beenden und die Straße von Hormus wieder öffnen, sonst trügen die Vermittlungen nicht. Eine Delegation war zuvor in Teheran, und am selben Tag treffen der emiratische Herrscher und der iranische Präsident am Rande eines Gasforums in Moskau, während am Montag saudische, türkische und pakistanische Vertreter mit iranischen Stellen sprachen. Die Klauseln bleiben leise. Ein Wasser, das nur einen Bruchteil der Schiffe durchlässt, während Vermittler Bedingungen stellen und die Drohnen und Projektile weiterfliegen, ist keine Unterschrift. Es ist der Rand eines Kalenderblatts, das niemand auf dem Tisch liegen lässt, und die Chronik hält fest, dass die Enge den Preis und den Atem trägt, solange die Wiedereröffnung als Forderung und nicht als Tat ankommt. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>Ein Wasser, das den Atem anhalten lässt, und eine Forderung, die die Enge öffnen soll, teilen denselben Druck. Das Buch macht aus der einen Meldung keinen freien Weg.</blockquote>\n<h3>II. Die Stimme, die zurückholt</h3>\n<p>Was der sechzehnte und der siebzehnte Oktober als Satz gelesen hatten, der die Pause beendete und die Raffinerien wieder traf, bekommt am Dienstag und Mittwoch einen Zuwachs, der den Boden und die Rohre nennt. Wolodymyr Selenskyj sagt in seiner nächtlichen Ansprache, die ukrainische Front stehe stärker als seit langem, weil eine Reihe von Offensiven Gebiet zurückgeholt habe. Zum ersten Mal nennt er die Operation Veles, in der die eigenen Truppen unterirdische Gasleitungen im Nordosten bei Kupjansk genutzt haben, um russische Stellungen zu umgehen, nachdem die andere Seite denselben Weg versucht hatte. Er spricht von einem Luftlande-Einsatz im Osten und von der Operation Vivaldi weiter nördlich, die russische Vorstöße verhindern solle. Die Kommandeure, so der Präsident, hätten die technische Wende bestätigt. Zur selben Stunde telefonieren die finnische und die norwegische Führung mit Wladimir Putin und drängen auf ein Ende des Krieges; Selenskyj dankt ihnen für das Briefing und für die Forderung nach realen Deeskalationsschritten bei Energie und Infrastruktur. Über Nacht trifft Russland die Südbrücke in Kiew mit vier Iskander-Raketen, so eine militärische Quelle, und beschädigt einen Universitätscampus; der Präsident nennt es eine ernsthafte Eskalation gegen die Logistik, und Energieanlagen sowie Infrastruktur in zehn weiteren Regionen werden getroffen. Eine Stimme, die den Boden zurückholt und die Rohre wendet, während die Brücke getroffen wird und die Anrufe aus dem Norden die Forderung nach dem Ende tragen, ist kein Waffenstillstand. Sie ist der Rand eines Winters, der den vierten nicht wärmer macht, und die Chronik hält fest, dass die Front stärker gemeldet wird, während die Schläge die Wege nehmen, die die Stadt teilen. <a class=\"src\" href=\"#q3\">3</a></p>\n<h3>III. Die Urne, die nicht entscheidet</h3>\n<p>Am Dienstag gehen die Wähler in Israel zur Urne, und die Beteiligung erreicht siebenundsiebzig Komma sieben Prozent, den höchsten Stand seit mehr als zwei Jahrzehnten. Die Exit-Polls der großen Sender zeigen die Blöcke bei etwa einundfünfzig Sitzen für den um Netanjahu und einundfünfzig für den um Gadi Eisenkot, oder in einer Variante zweiundfünfzig gegen neunundvierzig, weit unter den einundsechzig, die eine Mehrheit in der Knesset brauchen. Likud bleibt die größte Einzelpartei mit etwa siebenundzwanzig Sitzen, Eisenkots Yashar folgt mit einundzwanzig bis dreiundzwanzig, und die arabischen Listen gewinnen stark, bis zu achtzehn Sitze, und werden als mögliche Kingmaker genannt. Netanjahu spricht von einer rechten Regierung und von einem Anspruch, Eisenkot sagt, die Wähler hätten den langjährigen Premier abgelehnt, doch keiner der Sätze füllt die fehlenden Sitze. Die Auszählung läuft, die endgültigen Zahlen kommen in den nächsten Tagen, und die Verhandlungen, die folgen, können Wochen oder Monate dauern oder zu einer weiteren Wahl führen. Eine Urne, die die Mehrheit verfehlt und die arabischen Stimmen in die Mitte der Arithmetik stellt, ist kein klarer Auftrag. Sie ist der Rand eines Kalenders, der die alte Koalition nicht wiederherstellt und die neue nicht sofort formt, und die Chronik hält fest, dass die Beteiligung hoch lag, während die Blöcke die Schwelle nicht überschritten. <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>IV. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu überlesen, macht der sehr schwere Zyklon Arnab Landfall an der Küste von Andhra Pradesh und Yanam, mit nachhaltigen Winden von hundertfünfundzwanzig bis hundertfünfunddreißig Kilometern und Böen bis hundertfünfzig. Die Behörden hatten nahezu hunderttausend Menschen zur Evakuierung aufgerufen, Züge wurden gestrichen, Schulen geschlossen, und der Sturm zieht ins Land, während die Wolkenbänder den Satellitenbildern nach weit reichen. In Oromia, der größten Region Äthiopiens, meldet die orthodoxe Kirche mindestens sechzig getötete Christen in zwei Angriffen am zwanzigsten und vierundzwanzigsten Oktober in der Arsi-Zone; Häuser brannten, Verletzte wurden gezählt, und die Verantwortung wird einer Rebellenallianz zugeschrieben, die die Vorwürfe nicht bestätigt hat. Jio Platforms nimmt mit drei Komma zwei Milliarden Dollar das größte Börsendebüt Indiens ein und zieht enorme Gebote. Ein amerikanischer Schlag trifft ein mutmaßliches Drogenboot in der Karibik und tötet fünf. In Nigeria steigt die Zahl der Toten eines Massakers in Taraba auf zweiundsechzig. Der STAR-Markt in Shanghai verliert vierzig Prozent in weniger als vier Monaten. Fluten in Haiti und der Dominikanischen Republik fordern Tote, ein Tornado in Antalya tötet Bauarbeiter. Die große Politik liebt die Bühne. Das Leben selbst verteilt sich auf die Fußnoten, und keine von ihnen öffnet die Enge oder füllt die fehlenden Sitze oder wärmt den Winter. <a class=\"src\" href=\"#q5\">5</a> <a class=\"src\" href=\"#q6\">6</a> <a class=\"src\" href=\"#q7\">7</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral hätte, wäre sie billig. Sie hat keine. Sie hat ein Wasser, das den Atem anhalten lässt, während Vermittler die Wiedereröffnung fordern und die sichtbaren Schiffe bei einem Bruchteil bleiben. Sie hat eine Stimme, die den Boden und die Rohre zurückholt, und eine Brücke, die getroffen wird. Sie hat eine Urne, die die Mehrheit verfehlt und die arabischen Listen in die Mitte stellt, und Seeleute und Zivilisten, deren Namen die Chronik nicht füllt.</p>\n<p>Das Weltbuch legt den Finger auf die Enge, in der der Atem stockt, und auf die Urne, die keine Seite über die Schwelle trägt. Es wartet, ob die Forderung die Schiffe wieder durchlässt oder nur ein weiteres Blatt bleibt, das niemand unterschreibt, ob die Stimme im Nordosten eine Straße findet oder nur weitere Rohre braucht, und ob die Zählung in Jerusalem eine Regierung formt oder die nächste Urne verlangt.</p>"
+}
