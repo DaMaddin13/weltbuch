@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-11",
+  "number": 19,
+  "weekday": "Mittwoch",
+  "title": "Der Atem in der Enge und die Tische im Sand",
+  "subtitle": "In dem das Wasser weiter den Atem anhält, während in der Wüste Tische aufgehen und die Urnen schweigen.",
+  "lede": "Der elfte November 2026 beginnt mit einem Wasser, das nur einen Bruchteil der alten Schiffe durchlässt, und mit Tischen in Abu Dhabi, an denen die Gespräche wieder sitzen, ohne dass die Fronten aufhören.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Verkehr weiter ~8 % des Normalen (4 Durchfahrten 10.11., 1 am 11.). Trump: militärisch effektiv vorbei, weitere Angriffe höchst unwahrscheinlich, Status quo auf Wunsch der Nachbarn. Vermittlung läuft. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Dritte Runde US-vermittelter Gespräche in Abu Dhabi beginnt (humanitär, Gefangene, Garantien). Fortsetzung 11.11. Kämpfe und Schläge laufen weiter.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Kein neuer Zuwachs. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs. Ruht. Schließen vorschlagen.",
+      "status": "ruhend"
+    },
+    {
+      "id": "J",
+      "since": "Strang J · seit 27. Okt.",
+      "title": "Die Urne in Jerusalem",
+      "summary": "Kein neuer Zuwachs im Fenster. Ruht.",
+      "status": "ruhend"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Hausherr, der den Status quo hält",
+      "name": "Donald Trump",
+      "text": "Nennt den Krieg militärisch effektiv vorbei und weitere Angriffe höchst unwahrscheinlich, während die Enge weiter den Atem anhält."
+    },
+    {
+      "role": "Die Stimme am Tisch",
+      "name": "Rustem Umerov",
+      "text": "Führt die ukrainische Delegation in Abu Dhabi und nennt die Prioritäten: Ende der Feindseligkeiten, Garantien, Wiederaufbau, Humanitäres."
+    },
+    {
+      "role": "Der Vermittler aus Doha",
+      "name": "Scheich Mohammed bin Abdulrahman Al Thani",
+      "text": "Trifft Trump; Katar bleibt im Spiel zwischen Washington und Teheran."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "hormuz.now, 10./11. Nov. 2026: 4 AIS-sichtbare kommerzielle Durchfahrten am 10., Status Restricted ~8 % des Normalen; 1 am 11. so far.",
+      "url": "https://hormuz.now/traffic/2026-11-10"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 10. Nov. 2026: Trump sagt, Iran militärisch effektiv vorbei, weitere Angriffe höchst unwahrscheinlich nach Treffen mit Katar-PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
+    },
+    {
+      "id": "q3",
+      "text": "Wikipedia Current Events / AP / Guardian, 10. Nov. 2026: Dritte Runde US-vermittelter Gespräche Ukraine-Russland in Abu Dhabi beginnt.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10"
+    },
+    {
+      "id": "q4",
+      "text": "Kyiv Independent / Nikkei, 10. Nov. 2026: Gespräche in Abu Dhabi, erste Session ~4 Stunden, Fortsetzung 11.11.; Kämpfe laufen weiter.",
+      "url": "https://www.kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
+    },
+    {
+      "id": "q5",
+      "text": "Wikipedia Current Events 10. Nov. 2026: Randereignisse (Kraków, Paraguay, Unfälle, FDA, Kenia u. a.).",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-28",
+    "title": "Die Enge, die zählt, und die Urne, die nicht entscheidet",
+    "teaser": "Ein Wasser hält den Atem an, während Stimmen zurückkehren und eine Wahl die Mehrheit verfehlt."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift · Das östliche Feld · Das Horn ruht · Die alte Urne ruht · Die Urne in Jerusalem ruht",
+  "body": "<p>Es gibt Morgen, an denen das Wasser einer Enge den Atem noch immer anhält, weil nur ein Bruchteil der Schiffe den alten Weg findet, während in einer Wüstenstadt Tische aufgehen, an denen Delegierte sitzen, die seit Monaten nicht mehr gemeinsam an einem Tisch gesessen haben, und während die Urnen, die man vor Wochen gezählt hat, weiter schweigen. Der elfte November 2026 ist so ein Morgen. In der Straße von Hormus bleiben die AIS-sichtbaren Durchfahrten bei vier am Vortag und einem einzelnen Schiff am heutigen Tag bisher, ein Bruchteil des Vorkriegsstands von über achtzig, und der amerikanische Präsident sagt nach dem Treffen mit dem katarischen Premierminister, der Krieg sei militärisch effektiv vorbei und weitere Angriffe höchst unwahrscheinlich, man halte den Status quo auf Wunsch der Nachbarn, bleibe aber locked and loaded, falls sich etwas ändere. In Abu Dhabi beginnt die dritte Runde der von Washington vermittelten Gespräche zwischen ukrainischen und russischen Delegierten, die humanitäre Fragen, Gefangene und Sicherheitsgarantien in den Blick nehmen, nachdem man zuvor mit europäischen Partnern gesprochen hat; die erste Sitzung dauert fast vier Stunden und wird als konstruktiv beschrieben, die nächste folgt am selben Tag. Die Fronten im Osten hören nicht auf: über hundertfünfzig Zusammenstöße am Vortag, Schläge auf Infrastruktur und Siedlungen, Tote und Verletzte, darunter ein Kind. Am Horn steht die Stadt noch unter der eigenen Uniform ohne neuen Brief, die alte Urne, die die Stichwahl trug, schweigt, und die Urne in Jerusalem, deren Blöcke die Mehrheit verfehlten, bleibt ohne neuen Zuwachs im Fenster. Die Chronik liest den Tag nicht als einzelne Depesche, sondern als den Druck, der auf dem Wasser und auf den Tischen liegt, während die Zählungen ruhen.</p>\n<h3>I. Der Atem, der nicht frei wird</h3>\n<p>Was der achtundzwanzigste Oktober als Enge gelesen hatte, in der fünf sichtbare Schiffe den Tag zählten und Vermittler die Wiedereröffnung forderten, steht am Dienstag und Mittwoch als fortgesetzte Beschränkung, die der Kalender nicht löst. Vier AIS-sichtbare kommerzielle Durchfahrten zählt die unabhängige Aufzeichnung am zehnten November, zwei einwärts, zwei auswärts, keine Tanker in der Kernzahl, und am elften bisher eines; der Sieben-Tage-Schnitt liegt bei unter sieben pro Tag gegen die vierundachtzig vor der Krise, ein Bruchteil, den die Begleitung der amerikanischen Marine nicht auf den alten Stand hebt. Iranische Stellen sprechen weiter von Genehmigungen und von zerstörten Navigationshilfen, während die Bedrohung als schwer gilt und dunkle Fahrten die Zählung unterlaufen. Der amerikanische Präsident trifft den katarischen Premierminister, der zwischen den Seiten vermittelt, und sagt anschließend, Iran sei militärisch effektiv vorbei, man halte den Status quo auf Wunsch der Nachbarn, weitere große Angriffe seien höchst unwahrscheinlich, die Vereinigten Staaten blieben aber locked and loaded. Positive Momentum, so die Formulierung, ohne dass eine Klausel auf dem Tisch liegt, die die Schiffe wieder durchlässt. Ein Wasser, das den Atem anhalten lässt, während der Hausherr den Krieg für militärisch beendet erklärt und die Vermittler weiter Bedingungen stellen, ist keine Unterschrift. Es ist der Rand eines Kalenderblatts, das niemand auf dem Tisch liegen lässt, und die Chronik hält fest, dass die Enge den Preis und den Atem trägt, solange die Wiedereröffnung als Aussage und nicht als Tat ankommt. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>Ein Wasser, das den Atem anhalten lässt, und ein Satz, der den Krieg für beendet erklärt, teilen denselben Druck. Das Buch macht aus der einen Meldung keinen freien Weg.</blockquote>\n<h3>II. Die Tische, die wieder sitzen</h3>\n<p>Was die vorangegangenen Kapitel als fortlaufenden Krieg gelesen hatten, der Bücher und Dächer und Pipelines nimmt, bekommt am Dienstag einen Zuwachs, der die Gespräche wieder an einen Tisch bringt, ohne dass die Schläge aufhören. In Abu Dhabi beginnt die dritte Runde der von den Vereinigten Staaten vermittelten trilateralen Gespräche zwischen ukrainischen und russischen Delegierten, die erste seit dem Februar; zuvor treffen die amerikanische und die ukrainische Seite mit Vertretern Frankreichs, Deutschlands, Italiens, Großbritanniens, der Europäischen Kommission und der NATO. Die Agenda nennt humanitäre Auswirkungen, Kriegsgefangene und Sicherheitsgarantien; die ukrainische Seite, geführt von Rustem Umerov, nennt als Prioritäten das Ende der Feindseligkeiten, belastbare Garantien nach dem Krieg, den wirtschaftlichen Wiederaufbau und humanitäre Maßnahmen. Die erste Sitzung dauert fast vier Stunden; amerikanische Stimmen nennen sie sehr produktiv, die ukrainische Seite konstruktiv und substanziell. Eine weitere Runde folgt am Mittwoch. Gleichzeitig melden die Generalstäbe weiter über hundertfünfzig Zusammenstöße am Vortag, Angriffe auf Energieanlagen und Siedlungen, Tote und Verletzte, darunter ein einjähriges Kind, und der Präsident spricht davon, dass die andere Seite die Ukraine entlang des Dnipro teilen wolle. Eine Tabelle, an der man wieder sitzt und von Garantien und Gefangenen spricht, während die Drohnen weiterfliegen und die Fronten nicht stillstehen, ist kein Waffenstillstand. Sie ist der Rand eines Winters, der den fünften nicht wärmer macht, und die Chronik hält fest, dass die Gespräche wieder geöffnet sind, während die Schläge die Wege nehmen, die die Städte und die Netze teilen. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>III. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu überlesen, sterben sechs Menschen bei einer Massenschießerei auf dem Hauptplatz von Kraków, sechzehn weitere werden verletzt. In Paraguay wird der Präsident im Zuge einer Bankenkrise um Ueno Bank amtiert, verhaftet und durch den Vizepräsidenten ersetzt. Ein Unfall mit über achtzig Fahrzeugen auf einer Autobahn in Bulgarien fordert elf Tote und viele Verletzte; in Kambodscha stürzt ein Schulbus in einen Teich und tötet fünf Schülerinnen. Die amerikanische Arzneimittelbehörde verlangt Warnhinweise auf GLP-1-Mitteln wegen eines Risikos für eine Sehnervenerkrankung. In Kenia töten mutmaßliche al-Shabaab-Kämpfer mindestens acht Menschen nahe der Grenze zu Somalia. Ein Militärgericht in Goma verurteilt sechsundsechzig Soldaten zum Tode. Die große Politik liebt die Bühne. Das Leben selbst verteilt sich auf die Fußnoten, und keine von ihnen öffnet die Enge oder füllt die fehlenden Sitze oder wärmt den Winter. <a class=\"src\" href=\"#q5\">5</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral hätte, wäre sie billig. Sie hat keine. Sie hat ein Wasser, das den Atem anhalten lässt, während der Hausherr den Krieg für militärisch beendet erklärt und die Vermittler weiter sprechen. Sie hat Tische in der Wüste, an denen man wieder sitzt und von Garantien und Gefangenen redet, und Fronten, die nicht stillstehen. Sie hat Urnen, die schweigen, und Seeleute und Zivilisten, deren Namen die Chronik nicht füllt.</p>\n<p>Das Weltbuch legt den Finger auf die Enge, in der der Atem stockt, und auf die Tische, an denen die Gespräche wieder Platz genommen haben. Es wartet, ob der Status quo die Schiffe wieder durchlässt oder nur ein weiteres Blatt bleibt, das niemand unterschreibt, ob die Stimmen in Abu Dhabi eine Straße finden oder nur weitere Runden brauchen, und ob die ruhenden Urnen irgendwann eine Regierung formen oder die nächste Zählung verlangen.</p>"
+}

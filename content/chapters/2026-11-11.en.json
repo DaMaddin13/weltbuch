@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-11",
+  "number": 19,
+  "weekday": "Wednesday",
+  "title": "The Breath in the Strait and the Tables in the Sand",
+  "subtitle": "In which the water still holds its breath while tables open in the desert and the urns stay silent.",
+  "lede": "The eleventh of November 2026 begins with a water that lets through only a fraction of the old ships, and with tables in Abu Dhabi where talks sit again without the fronts going quiet.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strand A · since Feb. 2026",
+      "title": "The Iran War and the Needle’s Eye",
+      "summary": "Traffic still ~8 % of normal (4 crossings on 10 Nov, 1 so far on 11). Trump: militarily effectively over, further attacks highly unlikely, status quo at neighbours’ request. Mediation continues. No clause.",
+      "status": "open · intensified"
+    },
+    {
+      "id": "C",
+      "since": "Strand C · since 2022",
+      "title": "The Eastern Field",
+      "summary": "Third round of US-mediated talks opens in Abu Dhabi (humanitarian, prisoners, guarantees). Continues 11 Nov. Fighting and strikes continue.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Strand H · since 3 Oct.",
+      "title": "The Horn before the City",
+      "summary": "No new growth. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "I",
+      "since": "Strand I · since 5 Oct.",
+      "title": "The Urn That Does Not Suffice",
+      "summary": "No growth. Resting. Suggest closing.",
+      "status": "resting"
+    },
+    {
+      "id": "J",
+      "since": "Strand J · since 27 Oct.",
+      "title": "The Urn in Jerusalem",
+      "summary": "No new growth in the window. Resting.",
+      "status": "resting"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The host who keeps the status quo",
+      "name": "Donald Trump",
+      "text": "Calls the war militarily effectively over and further attacks highly unlikely while the strait still holds its breath."
+    },
+    {
+      "role": "The voice at the table",
+      "name": "Rustem Umerov",
+      "text": "Leads the Ukrainian delegation in Abu Dhabi and names the priorities: end of hostilities, guarantees, reconstruction, humanitarian."
+    },
+    {
+      "role": "The mediator from Doha",
+      "name": "Sheikh Mohammed bin Abdulrahman Al Thani",
+      "text": "Meets Trump; Qatar remains in play between Washington and Tehran."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "hormuz.now, 10/11 Nov 2026: 4 AIS-visible commercial crossings on the 10th, status Restricted ~8 % of normal; 1 so far on the 11th.",
+      "url": "https://hormuz.now/traffic/2026-11-10"
+    },
+    {
+      "id": "q2",
+      "text": "BBC, 10 Nov 2026: Trump says Iran militarily effectively over, further attacks highly unlikely after meeting Qatari PM.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o"
+    },
+    {
+      "id": "q3",
+      "text": "Wikipedia Current Events / AP / Guardian, 10 Nov 2026: Third round of US-mediated Ukraine-Russia talks begins in Abu Dhabi.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10"
+    },
+    {
+      "id": "q4",
+      "text": "Kyiv Independent / Nikkei, 10 Nov 2026: Talks in Abu Dhabi, first session ~4 hours, continues 11 Nov; fighting continues.",
+      "url": "https://www.kyivindependent.com/ukraine-russia-us-resume-trilateral-peace-talks-in-abu-dhabi-after-9-month-pause/"
+    },
+    {
+      "id": "q5",
+      "text": "Wikipedia Current Events 10 Nov 2026: edge events (Kraków, Paraguay, accidents, FDA, Kenya etc.).",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_10"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-10-28",
+    "title": "The Strait That Counts and the Urn That Does Not Decide",
+    "teaser": "A water holds its breath while voices return and a vote misses the majority."
+  },
+  "openTomorrow": "Hormuz without a signature · The eastern field · The Horn rests · The old urn rests · The urn in Jerusalem rests",
+  "body": "<p>There are mornings when the water of a strait still holds its breath because only a fraction of the ships find the old way, while in a desert city tables open at which delegates sit who have not sat together for months, and while the urns counted weeks ago continue to stay silent. The eleventh of November 2026 is such a morning. In the Strait of Hormuz the AIS-visible crossings remain at four the day before and a single ship so far today, a fraction of the pre-war average above eighty, and the American president, after meeting the Qatari prime minister, says the war is militarily effectively over and further attacks highly unlikely, that the status quo is being kept at the neighbours’ request, yet that the United States remains locked and loaded should anything change. In Abu Dhabi the third round of talks mediated by Washington between Ukrainian and Russian delegates begins, looking at humanitarian questions, prisoners and security guarantees, after earlier meetings with European partners; the first session lasts nearly four hours and is described as constructive, the next follows the same day. The fronts in the east do not stop: more than a hundred and fifty clashes the day before, strikes on infrastructure and settlements, dead and injured, among them a child. At the Horn the city still stands under its own uniform without a new letter, the old urn that carried the runoff stays silent, and the urn in Jerusalem, whose blocs missed the majority, shows no new growth in the window. The chronicle does not read the day as a single dispatch, but as the pressure that lies on the water and on the tables while the counts rest.</p>\n<h3>I. The breath that does not free itself</h3>\n<p>What the twenty-eighth of October had read as a strait in which five visible ships counted the day and mediators demanded reopening stands on Tuesday and Wednesday as a continued restriction the calendar does not resolve. Four AIS-visible commercial crossings are counted by the independent record on the tenth of November, two inbound, two outbound, no tankers in the core figure, and one so far on the eleventh; the seven-day average sits below seven a day against the eighty-four before the crisis, a fraction the escort of the American navy does not lift back to the old level. Iranian statements continue to speak of permits and of destroyed navigational aids, while the threat is rated severe and dark sailings undercut the count. The American president meets the Qatari prime minister who mediates between the sides and afterwards says Iran is militarily effectively over, that the status quo is being held at the neighbours’ request, that further major attacks are highly unlikely, yet that the United States remains locked and loaded. Positive momentum, the phrasing runs, without a clause on the table that lets the ships through again. A water that holds its breath while the host declares the war militarily ended and the mediators continue to set conditions is no signature. It is the edge of a calendar leaf that no one leaves lying on the table, and the chronicle holds that the strait carries the price and the breath as long as reopening arrives as a statement rather than an act. <a class=\"src\" href=\"#q1\">1</a> <a class=\"src\" href=\"#q2\">2</a></p>\n<blockquote>A water that holds its breath and a sentence that declares the war ended share the same pressure. The book does not make a free passage out of the single report.</blockquote>\n<h3>II. The tables that sit again</h3>\n<p>What the preceding chapters had read as an ongoing war that takes books and roofs and pipelines receives on Tuesday a growth that brings the talks back to a table without the strikes stopping. In Abu Dhabi the third round of trilateral talks mediated by the United States between Ukrainian and Russian delegates begins, the first since February; beforehand the American and Ukrainian sides meet with representatives of France, Germany, Italy, Britain, the European Commission and NATO. The agenda names humanitarian effects, prisoners of war and security guarantees; the Ukrainian side, led by Rustem Umerov, lists as priorities the end of hostilities, reliable post-war guarantees, economic reconstruction and humanitarian measures. The first session lasts nearly four hours; American voices call it very productive, the Ukrainian side constructive and substantive. Another round follows on Wednesday. At the same time the general staffs continue to report more than a hundred and fifty clashes the day before, attacks on energy facilities and settlements, dead and injured, among them a one-year-old child, and the president speaks of the other side wanting to divide Ukraine along the Dnipro. A table at which people sit again and speak of guarantees and prisoners while the drones keep flying and the fronts do not stand still is no ceasefire. It is the edge of a winter that does not make the fifth one warmer, and the chronicle holds that the talks have reopened while the strikes take the ways that divide the cities and the grids. <a class=\"src\" href=\"#q3\">3</a> <a class=\"src\" href=\"#q4\">4</a></p>\n<h3>III. What the book must not conceal</h3>\n<p>At the edge, and therefore easy to overlook, six people die in a mass shooting on the main square of Kraków, sixteen more are injured. In Paraguay the president is impeached, arrested and replaced by the vice-president amid a banking crisis involving Ueno Bank. An accident involving more than eighty vehicles on a motorway in Bulgaria claims eleven dead and many injured; in Cambodia a school bus plunges into a pond and kills five schoolgirls. The American drug authority requires warnings on GLP-1 medicines because of a risk of an optic-nerve disorder. In Kenya suspected al-Shabaab fighters kill at least eight people near the border with Somalia. A military court in Goma sentences sixty-six soldiers to death. Great politics loves the stage. Life itself distributes itself across the footnotes, and none of them opens the strait or fills the missing seats or warms the winter. <a class=\"src\" href=\"#q5\">5</a></p>\n<h3>The chronicler’s resolution</h3>\n<p>If this story had a moral it would be cheap. It has none. It has a water that holds its breath while the host declares the war militarily ended and the mediators continue to speak. It has tables in the desert at which people sit again and talk of guarantees and prisoners, and fronts that do not stand still. It has urns that stay silent, and seafarers and civilians whose names the chronicle does not fill.</p>\n<p>The world book places its finger on the strait in which the breath catches, and on the tables at which the talks have taken their seats again. It waits whether the status quo lets the ships through once more or remains only another leaf that no one signs, whether the voices in Abu Dhabi find a road or only need further rounds, and whether the resting urns one day form a government or demand the next count.</p>"
+}
