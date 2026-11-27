@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-27",
+  "number": 20,
+  "weekday": "Freitag",
+  "title": "Das Wasser, das weiter stockt, und die Stimmen, die den nächsten Schlag nennen",
+  "subtitle": "In dem die Enge nur zwei Schiffe durchlässt, während in Kuwait Techniker fallen und im Osten eine Warnung und ein Appell denselben Tag teilen.",
+  "lede": "Der siebenundzwanzigste November 2026 beginnt mit einem Wasser, das den Atem weiter anhält, und mit einer Warnung, die den nächsten Massenschlag schon vor dem Morgen nennt.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Strang A · seit Feb. 2026",
+      "title": "Der Iran-Krieg und das Nadelöhr",
+      "summary": "Verkehr weiter Bruchteil (2 AIS-Durchfahrten 26.11., beide outbound Tanker; 7-Tage ~6–7 vs. ~85). Kuwait: Drohnenangriff tötet zwei italienische Rheinmetall-Techniker; Iran bestreitet. Saudi zerstört 50 Houthi-Ziele nach Angriffen u. a. auf Ras Tanura. Keine Klausel.",
+      "status": "offen · verschärft"
+    },
+    {
+      "id": "C",
+      "since": "Strang C · seit 2022",
+      "title": "Das östliche Feld",
+      "summary": "Selenskyj warnt vor bevorstehendem Massenschlag. Trump: hat Putin zu Rückzug der Aggression in Europa gedrängt, hofft auf schnellen Deal; G20-Einladung offen. Kämpfe laufen weiter.",
+      "status": "andauernd"
+    },
+    {
+      "id": "H",
+      "since": "Strang H · seit 3. Okt.",
+      "title": "Das Horn vor der Stadt",
+      "summary": "Kein neuer Zuwachs. Ruht.",
+      "status": "ruhend"
+    },
+    {
+      "id": "I",
+      "since": "Strang I · seit 5. Okt.",
+      "title": "Die Urne, die nicht reicht",
+      "summary": "Kein Zuwachs. Ruht. Schließen vorschlagen.",
+      "status": "ruhend"
+    },
+    {
+      "id": "J",
+      "since": "Strang J · seit 27. Okt.",
+      "title": "Die Urne in Jerusalem",
+      "summary": "Kein neuer Zuwachs im Fenster. Ruht.",
+      "status": "ruhend"
+    }
+  ],
+  "figures": [
+    {
+      "role": "Der Hausherr, der den Appell setzt",
+      "name": "Donald Trump",
+      "text": "Sagt, er habe Putin zu einem Rückzug der militärischen Aggression in Europa gedrängt und hoffe auf einen schnellen Deal, während die Schläge weiterlaufen."
+    },
+    {
+      "role": "Die Stimme, die den Schlag nennt",
+      "name": "Wolodymyr Selenskyj",
+      "text": "Warnt vor einem bevorstehenden Massenschlag und kündigt an, was getroffen wird, werde wiederaufgebaut und erwidert."
+    },
+    {
+      "role": "Die Techniker in der Enge",
+      "name": "Zwei italienische Rheinmetall-Mitarbeiter",
+      "text": "Fallen bei einem Drohnenangriff in Kuwait, den Kuwait und Italien Iran zuschreiben und den Teheran bestreitet."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "hormuz.now, 26./27. Nov. 2026: 2 AIS-sichtbare kommerzielle Durchfahrten am 26. (beide outbound Tanker), 0 bisher am 27.; Status Restricted, 7-Tage-Schnitt ~6–7 vs. ~85 vor Krise.",
+      "url": "https://hormuz.now/traffic/2026-11-26"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters / BBC, 26. Nov. 2026: Zwei italienische Rheinmetall-Techniker in Kuwait bei Drohnenangriff getötet; Kuwait und Italien geben Iran die Schuld, Teheran bestreitet.",
+      "url": "https://www.reuters.com/world/middle-east/two-italian-workers-killed-iranian-strike-kuwait-source-says-2026-11-26/"
+    },
+    {
+      "id": "q3",
+      "text": "Wikipedia Current Events / CNN / AFP, 26. Nov. 2026: Saudi zerstört 50 Houthi-Ziele; Houthis hatten zuvor u. a. Ras Tanura getroffen.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_26"
+    },
+    {
+      "id": "q4",
+      "text": "Al Jazeera / Independent, 26./27. Nov. 2026: Selenskyj warnt vor Massenschlag; Trump sagt, er habe Putin zu Rückzug der Aggression in Europa gedrängt, hofft auf schnellen Deal, G20 offen.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+    },
+    {
+      "id": "q5",
+      "text": "Wikipedia Current Events 26./27. Nov. 2026: NZ-Sonderstimmen, ECB-Präsident, Lukoil-Vermögen, Bangladesh, Tanker Ibiza, Niger, u. a.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_26"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-11-11",
+    "title": "Der Atem in der Enge und die Tische im Sand",
+    "teaser": "Ein Wasser hält den Atem an, während in der Wüste Tische aufgehen und die Urnen schweigen."
+  },
+  "openTomorrow": "Hormus ohne Unterschrift · Das östliche Feld · Das Horn ruht · Die alte Urne (schließen?) · Die Urne in Jerusalem ruht",
+  "body": "<p>Es gibt Morgen, an denen das Wasser einer Enge den Atem weiter anhält, weil nur noch zwei sichtbare Schiffe den alten Weg finden, beide auf dem Weg hinaus, während in einem Nachbarland Techniker fallen, die an Abwehrsystemen gearbeitet haben, und während im Osten eine Stimme den nächsten Massenschlag schon vor dem Morgen nennt und eine andere den Rückzug der Aggression verlangt, ohne dass die Fronten stillstehen. Der siebenundzwanzigste November 2026 ist so ein Morgen. In der Straße von Hormus bleiben die AIS-sichtbaren Durchfahrten bei zwei am Vortag, beide Tanker auf dem Weg in den Golf von Oman, und am heutigen Tag bisher keines; der Sieben-Tage-Schnitt liegt weiter bei unter sieben gegen die fünfundachtzig vor der Krise, ein Bruchteil, den keine Begleitung und keine Aussage auf den alten Stand hebt. In Kuwait trifft ein Drohnenangriff eine Anlage, an der italienische Techniker für Rheinmetall an Abwehrsystemen arbeiten; zwei von ihnen sterben, Kuwait und Italien geben Iran die Schuld, Teheran bestreitet jede Offensive und nennt den Vorfall verdächtig. Zur selben Stunde meldet Saudi-Arabien die Zerstörung von fünfzig Houthi-Zielen in Sanaa, Hudaydah und Saada, nachdem die andere Seite zuvor unter anderem das Ölterminal Ras Tanura getroffen hatte und Rauch über dem Wasser stand. Im Osten warnt der ukrainische Präsident vor einem bevorstehenden Massenschlag und fordert Aufmerksamkeit für die Alarme; der amerikanische Präsident sagt, er habe in Gesprächen mit Putin den Rückzug der militärischen Aggression gegen europäische Gebiete verlangt, in der Hoffnung, dass ein Deal schnell geschlossen werden könne, und hält die Tür zur G20 offen. Am Horn steht die Stadt noch unter der eigenen Uniform ohne neuen Brief, die alte Urne, die die Stichwahl trug, schweigt, und die Urne in Jerusalem, deren Blöcke die Mehrheit verfehlten, bleibt ohne neuen Zuwachs im Fenster. Die Chronik liest den Tag nicht als einzelne Depesche, sondern als den Druck, der auf dem Wasser und auf den Warnungen liegt, während die Zählungen ruhen.</p>\n<h3>I. Das Wasser, das weiter stockt</h3>\n<p>Was der elfte November als Enge gelesen hatte, in der vier sichtbare Schiffe den Vortag zählten und eines den Morgen, und in der der Hausherr den Krieg für militärisch effektiv beendet erklärte, während die Vermittler weiter sprachen, steht am Freitag als fortgesetzte Beschränkung, die der Kalender nicht löst und die der neue Schlag in Kuwait noch enger macht. Zwei AIS-sichtbare kommerzielle Durchfahrten zählt die unabhängige Aufzeichnung am sechsundzwanzigsten November, beide auswärts, beide Tanker, keine einwärts, und am siebenundzwanzigsten bisher keines; der Verkehr der vergangenen Woche liegt weiter bei etwa sechs bis sieben pro Tag gegen die fünfundachtzig vor der Krise, ein Bruchteil, den die Begleitung der amerikanischen Marine nicht auf den alten Stand hebt und den dunkle Fahrten und die Bedrohung als schwer weiter unterlaufen. Iranische Stellen sprechen weiter von Genehmigungen und von zerstörten Navigationshilfen, während die sichtbaren Schiffe den Atem anhalten und der Preis auf dem Wasser bleibt. Zur selben Stunde trifft ein Drohnenangriff in Kuwait eine Anlage, an der zwei italienische Techniker für die deutsche Rüstungsfirma Rheinmetall an Abwehrsystemen arbeiten; sie sterben, ein kuwaitischer und ein pakistanischer Verletzter werden gezählt, und die Behörden von Kuwait und Italien geben Iran die Schuld, während Teheran jede Offensive bestreitet und der Außenminister den Vorfall als verdächtig und wie ein vorgekochtes Rezept bezeichnet. Ein Wasser, das nur zwei Schiffe durchlässt, während Techniker in einem Nachbarland fallen und die andere Seite die Verantwortung bestreitet, ist keine Unterschrift. Es ist der Rand eines Kalenderblatts, das niemand auf dem Tisch liegen lässt, und die Chronik hält fest, dass die Enge den Preis und den Atem trägt, solange die Wiedereröffnung als Aussage und nicht als Tat ankommt und solange die Schläge die Nachbarn treffen, die nicht am Tisch sitzen. <a class=\\\"src\\\" href=\\\"#q1\\\">1</a> <a class=\\\"src\\\" href=\\\"#q2\\\">2</a></p>\n<blockquote>Ein Wasser, das den Atem anhalten lässt, und ein Schlag, der Techniker in einem Nachbarland nimmt, teilen denselben Druck. Das Buch macht aus der einen Meldung keinen freien Weg.\n<p>Was der Kalender als fortgesetzte Enge liest, trägt noch die Erinnerung an die Vermittler, die in den vorangegangenen Wochen Bedingungen gestellt hatten, ohne dass eine Klausel die Schiffe wieder durchließ. Katar und andere Stimmen aus dem Golf hatten die Wiedereröffnung und das Ende der Drohungen verlangt; der amerikanische Präsident hatte den Status quo auf Wunsch der Nachbarn gehalten und weitere große Angriffe für höchst unwahrscheinlich erklärt. Am siebenundzwanzigsten November bleibt davon nur der Bruchteil der Durchfahrten und der neue Schlag in Kuwait, der die Nachbarn trifft, die nicht am Tisch der Vermittlung sitzen. Die Chronik hält fest, dass die Enge den Atem anhalten lässt, solange die sichtbaren Schiffe bei zwei bleiben und die Techniker in der Anlage fallen, während keine Unterschrift die Straße öffnet und die dunklen Fahrten die Zählung weiter unterlaufen.</p>\n</blockquote>\n<p>Was die vorangegangenen Tage als fortgesetzte Beschränkung gelesen hatten, bekommt am Donnerstag und Freitag einen Zuwachs, der die andere Seite der Enge nennt: die Houthis, die Saudi-Arabien und die Anlagen am Wasser. Saudi-Arabien meldet die Zerstörung von fünfzig Houthi-Zielen in Sanaa, Hudaydah und Saada, darunter Waffenlager, Abschussstellen und Kommandozentren, nachdem die andere Seite zuvor das Ölterminal Ras Tanura getroffen hatte, Rauch über dem Wasser stand und Ladungen unterbrochen wurden, und nachdem Abwehrsysteme Raketen und Drohnen über Riad und der Ostprovinz abgefangen hatten. Die Chronik hält fest, dass die Enge nicht nur die Schiffe zählt, die nicht durchkommen, sondern auch die Schläge, die die Küsten und die Terminals treffen, während keine Klausel die Straße öffnet und die Vermittler weiter Bedingungen stellen, die niemand unterschreibt. <a class=\\\"src\\\" href=\\\"#q3\\\">3</a></p>\n<h3>II. Die Stimmen, die den nächsten Schlag nennen</h3>\n<p>Was der elfte November als Tische in der Wüste gelesen hatte, an denen Delegierte wieder saßen und von Garantien und Gefangenen sprachen, während die Fronten nicht stillstanden und über hundertfünfzig Zusammenstöße den Vortag zählten, bekommt am Donnerstag und Freitag einen Zuwachs, der die Warnung und den Appell denselben Tag teilen lässt, ohne dass die Schläge aufhören. Wolodymyr Selenskyj sagt in seiner nächtlichen Ansprache, man habe Informationen über einen neuen Massenschlag, den die andere Seite vorbereite; in den kommenden Tagen solle man auf die Alarme der Raketenbedrohung achten, und was getroffen werde, werde wiederaufgebaut und erwidert. Zur selben Stunde sagt der amerikanische Präsident, er habe in Gesprächen mit Wladimir Putin viel Zeit darauf verwendet, den Rückzug aller militärischen Aggression gegen Gebiete in Europa zu verlangen, in der Hoffnung, dass ein Deal zwischen Russland und der Ukraine schnell geschlossen werden könne; er nennt es ein Blutbad und hält die Tür offen, dass Putin zur G20 in Florida kommen könne, wenn er wolle. Die Gespräche in Abu Dhabi, die Mitte des Monats wieder begonnen hatten, bleiben im Hintergrund; eine neue Runde war vereinbart worden, doch im Fenster des Tages stehen die Warnung und der Appell, während die Drohnen weiterfliegen und die Fronten nicht stillstehen. Eine Stimme, die den nächsten Massenschlag nennt, und eine andere, die den Rückzug verlangt und den Deal als starke Möglichkeit bezeichnet, während die Schläge die Wege nehmen, die die Städte und die Netze teilen, ist kein Waffenstillstand. Sie ist der Rand eines Winters, der den fünften nicht wärmer macht, und die Chronik hält fest, dass die Warnungen wieder geöffnet sind, während die Schläge die Wege nehmen, die die Städte und die Netze teilen. <a class=\\\"src\\\" href=\\\"#q4\\\">4</a></p>\n\n<p>Die Fronten im Osten hören nicht auf, auch wenn die Warnung und der Appell denselben Tag teilen. Die Generalstäbe zählen weiter Zusammenstöße, Drohnen und Raketen, die Infrastruktur und Siedlungen treffen; die Gespräche in Abu Dhabi, die Mitte des Monats wieder begonnen hatten und von humanitären Fragen, Gefangenen und Garantien gesprochen hatten, bleiben im Hintergrund des Fensters, ohne dass eine neue Runde im Tageslicht des siebenundzwanzigsten Novembers sichtbar wird. Eine Warnung, die den Massenschlag schon vor dem Morgen nennt, und ein Appell, der den Rückzug verlangt und den Deal als Möglichkeit bezeichnet, während die Schläge die Wege nehmen, die die Städte und die Netze teilen, lässt die Chronik den Winter nicht wärmer lesen. Sie hält fest, dass die Stimmen wieder geöffnet sind, ohne dass die Fronten stillstehen und ohne dass die fehlenden Sitze an den Tischen der Vermittlung die Schläge unterbrechen.</p>\n<h3>III. Was das Buch nicht verschweigen darf</h3>\n<p>Am Rande, und deshalb leicht zu überlesen, kosten die Sonderstimmen in Neuseeland der National Party zwei Wahlkreise und bringen die Regierungskoalition unter die Mehrheit; die Opportunity Party rückt in die Position des Königsmachers. Der spanische Ökonom Pablo Hernández de Cos wird zum neuen Präsidenten der Europäischen Zentralbank gewählt und folgt auf Christine Lagarde. Ein US-geführtes Konsortium um Eldridge einigt sich auf den Kauf der Auslandsvermögen des russischen Ölkonzerns Lukoil. In Bangladesh bleiben rund vierhundert Textilfabriken geschlossen, weil die Arbeiter den neuen Mindestlohn als unzureichend ablehnen und Autobahnen blockieren. Ein Tanker unter maltesischer Flagge sinkt vor Ibiza und nimmt ein Besatzungsmitglied; in Bangkok explodiert eine Ölanlage und verletzt mindestens neun Menschen. In Niger tötet ein Angriff dreizehn Nationalgardisten, in Nigeria sterben dreißig Menschen bei einem Überfall in Niger State. Die große Politik liebt die Bühne. Das Leben selbst verteilt sich auf die Fußnoten, und keine von ihnen öffnet die Enge oder füllt die fehlenden Sitze oder wärmt den Winter. <a class=\\\"src\\\" href=\\\"#q5\\\">5</a></p>\n<h3>Beschluss des Chronisten</h3>\n<p>Wenn diese Geschichte eine Moral hätte, wäre sie billig. Sie hat keine. Sie hat ein Wasser, das den Atem weiter anhalten lässt, während Techniker in einem Nachbarland fallen und die andere Seite die Verantwortung bestreitet. Sie hat Stimmen, die den nächsten Massenschlag nennen und den Rückzug verlangen, und Fronten, die nicht stillstehen. Sie hat Urnen, die schweigen, und Seeleute und Zivilisten, deren Namen die Chronik nicht füllt.</p>\n<p>Das Weltbuch legt den Finger auf die Enge, in der nur noch zwei Schiffe den Atem finden, und auf die Warnung, die den nächsten Schlag schon vor dem Morgen nennt. Es wartet, ob der Bruchteil die Schiffe wieder durchlässt oder nur ein weiteres Blatt bleibt, das niemand unterschreibt, ob die Stimmen im Osten eine Straße finden oder nur weitere Alarme brauchen, und ob die ruhenden Urnen irgendwann eine Regierung formen oder die nächste Zählung verlangen.</p>"
+}
