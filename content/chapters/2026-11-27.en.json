@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-27",
+  "number": 20,
+  "weekday": "Friday",
+  "title": "The water that still holds its breath, and the voices that name the next blow",
+  "subtitle": "In which the strait lets only two ships pass, while technicians fall in Kuwait and in the east a warning and an appeal share the same day.",
+  "lede": "The twenty-seventh of November 2026 begins with a water that continues to hold its breath, and with a warning that names the next mass strike before the morning.",
+  "readMinutes": 8,
+  "threads": [
+    {
+      "id": "A",
+      "since": "Thread A · since Feb. 2026",
+      "title": "The Iran war and the needle's eye",
+      "summary": "Traffic still a fraction (2 AIS crossings 26 Nov, both outbound tankers; 7-day ~6–7 vs ~85). Kuwait: drone strike kills two Italian Rheinmetall technicians; Iran denies. Saudi destroys 50 Houthi targets after strikes including Ras Tanura. No clause.",
+      "status": "open · tightened"
+    },
+    {
+      "id": "C",
+      "since": "Thread C · since 2022",
+      "title": "The eastern field",
+      "summary": "Zelenskyy warns of impending mass strike. Trump: urged Putin to pull back aggression in Europe, hopes for quick deal; G20 invitation open. Fighting continues.",
+      "status": "ongoing"
+    },
+    {
+      "id": "H",
+      "since": "Thread H · since 3 Oct.",
+      "title": "The horn before the city",
+      "summary": "No new growth. Resting.",
+      "status": "resting"
+    },
+    {
+      "id": "I",
+      "since": "Thread I · since 5 Oct.",
+      "title": "The urn that does not suffice",
+      "summary": "No growth. Resting. Suggest closing.",
+      "status": "resting"
+    },
+    {
+      "id": "J",
+      "since": "Thread J · since 27 Oct.",
+      "title": "The urn in Jerusalem",
+      "summary": "No new growth in the window. Resting.",
+      "status": "resting"
+    }
+  ],
+  "figures": [
+    {
+      "role": "The host who sets the appeal",
+      "name": "Donald Trump",
+      "text": "Says he urged Putin to pull back military aggression in Europe and hopes for a quick deal, while the strikes continue."
+    },
+    {
+      "role": "The voice that names the blow",
+      "name": "Volodymyr Zelenskyy",
+      "text": "Warns of an impending mass strike and says what is hit will be rebuilt and answered."
+    },
+    {
+      "role": "The technicians in the strait",
+      "name": "Two Italian Rheinmetall workers",
+      "text": "Fall in a drone strike in Kuwait that Kuwait and Italy attribute to Iran and that Tehran denies."
+    }
+  ],
+  "sources": [
+    {
+      "id": "q1",
+      "text": "hormuz.now, 26/27 Nov 2026: 2 AIS-visible commercial crossings on the 26th (both outbound tankers), 0 so far on the 27th; status Restricted, 7-day average ~6–7 vs ~85 pre-crisis.",
+      "url": "https://hormuz.now/traffic/2026-11-26"
+    },
+    {
+      "id": "q2",
+      "text": "Reuters / BBC, 26 Nov 2026: Two Italian Rheinmetall technicians killed in Kuwait drone strike; Kuwait and Italy blame Iran, Tehran denies.",
+      "url": "https://www.reuters.com/world/middle-east/two-italian-workers-killed-iranian-strike-kuwait-source-says-2026-11-26/"
+    },
+    {
+      "id": "q3",
+      "text": "Wikipedia Current Events / CNN / AFP, 26 Nov 2026: Saudi destroys 50 Houthi targets; Houthis had earlier hit Ras Tanura among others.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_26"
+    },
+    {
+      "id": "q4",
+      "text": "Al Jazeera / Independent, 26/27 Nov 2026: Zelenskyy warns of mass strike; Trump says he urged Putin to pull back aggression in Europe, hopes for quick deal, G20 open.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back"
+    },
+    {
+      "id": "q5",
+      "text": "Wikipedia Current Events 26/27 Nov 2026: NZ special votes, ECB president, Lukoil assets, Bangladesh, tanker off Ibiza, Niger, etc.",
+      "url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_November_26"
+    }
+  ],
+  "yesterday": {
+    "slug": "2026-11-11",
+    "title": "The breath in the strait and the tables in the sand",
+    "teaser": "A water holds its breath while tables open in the desert and the urns stay silent."
+  },
+  "openTomorrow": "Hormuz without signature · The eastern field · The horn rests · The old urn (close?) · The urn in Jerusalem rests",
+  "body": "<p>There are mornings when the water of a strait continues to hold its breath because only two visible ships still find the old way, both heading out, while in a neighbouring country technicians fall who had been working on air-defence systems, and while in the east one voice names the next mass strike before the morning and another demands the withdrawal of aggression, without the fronts falling silent. The twenty-seventh of November 2026 is such a morning. In the Strait of Hormuz the AIS-visible crossings remain at two on the previous day, both tankers bound for the Gulf of Oman, and none so far on this day; the seven-day average stays below seven against the eighty-five before the crisis, a fraction that no escort and no statement lifts back to the old level. In Kuwait a drone strike hits a facility where Italian technicians for Rheinmetall were working on air-defence systems; two of them die, Kuwait and Italy attribute the attack to Iran, Tehran denies any offensive and calls the incident suspicious. At the same hour Saudi Arabia reports the destruction of fifty Houthi targets in Sanaa, Hudaydah and Saada, after the other side had earlier struck the Ras Tanura oil terminal among others and smoke had stood over the water. In the east the Ukrainian president warns of an impending mass strike and asks for attention to the missile alarms; the American president says he spent time in talks with Putin urging the withdrawal of all military aggression against territories in Europe, in the hope that a deal can be made quickly, and leaves the door open for Putin to attend the G20 if he wishes. At the horn the city still stands under its own uniform without a new letter, the old urn that carried the runoff stays silent, and the urn in Jerusalem, whose blocs fell short of a majority, remains without new growth in the window. The chronicle does not read the day as a single dispatch, but as the pressure that lies on the water and on the warnings, while the counts rest.</p>\n<h3>I. The water that still holds its breath</h3>\n<p>What the eleventh of November had read as a strait in which four visible ships counted the previous day and one the morning, and in which the host declared the war militarily effectively over while the mediators continued to speak, stands on Friday as a continued restriction that the calendar does not resolve and that the new strike in Kuwait tightens further. Two AIS-visible commercial crossings are counted by the independent record on the twenty-sixth of November, both outbound, both tankers, none inbound, and none so far on the twenty-seventh; traffic of the past week remains at about six to seven a day against the eighty-five before the crisis, a fraction that the escort of the American navy does not raise to the old level and that dark transits and a severe threat continue to undercut. Iranian statements still speak of permits and of destroyed navigational aids, while the visible ships hold their breath and the price stays on the water. At the same hour a drone strike in Kuwait hits a facility where two Italian technicians for the German arms firm Rheinmetall were working on air-defence systems; they die, a Kuwaiti and a Pakistani injured are counted, and the authorities of Kuwait and Italy attribute the attack to Iran, while Tehran denies any offensive and the foreign minister calls the incident suspicious and like a pre-cooked recipe. A water that lets only two ships pass, while technicians fall in a neighbouring country and the other side denies responsibility, is no signature. It is the edge of a calendar leaf that no one leaves on the table, and the chronicle holds that the strait carries the price and the breath as long as reopening arrives as statement and not as deed, and as long as the strikes hit neighbours who do not sit at the table. <a class=\\\"src\\\" href=\\\"#q1\\\">1</a> <a class=\\\"src\\\" href=\\\"#q2\\\">2</a></p>\n<blockquote>A water that holds its breath, and a strike that takes technicians in a neighbouring country, share the same pressure. The book does not make a free passage out of the single report.\n<p>What the calendar reads as a continued restriction still carries the memory of the mediators who in the preceding weeks had set conditions without a clause letting the ships through again. Qatar and other voices from the Gulf had demanded the reopening and the end of the threats; the American president had held the status quo at the wish of the neighbours and declared further large attacks highly unlikely. On the twenty-seventh of November only the fraction of the crossings remains of that, and the new strike in Kuwait that hits the neighbours who do not sit at the table of mediation. The chronicle holds that the strait lets the breath hold as long as the visible ships stay at two and the technicians fall in the facility, while no signature opens the way and the dark transits continue to undercut the count.</p>\n</blockquote>\n<p>What the preceding days had read as a continued restriction receives on Thursday and Friday a growth that names the other side of the strait: the Houthis, Saudi Arabia and the installations on the water. Saudi Arabia reports the destruction of fifty Houthi targets in Sanaa, Hudaydah and Saada, including weapons depots, launch sites and command centres, after the other side had earlier struck the Ras Tanura oil terminal, smoke had stood over the water and loadings had been interrupted, and after air defences had intercepted missiles and drones over Riyadh and the Eastern Province. The chronicle holds that the strait does not only count the ships that do not get through, but also the strikes that hit the coasts and the terminals, while no clause opens the way and the mediators continue to set conditions that no one signs. <a class=\\\"src\\\" href=\\\"#q3\\\">3</a></p>\n<h3>II. The voices that name the next blow</h3>\n<p>What the eleventh of November had read as tables in the desert at which delegates sat again and spoke of guarantees and prisoners, while the fronts did not fall silent and more than a hundred and fifty engagements counted the previous day, receives on Thursday and Friday a growth that lets the warning and the appeal share the same day, without the strikes stopping. Volodymyr Zelenskyy says in his nightly address that there is information of a new mass strike the other side is preparing; in the coming days one should pay attention to the missile-threat alarms, and what is hit will be rebuilt and answered. At the same hour the American president says he spent a lot of time in talks with Vladimir Putin urging the withdrawal of all military aggression against territories throughout Europe, in the hope that a deal between Russia and Ukraine can be made quickly; he calls it a bloodbath and leaves the door open that Putin can come to the G20 in Florida if he wants. The talks in Abu Dhabi that had resumed in the middle of the month stay in the background; a new round had been agreed, yet in the window of the day stand the warning and the appeal, while the drones continue to fly and the fronts do not fall silent. A voice that names the next mass strike, and another that demands the withdrawal and calls a deal a strong possibility, while the strikes take the ways that divide the cities and the grids, is no ceasefire. It is the edge of a winter that does not warm the fifth, and the chronicle holds that the warnings are open again, while the strikes take the ways that divide the cities and the grids. <a class=\\\"src\\\" href=\\\"#q4\\\">4</a></p>\n\n<p>The fronts in the east do not fall silent, even when the warning and the appeal share the same day. The general staffs continue to count engagements, drones and missiles that hit infrastructure and settlements; the talks in Abu Dhabi that had resumed in the middle of the month and had spoken of humanitarian questions, prisoners and guarantees stay in the background of the window, without a new round becoming visible in the daylight of the twenty-seventh of November. A warning that names the mass strike before the morning, and an appeal that demands the withdrawal and calls a deal a possibility, while the strikes take the ways that divide the cities and the grids, does not let the chronicle read the winter warmer. It holds that the voices are open again, without the fronts falling silent and without the missing seats at the tables of mediation interrupting the strikes.</p>\n<h3>III. What the book must not conceal</h3>\n<p>At the edge, and therefore easy to overlook, the special votes in New Zealand cost the National Party two electorates and drop the governing coalition below a majority; the Opportunity Party moves into the position of kingmaker. Spanish economist Pablo Hernández de Cos is elected the new president of the European Central Bank, succeeding Christine Lagarde. A US-led consortium around Eldridge agrees to purchase the international assets of Russian oil company Lukoil. In Bangladesh around four hundred garment factories remain closed because workers reject the new minimum wage as insufficient and block highways. A Malta-flagged tanker sinks off Ibiza and takes one crew member; in Bangkok an oil facility explodes and injures at least nine people. In Niger an attack kills thirteen National Guard members, in Nigeria thirty people die in an assault in Niger State. Great politics loves the stage. Life itself is distributed across the footnotes, and none of them opens the strait or fills the missing seats or warms the winter. <a class=\\\"src\\\" href=\\\"#q5\\\">5</a></p>\n<h3>Resolution of the chronicler</h3>\n<p>If this story had a moral, it would be cheap. It has none. It has a water that continues to hold its breath, while technicians fall in a neighbouring country and the other side denies responsibility. It has voices that name the next mass strike and demand withdrawal, and fronts that do not fall silent. It has urns that stay silent, and seafarers and civilians whose names the chronicle does not fill.</p>\n<p>The world book places its finger on the strait in which only two ships still find their breath, and on the warning that names the next blow before the morning. It waits to see whether the fraction will let the ships through again or only remain another leaf that no one signs, whether the voices in the east will find a road or only need further alarms, and whether the resting urns will one day form a government or demand the next count.</p>"
+}
